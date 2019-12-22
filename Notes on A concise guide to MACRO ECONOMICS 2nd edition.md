@@ -36,17 +36,18 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 - **2007-2009** financial crisis and sovereign debt crisis in Europe. US: more loose. Europe: Tighter.
 
 # Chapter 5 GDP Accounting
-## Three measurement approaches
+### Three measurement approaches
 1. Value added
 2. Income
 3. Expenditure: most widely used
-## Basic about expenditure method
-1. $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expenditure + net exports.
-- 
+### Basic about expenditure method
+$GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expenditure + net exports.
+### Depre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzQ2MTYzOCwtODYzMzE3NjA1LC0xOT
-ExMDM5MTg3LDExMDY5MjY1NjcsMjc4MDYxNzQsNTMxNTE2NjM3
-LC02NDk1MzUsMTUwNDQxNTQyOSwxMTE1MDI5MTQzLC0xMjYxNz
-A0MzYzLC0xNjkxODg3NTE0LDkxNjU5MTAzMSwtNjYyMzIwMTUy
-LDEyMTI0MjU3NDAsODAxMTM0MDQ2LDEyMjUxMDczMjVdfQ==
+eyJoaXN0b3J5IjpbMTA5MTc3NjY1OSwtMzczNDYxNjM4LC04Nj
+MzMTc2MDUsLTE5MTEwMzkxODcsMTEwNjkyNjU2NywyNzgwNjE3
+NCw1MzE1MTY2MzcsLTY0OTUzNSwxNTA0NDE1NDI5LDExMTUwMj
+kxNDMsLTEyNjE3MDQzNjMsLTE2OTE4ODc1MTQsOTE2NTkxMDMx
+LC02NjIzMjAxNTIsMTIxMjQyNTc0MCw4MDExMzQwNDYsMTIyNT
+EwNzMyNV19
 -->
