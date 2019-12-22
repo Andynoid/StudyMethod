@@ -20,12 +20,15 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 - Central bank interest rate &uarr; for tighter monetary policy for counter inflation.
 5. Forms of deficits: spending, tax cut.
 ## Expectations and Other Macro variables
-- 
+- expectation can cause bubbles: 1990s internet and 2007 subprime mortgage.
+
+# Chapter 4 Monetary policy in US
+##
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDcxMjM4MzYsOTE2NTkxMDMxLC02Nj
+eyJoaXN0b3J5IjpbLTE2OTE4ODc1MTQsOTE2NTkxMDMxLC02Nj
 IzMjAxNTIsMTIxMjQyNTc0MCw4MDExMzQwNDYsMTIyNTEwNzMy
 NV19
 -->
