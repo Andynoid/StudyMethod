@@ -9,8 +9,8 @@
 $GDP = C + I + G + EX - IM$
 G &uarr; and other stay const. then GDP have to &uarr;
 This case *multiplier* = 1.
-Keynes: $\Delta$GDP = () 
+Keynes: $\Delta$GDP = (Change in deficit spending by gov) $\times$ Income multiplier
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzkyODI0NiwxMjEyNDI1NzQwLDgwMT
+eyJoaXN0b3J5IjpbLTM5NTc3NjE2MiwxMjEyNDI1NzQwLDgwMT
 EzNDA0NiwxMjI1MTA3MzI1XX0=
 -->
