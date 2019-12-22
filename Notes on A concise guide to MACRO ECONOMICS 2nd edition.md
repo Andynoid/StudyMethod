@@ -26,10 +26,8 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 - 1780s and 90s. Early years. Dollar in terms of precious metals.
 
 
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjE3MDQzNjMsLTE2OTE4ODc1MTQsOT
-E2NTkxMDMxLC02NjIzMjAxNTIsMTIxMjQyNTc0MCw4MDExMzQw
-NDYsMTIyNTEwNzMyNV19
+eyJoaXN0b3J5IjpbMTc0MTIxMTM4NSwtMTI2MTcwNDM2MywtMT
+Y5MTg4NzUxNCw5MTY1OTEwMzEsLTY2MjMyMDE1MiwxMjEyNDI1
+NzQwLDgwMTEzNDA0NiwxMjI1MTA3MzI1XX0=
 -->
