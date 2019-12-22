@@ -62,11 +62,13 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 	T-G-Tr is the *government budget surplus*.
 	S is *private savings*
 	IM-EX is* borrowing from aboard*.
+	- To improve investment: reduce con
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTc3OTcxMDEsMTMxMjE2ODMwOCw4OD
-A4NDE4MzIsLTM3MzQ2MTYzOCwtODYzMzE3NjA1LC0xOTExMDM5
-MTg3LDExMDY5MjY1NjcsMjc4MDYxNzQsNTMxNTE2NjM3LC02ND
-k1MzUsMTUwNDQxNTQyOSwxMTE1MDI5MTQzLC0xMjYxNzA0MzYz
-LC0xNjkxODg3NTE0LDkxNjU5MTAzMSwtNjYyMzIwMTUyLDEyMT
-I0MjU3NDAsODAxMTM0MDQ2LDEyMjUxMDczMjVdfQ==
+eyJoaXN0b3J5IjpbMjQ0ODEwMzg0LC0xMjU3Nzk3MTAxLDEzMT
+IxNjgzMDgsODgwODQxODMyLC0zNzM0NjE2MzgsLTg2MzMxNzYw
+NSwtMTkxMTAzOTE4NywxMTA2OTI2NTY3LDI3ODA2MTc0LDUzMT
+UxNjYzNywtNjQ5NTM1LDE1MDQ0MTU0MjksMTExNTAyOTE0Mywt
+MTI2MTcwNDM2MywtMTY5MTg4NzUxNCw5MTY1OTEwMzEsLTY2Mj
+MyMDE1MiwxMjEyNDI1NzQwLDgwMTEzNDA0NiwxMjI1MTA3MzI1
+XX0=
 -->
