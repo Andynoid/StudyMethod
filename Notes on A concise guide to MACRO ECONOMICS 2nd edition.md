@@ -53,11 +53,12 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 
 ### Historical and Cross-country comparison
 1. **Fixed-price method** for calculate real GDP with a base year. 
+	Problems: new goods appear, old good disappear, consuming pattern changes. &larr; use different base year gives difference result.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzMDUyMjI2LC0zNzM0NjE2MzgsLTg2Mz
-MxNzYwNSwtMTkxMTAzOTE4NywxMTA2OTI2NTY3LDI3ODA2MTc0
-LDUzMTUxNjYzNywtNjQ5NTM1LDE1MDQ0MTU0MjksMTExNTAyOT
-E0MywtMTI2MTcwNDM2MywtMTY5MTg4NzUxNCw5MTY1OTEwMzEs
-LTY2MjMyMDE1MiwxMjEyNDI1NzQwLDgwMTEzNDA0NiwxMjI1MT
-A3MzI1XX0=
+eyJoaXN0b3J5IjpbLTE3ODYwNTI2MTIsLTM3MzQ2MTYzOCwtOD
+YzMzE3NjA1LC0xOTExMDM5MTg3LDExMDY5MjY1NjcsMjc4MDYx
+NzQsNTMxNTE2NjM3LC02NDk1MzUsMTUwNDQxNTQyOSwxMTE1MD
+I5MTQzLC0xMjYxNzA0MzYzLC0xNjkxODg3NTE0LDkxNjU5MTAz
+MSwtNjYyMzIwMTUyLDEyMTI0MjU3NDAsODAxMTM0MDQ2LDEyMj
+UxMDczMjVdfQ==
 -->
