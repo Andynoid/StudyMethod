@@ -8,8 +8,9 @@
 
 $GDP = C + I + G + EX - IM$
 G &uarr; and other stay const. then GDP have to &uarr;
+This case *multiplier* = 1.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzM3MTc3Myw4MDExMzQwNDYsMTIyNT
+eyJoaXN0b3J5IjpbMTIxMjQyNTc0MCw4MDExMzQwNDYsMTIyNT
 EwNzMyNV19
 -->
