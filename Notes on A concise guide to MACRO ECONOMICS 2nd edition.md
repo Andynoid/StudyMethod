@@ -1,5 +1,6 @@
 
 > This book is by David A. Moss. 2014. Harvard Business School
+> Read during Nov-Dec 2019.
 # Chapter 1
  ..
 # Chapter 3 Expectations
@@ -36,9 +37,9 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyNjA4NzQwLDI3ODA2MTc0LDUzMTUxNj
-YzNywtNjQ5NTM1LDE1MDQ0MTU0MjksMTExNTAyOTE0MywtMTI2
-MTcwNDM2MywtMTY5MTg4NzUxNCw5MTY1OTEwMzEsLTY2MjMyMD
-E1MiwxMjEyNDI1NzQwLDgwMTEzNDA0NiwxMjI1MTA3MzI1XX0=
+eyJoaXN0b3J5IjpbMTEwNjkyNjU2NywyNzgwNjE3NCw1MzE1MT
+Y2MzcsLTY0OTUzNSwxNTA0NDE1NDI5LDExMTUwMjkxNDMsLTEy
+NjE3MDQzNjMsLTE2OTE4ODc1MTQsOTE2NTkxMDMxLC02NjIzMj
+AxNTIsMTIxMjQyNTc0MCw4MDExMzQwNDYsMTIyNTEwNzMyNV19
 
 -->
