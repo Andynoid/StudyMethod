@@ -20,11 +20,12 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 - Central bank interest rate &uarr; for tighter monetary policy for counter inflation.
 5. Forms of deficits: spending, tax cut.
 ## Expectations and Other Macro variables
-
+- 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2NTkxMDMxLC02NjIzMjAxNTIsMTIxMj
-QyNTc0MCw4MDExMzQwNDYsMTIyNTEwNzMyNV19
+eyJoaXN0b3J5IjpbLTE3MDcxMjM4MzYsOTE2NTkxMDMxLC02Nj
+IzMjAxNTIsMTIxMjQyNTc0MCw4MDExMzQwNDYsMTIyNTEwNzMy
+NV19
 -->
