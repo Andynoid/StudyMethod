@@ -15,7 +15,7 @@ This is an increase in *Nominal GDP* where $GDP = P * Q$
 Idle productive resource &darr;  then Q &uarr;
 If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is overheating
 3. This works in 1960- early 70.
-4. Problems:  
+4. Problems: 
 - Leakage can be small *Ricardian equivalence* 
 -  
 
@@ -23,6 +23,6 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMjkyMTc3NSwxMjEyNDI1NzQwLDgwMT
+eyJoaXN0b3J5IjpbLTk1Njk0MjQ5MSwxMjEyNDI1NzQwLDgwMT
 EzNDA0NiwxMjI1MTA3MzI1XX0=
 -->
