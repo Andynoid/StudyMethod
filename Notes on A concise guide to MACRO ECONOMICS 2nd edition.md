@@ -17,12 +17,12 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 3. This works in 1960- early 70.
 4. Problems: 
 - Leakage can be small *Ricardian equivalence* 
--  
+- *Crowding out* :
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Njk0MjQ5MSwxMjEyNDI1NzQwLDgwMT
+eyJoaXN0b3J5IjpbLTY2MjMyMDE1MiwxMjEyNDI1NzQwLDgwMT
 EzNDA0NiwxMjI1MTA3MzI1XX0=
 -->
