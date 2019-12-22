@@ -26,11 +26,11 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 - 1780s and 90s. **Early years**. Dollar in terms of precious metals. Fixed exchange rate to precious metal.
 - **1800s**:  Gold production not stable.
 - **1913**: Irving Fisher suggests to reduce gold content in dollar to keep const. purchasing power. (didn't adopt)
-- **1914** *Fed* 
+- **1914** *Fed* established. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDQxNTQyOSwxMTE1MDI5MTQzLC0xMj
-YxNzA0MzYzLC0xNjkxODg3NTE0LDkxNjU5MTAzMSwtNjYyMzIw
-MTUyLDEyMTI0MjU3NDAsODAxMTM0MDQ2LDEyMjUxMDczMjVdfQ
-==
+eyJoaXN0b3J5IjpbLTY0OTUzNSwxNTA0NDE1NDI5LDExMTUwMj
+kxNDMsLTEyNjE3MDQzNjMsLTE2OTE4ODc1MTQsOTE2NTkxMDMx
+LC02NjIzMjAxNTIsMTIxMjQyNTc0MCw4MDExMzQwNDYsMTIyNT
+EwNzMyNV19
 -->
