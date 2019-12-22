@@ -29,10 +29,11 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 - **1914** *Fed* established.  40% of gold reserve and $20.67 per ounce gold standard.
 - **Early 1930** Great depression but high discount from fed.
 - **1933** Roosevelt curtailed gold standard.
-- **1970s**
+- **1970s** Dollar *float* on International market.
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwMzI2Nzk3LC02NDk1MzUsMTUwNDQxNT
+eyJoaXN0b3J5IjpbNTMxNTE2NjM3LC02NDk1MzUsMTUwNDQxNT
 QyOSwxMTE1MDI5MTQzLC0xMjYxNzA0MzYzLC0xNjkxODg3NTE0
 LDkxNjU5MTAzMSwtNjYyMzIwMTUyLDEyMTI0MjU3NDAsODAxMT
 M0MDQ2LDEyMjUxMDczMjVdfQ==
