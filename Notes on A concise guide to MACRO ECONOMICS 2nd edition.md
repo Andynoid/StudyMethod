@@ -39,11 +39,10 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 ## Three measurement approaches
 1. Value added
 2. Income
-3. Expenditure
-4.
+3. Expenditure: most widely used
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTkxODA5OCwtODYzMzE3NjA1LC0xOT
+eyJoaXN0b3J5IjpbLTUzMTc1NTQ0NCwtODYzMzE3NjA1LC0xOT
 ExMDM5MTg3LDExMDY5MjY1NjcsMjc4MDYxNzQsNTMxNTE2NjM3
 LC02NDk1MzUsMTUwNDQxNTQyOSwxMTE1MDI5MTQzLC0xMjYxNz
 A0MzYzLC0xNjkxODg3NTE0LDkxNjU5MTAzMSwtNjYyMzIwMTUy
