@@ -36,12 +36,16 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 - **2007-2009** financial crisis and sovereign debt crisis in Europe. US: more loose. Europe: Tighter.
 
 # Chapter 5 GDP Accounting
-
+## Three measurement approaches
+1. Value added
+2. Income
+3. Expenditure
+4.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MzMxNzYwNSwtMTkxMTAzOTE4NywxMT
-A2OTI2NTY3LDI3ODA2MTc0LDUzMTUxNjYzNywtNjQ5NTM1LDE1
-MDQ0MTU0MjksMTExNTAyOTE0MywtMTI2MTcwNDM2MywtMTY5MT
-g4NzUxNCw5MTY1OTEwMzEsLTY2MjMyMDE1MiwxMjEyNDI1NzQw
-LDgwMTEzNDA0NiwxMjI1MTA3MzI1XX0=
+eyJoaXN0b3J5IjpbMTczMTkxODA5OCwtODYzMzE3NjA1LC0xOT
+ExMDM5MTg3LDExMDY5MjY1NjcsMjc4MDYxNzQsNTMxNTE2NjM3
+LC02NDk1MzUsMTUwNDQxNTQyOSwxMTE1MDI5MTQzLC0xMjYxNz
+A0MzYzLC0xNjkxODg3NTE0LDkxNjU5MTAzMSwtNjYyMzIwMTUy
+LDEyMTI0MjU3NDAsODAxMTM0MDQ2LDEyMjUxMDczMjVdfQ==
 -->
