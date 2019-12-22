@@ -34,12 +34,14 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 - **1970s** Dollar *float* on International market.
 - **Early 1980s** Idea of a targeted 2 percent inflation rate. By manipulate the *short term interest rate*.
 - **2007-2009** financial crisis and sovereign debt crisis in Europe. US: more loose. Europe: Tighter.
-- 
+
+# Chapter 5 GDP Accounting
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTEwMzkxODcsMTEwNjkyNjU2NywyNz
-gwNjE3NCw1MzE1MTY2MzcsLTY0OTUzNSwxNTA0NDE1NDI5LDEx
-MTUwMjkxNDMsLTEyNjE3MDQzNjMsLTE2OTE4ODc1MTQsOTE2NT
-kxMDMxLC02NjIzMjAxNTIsMTIxMjQyNTc0MCw4MDExMzQwNDYs
-MTIyNTEwNzMyNV19
+eyJoaXN0b3J5IjpbLTg2MzMxNzYwNSwtMTkxMTAzOTE4NywxMT
+A2OTI2NTY3LDI3ODA2MTc0LDUzMTUxNjYzNywtNjQ5NTM1LDE1
+MDQ0MTU0MjksMTExNTAyOTE0MywtMTI2MTcwNDM2MywtMTY5MT
+g4NzUxNCw5MTY1OTEwMzEsLTY2MjMyMDE1MiwxMjEyNDI1NzQw
+LDgwMTEzNDA0NiwxMjI1MTA3MzI1XX0=
 -->
