@@ -14,10 +14,11 @@ multiplier = 1/ proportional leakage
 This is an increase in *Nominal GDP* where $GDP = P * Q$
 Idle productive resource &darr;  then Q &uarr;
 If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is overheating
+- This works in 1960- early 70.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDcxMzMzOCwxMjEyNDI1NzQwLDgwMT
-EzNDA0NiwxMjI1MTA3MzI1XX0=
+eyJoaXN0b3J5IjpbLTIxMjUzMjU1MjUsMTIxMjQyNTc0MCw4MD
+ExMzQwNDYsMTIyNTEwNzMyNV19
 -->
