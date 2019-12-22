@@ -46,13 +46,13 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 1. Gross domestic production(GDP) **excludes** deduction for depreciation (wear, tear, aging and accidental damage).
 2. NDP (net domestic production) facing the difficulty of measuring depreciation accurately
 ### GDP vs GNP
-1. GNP: *gross national product*
+1. GNP: *gross national product* : sum of output of country's residency regardless of where (maybe oversea)
 2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzczNTQ0MiwtMzczNDYxNjM4LC04Nj
-MzMTc2MDUsLTE5MTEwMzkxODcsMTEwNjkyNjU2NywyNzgwNjE3
-NCw1MzE1MTY2MzcsLTY0OTUzNSwxNTA0NDE1NDI5LDExMTUwMj
-kxNDMsLTEyNjE3MDQzNjMsLTE2OTE4ODc1MTQsOTE2NTkxMDMx
-LC02NjIzMjAxNTIsMTIxMjQyNTc0MCw4MDExMzQwNDYsMTIyNT
-EwNzMyNV19
+eyJoaXN0b3J5IjpbLTE1MzIyMTI1MjIsLTM3MzQ2MTYzOCwtOD
+YzMzE3NjA1LC0xOTExMDM5MTg3LDExMDY5MjY1NjcsMjc4MDYx
+NzQsNTMxNTE2NjM3LC02NDk1MzUsMTUwNDQxNTQyOSwxMTE1MD
+I5MTQzLC0xMjYxNzA0MzYzLC0xNjkxODg3NTE0LDkxNjU5MTAz
+MSwtNjYyMzIwMTUyLDEyMTI0MjU3NDAsODAxMTM0MDQ2LDEyMj
+UxMDczMjVdfQ==
 -->
