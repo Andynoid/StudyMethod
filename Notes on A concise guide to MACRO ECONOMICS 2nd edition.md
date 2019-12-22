@@ -51,12 +51,13 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 3. Some case GNP << GDP for some countries. (returns are paid to foreign capitals.
 	Some examples: 2011 Luxembourg. GNP = 0.8GDP; Ireland: GNP = 0.72GDP.
 
-### Historical
+### Historical and Cross-country comparison
+1. Fix
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDM5MDkxMCwtMzczNDYxNjM4LC04Nj
-MzMTc2MDUsLTE5MTEwMzkxODcsMTEwNjkyNjU2NywyNzgwNjE3
-NCw1MzE1MTY2MzcsLTY0OTUzNSwxNTA0NDE1NDI5LDExMTUwMj
-kxNDMsLTEyNjE3MDQzNjMsLTE2OTE4ODc1MTQsOTE2NTkxMDMx
-LC02NjIzMjAxNTIsMTIxMjQyNTc0MCw4MDExMzQwNDYsMTIyNT
-EwNzMyNV19
+eyJoaXN0b3J5IjpbLTExMDcyNTI3OTEsLTM3MzQ2MTYzOCwtOD
+YzMzE3NjA1LC0xOTExMDM5MTg3LDExMDY5MjY1NjcsMjc4MDYx
+NzQsNTMxNTE2NjM3LC02NDk1MzUsMTUwNDQxNTQyOSwxMTE1MD
+I5MTQzLC0xMjYxNzA0MzYzLC0xNjkxODg3NTE0LDkxNjU5MTAz
+MSwtNjYyMzIwMTUyLDEyMTI0MjU3NDAsODAxMTM0MDQ2LDEyMj
+UxMDczMjVdfQ==
 -->
