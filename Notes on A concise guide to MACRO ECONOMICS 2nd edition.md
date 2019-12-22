@@ -47,9 +47,10 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 2. NDP (net domestic production) facing the difficulty of measuring depreciation accurately
 ### GDP vs GNP
 1. GNP: *gross national product* : sum of output of country's residency regardless of where (maybe oversea)
-2. 
+2. GNI(income) is also used.
+3. Some case GNP << GDP for some countries. (returns are paid to foreign capitals) some e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzIyMTI1MjIsLTM3MzQ2MTYzOCwtOD
+eyJoaXN0b3J5IjpbLTE2MDg5MzExOTUsLTM3MzQ2MTYzOCwtOD
 YzMzE3NjA1LC0xOTExMDM5MTg3LDExMDY5MjY1NjcsMjc4MDYx
 NzQsNTMxNTE2NjM3LC02NDk1MzUsMTUwNDQxNTQyOSwxMTE1MD
 I5MTQzLC0xMjYxNzA0MzYzLC0xNjkxODg3NTE0LDkxNjU5MTAz
