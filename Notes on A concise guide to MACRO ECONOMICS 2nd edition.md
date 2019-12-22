@@ -48,12 +48,13 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 ### GDP vs GNP
 1. GNP: *gross national product* : sum of output of country's residency regardless of where (maybe oversea)
 2. GNI(income) is also used.
-3. Some case GNP << GDP for some countries. (returns are paid to foreign capitals) some e
+3. Some case GNP << GDP for some countries. (returns are paid to foreign capitals.
+	Some examples: 2011 luxemburg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg5MzExOTUsLTM3MzQ2MTYzOCwtOD
-YzMzE3NjA1LC0xOTExMDM5MTg3LDExMDY5MjY1NjcsMjc4MDYx
-NzQsNTMxNTE2NjM3LC02NDk1MzUsMTUwNDQxNTQyOSwxMTE1MD
-I5MTQzLC0xMjYxNzA0MzYzLC0xNjkxODg3NTE0LDkxNjU5MTAz
-MSwtNjYyMzIwMTUyLDEyMTI0MjU3NDAsODAxMTM0MDQ2LDEyMj
-UxMDczMjVdfQ==
+eyJoaXN0b3J5IjpbMTE1NDg1NjExNywtMzczNDYxNjM4LC04Nj
+MzMTc2MDUsLTE5MTEwMzkxODcsMTEwNjkyNjU2NywyNzgwNjE3
+NCw1MzE1MTY2MzcsLTY0OTUzNSwxNTA0NDE1NDI5LDExMTUwMj
+kxNDMsLTEyNjE3MDQzNjMsLTE2OTE4ODc1MTQsOTE2NTkxMDMx
+LC02NjIzMjAxNTIsMTIxMjQyNTc0MCw4MDExMzQwNDYsMTIyNT
+EwNzMyNV19
 -->
