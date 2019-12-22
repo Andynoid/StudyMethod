@@ -30,11 +30,11 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 - **Early 1930** Great depression but high discount from fed.
 - **1933** Roosevelt curtailed gold standard.
 - **1970s** Dollar *float* on International market.
-- 
+- **early 1980s** Idea of a targeted 2 percent inflation rate
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMxNTE2NjM3LC02NDk1MzUsMTUwNDQxNT
-QyOSwxMTE1MDI5MTQzLC0xMjYxNzA0MzYzLC0xNjkxODg3NTE0
-LDkxNjU5MTAzMSwtNjYyMzIwMTUyLDEyMTI0MjU3NDAsODAxMT
-M0MDQ2LDEyMjUxMDczMjVdfQ==
+eyJoaXN0b3J5IjpbLTE0NTM2ODExNzEsNTMxNTE2NjM3LC02ND
+k1MzUsMTUwNDQxNTQyOSwxMTE1MDI5MTQzLC0xMjYxNzA0MzYz
+LC0xNjkxODg3NTE0LDkxNjU5MTAzMSwtNjYyMzIwMTUyLDEyMT
+I0MjU3NDAsODAxMTM0MDQ2LDEyMjUxMDczMjVdfQ==
 -->
