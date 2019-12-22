@@ -12,9 +12,9 @@ This case *multiplier* = 1.
 - Keynes: $\Delta$GDP = (Change in deficit spending by gov) $\times$ Income multiplier
 multiplier = 1/ proportional leakage
 This is an increase in *Nominal GDP* where $GDP = P * Q$
-
+Idle 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTM5NzMwLDEyMTI0MjU3NDAsODAxMT
-M0MDQ2LDEyMjUxMDczMjVdfQ==
+eyJoaXN0b3J5IjpbLTQ2OTEyNTU4MiwxMjEyNDI1NzQwLDgwMT
+EzNDA0NiwxMjI1MTA3MzI1XX0=
 -->
