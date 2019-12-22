@@ -43,9 +43,10 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 ### Basic about expenditure method
 $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expenditure + net exports.
 ### Depreciation
-1. Gross domestic production(GDP) **excludes** deduction for depreciation (wear and tear
+1. Gross domestic production(GDP) **excludes** deduction for depreciation (wear, tear, aging and accidental damage).
+2. NDP (net domestica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTE5Nzg0NjAsLTM3MzQ2MTYzOCwtOD
+eyJoaXN0b3J5IjpbLTEzMzcyNDc0NjQsLTM3MzQ2MTYzOCwtOD
 YzMzE3NjA1LC0xOTExMDM5MTg3LDExMDY5MjY1NjcsMjc4MDYx
 NzQsNTMxNTE2NjM3LC02NDk1MzUsMTUwNDQxNTQyOSwxMTE1MD
 I5MTQzLC0xMjYxNzA0MzYzLC0xNjkxODg3NTE0LDkxNjU5MTAz
