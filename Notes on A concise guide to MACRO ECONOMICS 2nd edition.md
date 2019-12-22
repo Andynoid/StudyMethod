@@ -49,7 +49,7 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 1. GNP: *gross national product* : sum of output of country's residency regardless of where (maybe oversea)
 2. GNI(income) is also used.
 3. Some case GNP << GDP for some countries. (returns are paid to foreign capitals.
-	Some examples: 2011 Luxembourg. GNP = 0.8GDP; Ireland: GNP = 0.72GDP.
+	> 2011 Luxembourg. GNP = 0.8GDP; Ireland: GNP = 0.72GDP.
 
 ### Historical and Cross-country comparison
 1. **Fixed-price method** for calculate real GDP with a base year. 
@@ -63,9 +63,10 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 	S is *private savings*
 	IM-EX is* borrowing from aboard*.
 	- To improve investment: reduce consumption/increase tax/increase import.
-	- But, a > 5% GDP of current account deficit is red flag for unsustainable eco.
+	- But, a > 5% GDP of current account deficit is red flag for unsustainable eco. 
+	> Maxico in 1990.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk1MDM4OTcsLTEyNTc3OTcxMDEsMT
+eyJoaXN0b3J5IjpbLTIwMTkzNjUyNTEsLTEyNTc3OTcxMDEsMT
 MxMjE2ODMwOCw4ODA4NDE4MzIsLTM3MzQ2MTYzOCwtODYzMzE3
 NjA1LC0xOTExMDM5MTg3LDExMDY5MjY1NjcsMjc4MDYxNzQsNT
 MxNTE2NjM3LC02NDk1MzUsMTUwNDQxNTQyOSwxMTE1MDI5MTQz
