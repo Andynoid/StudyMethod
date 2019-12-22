@@ -6,14 +6,15 @@
 ### Fiscal policy
 1. Keynes: *expansionary fiscal policy*
 
-$GDP = C + I + G + EX - IM$
+- $GDP = C + I + G + EX - IM$
 G &uarr; and other stay const. then GDP have to &uarr;
 This case *multiplier* = 1.
-Keynes: $\Delta$GDP = (Change in deficit spending by gov) $\times$ Income multiplier
+- Keynes: $\Delta$GDP = (Change in deficit spending by gov) $\times$ Income multiplier
 multiplier = 1/ proportional leakage
-This is an increase in *Nominal GDP*
+This is an increase in *Nominal GDP* where $GDP = P * Q$
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Mjc3NTEwMiwxMjEyNDI1NzQwLDgwMT
-EzNDA0NiwxMjI1MTA3MzI1XX0=
+eyJoaXN0b3J5IjpbMjA0MTM5NzMwLDEyMTI0MjU3NDAsODAxMT
+M0MDQ2LDEyMjUxMDczMjVdfQ==
 -->
