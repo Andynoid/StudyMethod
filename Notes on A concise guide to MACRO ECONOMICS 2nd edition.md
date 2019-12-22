@@ -56,12 +56,12 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 	Problems: new goods appear, old good disappear, consuming pattern changes. &larr; use different base year gives difference result.
 	Improvement 1996 US: *chained method*. Previous year used as base year of next year. (**By product**: components of GDP no longer sums to real GDP.)
 2. Difference in Purchasing power: **Purchasing power parity**.
-	
+	Use a price in a common country (such as US).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTgwNTI0OCwtMzczNDYxNjM4LC04Nj
-MzMTc2MDUsLTE5MTEwMzkxODcsMTEwNjkyNjU2NywyNzgwNjE3
-NCw1MzE1MTY2MzcsLTY0OTUzNSwxNTA0NDE1NDI5LDExMTUwMj
-kxNDMsLTEyNjE3MDQzNjMsLTE2OTE4ODc1MTQsOTE2NTkxMDMx
-LC02NjIzMjAxNTIsMTIxMjQyNTc0MCw4MDExMzQwNDYsMTIyNT
-EwNzMyNV19
+eyJoaXN0b3J5IjpbODgwODQxODMyLC0zNzM0NjE2MzgsLTg2Mz
+MxNzYwNSwtMTkxMTAzOTE4NywxMTA2OTI2NTY3LDI3ODA2MTc0
+LDUzMTUxNjYzNywtNjQ5NTM1LDE1MDQ0MTU0MjksMTExNTAyOT
+E0MywtMTI2MTcwNDM2MywtMTY5MTg4NzUxNCw5MTY1OTEwMzEs
+LTY2MjMyMDE1MiwxMjEyNDI1NzQwLDgwMTEzNDA0NiwxMjI1MT
+A3MzI1XX0=
 -->
