@@ -18,12 +18,13 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 4. Problems: 
 - Leakage can be small *Ricardian equivalence* 
 - *Crowding out* :  Interest rate &uarr;
-- 
+- Central bank interest rate &uarr; for tighter monetary policy for counter inflation.
+5. 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDkzOTQzNTIsLTY2MjMyMDE1MiwxMj
-EyNDI1NzQwLDgwMTEzNDA0NiwxMjI1MTA3MzI1XX0=
+eyJoaXN0b3J5IjpbMTgzNTU0MTQwMSwtNjYyMzIwMTUyLDEyMT
+I0MjU3NDAsODAxMTM0MDQ2LDEyMjUxMDczMjVdfQ==
 -->
