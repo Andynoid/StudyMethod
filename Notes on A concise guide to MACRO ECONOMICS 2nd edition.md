@@ -35,11 +35,11 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 - **Early 1980s** Idea of a targeted 2 percent inflation rate. By manipulate the *short term interest rate*.
 - **2007-2009** financial crisis and sovereign debt crisis in Europe. US: more loose. Europe: Tighter.
 - 
-
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNjkyNjU2NywyNzgwNjE3NCw1MzE1MT
-Y2MzcsLTY0OTUzNSwxNTA0NDE1NDI5LDExMTUwMjkxNDMsLTEy
-NjE3MDQzNjMsLTE2OTE4ODc1MTQsOTE2NTkxMDMxLC02NjIzMj
-AxNTIsMTIxMjQyNTc0MCw4MDExMzQwNDYsMTIyNTEwNzMyNV19
-
+eyJoaXN0b3J5IjpbLTE5MTEwMzkxODcsMTEwNjkyNjU2NywyNz
+gwNjE3NCw1MzE1MTY2MzcsLTY0OTUzNSwxNTA0NDE1NDI5LDEx
+MTUwMjkxNDMsLTEyNjE3MDQzNjMsLTE2OTE4ODc1MTQsOTE2NT
+kxMDMxLC02NjIzMjAxNTIsMTIxMjQyNTc0MCw4MDExMzQwNDYs
+MTIyNTEwNzMyNV19
 -->
