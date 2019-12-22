@@ -42,12 +42,13 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 3. Expenditure: most widely used
 ### Basic about expenditure method
 $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expenditure + net exports.
-### Depre
+### Depreciation
+1. Gross domestic production(GDP) **excludes** deduction for depreciation (wear and tear
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTc3NjY1OSwtMzczNDYxNjM4LC04Nj
-MzMTc2MDUsLTE5MTEwMzkxODcsMTEwNjkyNjU2NywyNzgwNjE3
-NCw1MzE1MTY2MzcsLTY0OTUzNSwxNTA0NDE1NDI5LDExMTUwMj
-kxNDMsLTEyNjE3MDQzNjMsLTE2OTE4ODc1MTQsOTE2NTkxMDMx
-LC02NjIzMjAxNTIsMTIxMjQyNTc0MCw4MDExMzQwNDYsMTIyNT
-EwNzMyNV19
+eyJoaXN0b3J5IjpbLTEwNTE5Nzg0NjAsLTM3MzQ2MTYzOCwtOD
+YzMzE3NjA1LC0xOTExMDM5MTg3LDExMDY5MjY1NjcsMjc4MDYx
+NzQsNTMxNTE2NjM3LC02NDk1MzUsMTUwNDQxNTQyOSwxMTE1MD
+I5MTQzLC0xMjYxNzA0MzYzLC0xNjkxODg3NTE0LDkxNjU5MTAz
+MSwtNjYyMzIwMTUyLDEyMTI0MjU3NDAsODAxMTM0MDQ2LDEyMj
+UxMDczMjVdfQ==
 -->
