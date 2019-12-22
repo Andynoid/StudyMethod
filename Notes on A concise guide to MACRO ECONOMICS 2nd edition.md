@@ -49,9 +49,11 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 1. GNP: *gross national product* : sum of output of country's residency regardless of where (maybe oversea)
 2. GNI(income) is also used.
 3. Some case GNP << GDP for some countries. (returns are paid to foreign capitals.
-	Some examples: 2011 luxemburg
+	Some examples: 2011 Luxembourg. GNP = 0.8GDP; Ireland: GNP = 0.72GDP.
+
+### Historical
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDg1NjExNywtMzczNDYxNjM4LC04Nj
+eyJoaXN0b3J5IjpbMTA0NDM5MDkxMCwtMzczNDYxNjM4LC04Nj
 MzMTc2MDUsLTE5MTEwMzkxODcsMTEwNjkyNjU2NywyNzgwNjE3
 NCw1MzE1MTY2MzcsLTY0OTUzNSwxNTA0NDE1NDI5LDExMTUwMj
 kxNDMsLTEyNjE3MDQzNjMsLTE2OTE4ODc1MTQsOTE2NTkxMDMx
