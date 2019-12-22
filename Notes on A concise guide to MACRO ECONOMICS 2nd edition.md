@@ -31,10 +31,11 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 - **1933** Roosevelt curtailed gold standard.
 - **1970s** Dollar *float* on International market.
 - **early 1980s** Idea of a targeted 2 percent inflation rate
+- **2007-2009**financial crisis and sovereign debt 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTM2ODExNzEsNTMxNTE2NjM3LC02ND
-k1MzUsMTUwNDQxNTQyOSwxMTE1MDI5MTQzLC0xMjYxNzA0MzYz
-LC0xNjkxODg3NTE0LDkxNjU5MTAzMSwtNjYyMzIwMTUyLDEyMT
-I0MjU3NDAsODAxMTM0MDQ2LDEyMjUxMDczMjVdfQ==
+eyJoaXN0b3J5IjpbLTMyNDU3NDM1OSw1MzE1MTY2MzcsLTY0OT
+UzNSwxNTA0NDE1NDI5LDExMTUwMjkxNDMsLTEyNjE3MDQzNjMs
+LTE2OTE4ODc1MTQsOTE2NTkxMDMxLC02NjIzMjAxNTIsMTIxMj
+QyNTc0MCw4MDExMzQwNDYsMTIyNTEwNzMyNV19
 -->
