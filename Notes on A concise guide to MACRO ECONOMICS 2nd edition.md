@@ -10,7 +10,8 @@ $GDP = C + I + G + EX - IM$
 G &uarr; and other stay const. then GDP have to &uarr;
 This case *multiplier* = 1.
 Keynes: $\Delta$GDP = (Change in deficit spending by gov) $\times$ Income multiplier
+multiplier = 1 $\frac$ proportion leakage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTc3NjE2MiwxMjEyNDI1NzQwLDgwMT
-EzNDA0NiwxMjI1MTA3MzI1XX0=
+eyJoaXN0b3J5IjpbLTExNDgxODM2NTUsMTIxMjQyNTc0MCw4MD
+ExMzQwNDYsMTIyNTEwNzMyNV19
 -->
