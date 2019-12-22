@@ -57,13 +57,13 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 	Improvement 1996 US: *chained method*. Previous year used as base year of next year. (*By product*: components of GDP no longer sums to real GDP.)
 2. Difference in Purchasing power: **Purchasing power parity**.
 	Use a price in a common country (such as US).
-3. Investment component:
+3. How investment is funded:
 	$I = S + (T-G-Tr) + (IM-EX)$
-	T-G-Tr is the government budget surplus.
-	S is private savings
-	
+	T-G-Tr is the *government budget surplus*.
+	S is *private savings*
+	IM-EX is* borrowing from aboard*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQxOTcwNzIsMTMxMjE2ODMwOCw4OD
+eyJoaXN0b3J5IjpbLTEyNTc3OTcxMDEsMTMxMjE2ODMwOCw4OD
 A4NDE4MzIsLTM3MzQ2MTYzOCwtODYzMzE3NjA1LC0xOTExMDM5
 MTg3LDExMDY5MjY1NjcsMjc4MDYxNzQsNTMxNTE2NjM3LC02ND
 k1MzUsMTUwNDQxNTQyOSwxMTE1MDI5MTQzLC0xMjYxNzA0MzYz
