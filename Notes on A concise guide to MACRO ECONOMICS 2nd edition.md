@@ -7,8 +7,9 @@
 1. Keynes: *expansionary fiscal policy*
 
 $GDP = C + I + G + EX - IM$
-G &rarr; and other stay
+G &uarr; and other stay const. then GDP have to &uarr;
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjYyNDIwMyw4MDExMzQwNDYsMTIyNT
+eyJoaXN0b3J5IjpbLTU1MzM3MTc3Myw4MDExMzQwNDYsMTIyNT
 EwNzMyNV19
 -->
