@@ -4,8 +4,7 @@
 # Chapter 3 Expectations
 ## Expectations and Output
 ### Fiscal policy
-#### 1. Keynes: *expansionary fiscal policy*
-
+#### Keynes: *expansionary fiscal policy*
 1. $GDP = C + I + G + EX - IM$
 G &uarr; and other stay const. then GDP have to &uarr;
 This case *multiplier* = 1.
@@ -19,12 +18,13 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 - Leakage can be small *Ricardian equivalence* 
 - *Crowding out* :  Interest rate &uarr;
 - Central bank interest rate &uarr; for tighter monetary policy for counter inflation.
-5. 
+5. Forms of deficits: spending, tax cut.
+## Expectations and Other Macro variables
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTU0MTQwMSwtNjYyMzIwMTUyLDEyMT
-I0MjU3NDAsODAxMTM0MDQ2LDEyMjUxMDczMjVdfQ==
+eyJoaXN0b3J5IjpbOTE2NTkxMDMxLC02NjIzMjAxNTIsMTIxMj
+QyNTc0MCw4MDExMzQwNDYsMTIyNTEwNzMyNV19
 -->
