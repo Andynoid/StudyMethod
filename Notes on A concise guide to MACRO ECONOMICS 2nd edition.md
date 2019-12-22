@@ -23,11 +23,11 @@ If Idle productive resource = 0, then P &uarr; and GDP keeps &uarr;. This is ove
 - expectation can cause bubbles: 1990s internet and 2007 subprime mortgage.
 
 # Chapter 4 Monetary policy in US
-- 1780s and 90s. Early years. Dollar in terms of precious metals.
-
+- 1780s and 90s. **Early years**. Dollar in terms of precious metals.
+- **1800s**:  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTIxMTM4NSwtMTI2MTcwNDM2MywtMT
+eyJoaXN0b3J5IjpbLTU2NzA1NTYyNCwtMTI2MTcwNDM2MywtMT
 Y5MTg4NzUxNCw5MTY1OTEwMzEsLTY2MjMyMDE1MiwxMjEyNDI1
 NzQwLDgwMTEzNDA0NiwxMjI1MTA3MzI1XX0=
 -->
