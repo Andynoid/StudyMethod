@@ -78,13 +78,13 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 - *Purchasing power parity*: inflation leads to currency deprecation
 - Interest rate &uarr; leads to exchange rate &uarr;
 - In all, exchange rate is **unpredictable**!
-- 
+- Exchange rate is subject to too much 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk2MDc3NzgsMTE1NTk5OTMxNSwxOD
-YyODc2Nzg3LDczMzQ3MjY0NSwtMTgyNjYxNTE5NCwxNzUzMTQx
-MzM2LC0yMDE5MzY1MjUxLC0xMjU3Nzk3MTAxLDEzMTIxNjgzMD
-gsODgwODQxODMyLC0zNzM0NjE2MzgsLTg2MzMxNzYwNSwtMTkx
-MTAzOTE4NywxMTA2OTI2NTY3LDI3ODA2MTc0LDUzMTUxNjYzNy
-wtNjQ5NTM1LDE1MDQ0MTU0MjksMTExNTAyOTE0MywtMTI2MTcw
-NDM2M119
+eyJoaXN0b3J5IjpbMTM2MzkwNTY0NSwxMTU1OTk5MzE1LDE4Nj
+I4NzY3ODcsNzMzNDcyNjQ1LC0xODI2NjE1MTk0LDE3NTMxNDEz
+MzYsLTIwMTkzNjUyNTEsLTEyNTc3OTcxMDEsMTMxMjE2ODMwOC
+w4ODA4NDE4MzIsLTM3MzQ2MTYzOCwtODYzMzE3NjA1LC0xOTEx
+MDM5MTg3LDExMDY5MjY1NjcsMjc4MDYxNzQsNTMxNTE2NjM3LC
+02NDk1MzUsMTUwNDQxNTQyOSwxMTE1MDI5MTQzLC0xMjYxNzA0
+MzYzXX0=
 -->
