@@ -78,9 +78,10 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 - *Purchasing power parity*: inflation leads to currency deprecation
 - Interest rate &uarr; leads to exchange rate &uarr;
 - In all, exchange rate is **unpredictable**!
-- Exchange rate is subject to too much 
+- Exchange rate is subject to too much factors at the same time: foreign demand, interesting rate, inflation...
+- Summary: Interest rate for short term move
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzkwNTY0NSwxMTU1OTk5MzE1LDE4Nj
+eyJoaXN0b3J5IjpbMTU2OTI1ODA0NCwxMTU1OTk5MzE1LDE4Nj
 I4NzY3ODcsNzMzNDcyNjQ1LC0xODI2NjE1MTk0LDE3NTMxNDEz
 MzYsLTIwMTkzNjUyNTEsLTEyNTc3OTcxMDEsMTMxMjE2ODMwOC
 w4ODA4NDE4MzIsLTM3MzQ2MTYzOCwtODYzMzE3NjA1LC0xOTEx
