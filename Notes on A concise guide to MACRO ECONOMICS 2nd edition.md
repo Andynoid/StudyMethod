@@ -74,13 +74,13 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 > 中国2018 BOP [http://m.safe.gov.cn/safe/file/file/20190329/bdcf1afe0d5d41838f9f9554721494c6.pdf](http://m.safe.gov.cn/safe/file/file/20190329/bdcf1afe0d5d41838f9f9554721494c6.pdf)
 
 # Chapter 7 Exchange Rate
-- sustained current account deficits a
+- sustained current account deficits appears to be more associated with long-term currency depreciation than long-term appreciation.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTA3MTM0NzQsMTE1NTk5OTMxNSwxOD
-YyODc2Nzg3LDczMzQ3MjY0NSwtMTgyNjYxNTE5NCwxNzUzMTQx
-MzM2LC0yMDE5MzY1MjUxLC0xMjU3Nzk3MTAxLDEzMTIxNjgzMD
-gsODgwODQxODMyLC0zNzM0NjE2MzgsLTg2MzMxNzYwNSwtMTkx
-MTAzOTE4NywxMTA2OTI2NTY3LDI3ODA2MTc0LDUzMTUxNjYzNy
-wtNjQ5NTM1LDE1MDQ0MTU0MjksMTExNTAyOTE0MywtMTI2MTcw
-NDM2M119
+eyJoaXN0b3J5IjpbMTYyMDgxNDMwLDExNTU5OTkzMTUsMTg2Mj
+g3Njc4Nyw3MzM0NzI2NDUsLTE4MjY2MTUxOTQsMTc1MzE0MTMz
+NiwtMjAxOTM2NTI1MSwtMTI1Nzc5NzEwMSwxMzEyMTY4MzA4LD
+g4MDg0MTgzMiwtMzczNDYxNjM4LC04NjMzMTc2MDUsLTE5MTEw
+MzkxODcsMTEwNjkyNjU2NywyNzgwNjE3NCw1MzE1MTY2MzcsLT
+Y0OTUzNSwxNTA0NDE1NDI5LDExMTUwMjkxNDMsLTEyNjE3MDQz
+NjNdfQ==
 -->
