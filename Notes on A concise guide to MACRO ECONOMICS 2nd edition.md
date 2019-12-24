@@ -69,12 +69,14 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 # Chapter 6 BOP
 - Credit and debit on a BOP must add up to zero.
 - Every source of fund is a credit, every use of fund is debit
+- Asset represents domestic claim on foreigners, Liability represents foreign claim on domestics.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDAxOTQ4MTUsLTE4MjY2MTUxOTQsMT
-c1MzE0MTMzNiwtMjAxOTM2NTI1MSwtMTI1Nzc5NzEwMSwxMzEy
-MTY4MzA4LDg4MDg0MTgzMiwtMzczNDYxNjM4LC04NjMzMTc2MD
-UsLTE5MTEwMzkxODcsMTEwNjkyNjU2NywyNzgwNjE3NCw1MzE1
-MTY2MzcsLTY0OTUzNSwxNTA0NDE1NDI5LDExMTUwMjkxNDMsLT
-EyNjE3MDQzNjMsLTE2OTE4ODc1MTQsOTE2NTkxMDMxLC02NjIz
-MjAxNTJdfQ==
+eyJoaXN0b3J5IjpbNzMzNDcyNjQ1LC0xODI2NjE1MTk0LDE3NT
+MxNDEzMzYsLTIwMTkzNjUyNTEsLTEyNTc3OTcxMDEsMTMxMjE2
+ODMwOCw4ODA4NDE4MzIsLTM3MzQ2MTYzOCwtODYzMzE3NjA1LC
+0xOTExMDM5MTg3LDExMDY5MjY1NjcsMjc4MDYxNzQsNTMxNTE2
+NjM3LC02NDk1MzUsMTUwNDQxNTQyOSwxMTE1MDI5MTQzLC0xMj
+YxNzA0MzYzLC0xNjkxODg3NTE0LDkxNjU5MTAzMSwtNjYyMzIw
+MTUyXX0=
 -->
