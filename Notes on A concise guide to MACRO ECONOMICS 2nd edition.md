@@ -68,13 +68,13 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 	
 # Chapter 6 BOP
 - Credit and debit on a BOP must add up to zero.
-- Every source of fund is a credit, ev
+- Every source of fund is a credit, every use of fund is debit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI3NzgzNCwtMTgyNjYxNTE5NCwxNz
-UzMTQxMzM2LC0yMDE5MzY1MjUxLC0xMjU3Nzk3MTAxLDEzMTIx
-NjgzMDgsODgwODQxODMyLC0zNzM0NjE2MzgsLTg2MzMxNzYwNS
-wtMTkxMTAzOTE4NywxMTA2OTI2NTY3LDI3ODA2MTc0LDUzMTUx
-NjYzNywtNjQ5NTM1LDE1MDQ0MTU0MjksMTExNTAyOTE0MywtMT
-I2MTcwNDM2MywtMTY5MTg4NzUxNCw5MTY1OTEwMzEsLTY2MjMy
-MDE1Ml19
+eyJoaXN0b3J5IjpbLTE1NDAxOTQ4MTUsLTE4MjY2MTUxOTQsMT
+c1MzE0MTMzNiwtMjAxOTM2NTI1MSwtMTI1Nzc5NzEwMSwxMzEy
+MTY4MzA4LDg4MDg0MTgzMiwtMzczNDYxNjM4LC04NjMzMTc2MD
+UsLTE5MTEwMzkxODcsMTEwNjkyNjU2NywyNzgwNjE3NCw1MzE1
+MTY2MzcsLTY0OTUzNSwxNTA0NDE1NDI5LDExMTUwMjkxNDMsLT
+EyNjE3MDQzNjMsLTE2OTE4ODc1MTQsOTE2NTkxMDMxLC02NjIz
+MjAxNTJdfQ==
 -->
