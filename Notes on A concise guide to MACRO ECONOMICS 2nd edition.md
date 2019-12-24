@@ -71,13 +71,16 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 - Every source of fund is a credit, every use of fund is debit
 - Asset represents domestic claim on foreigners, Liability represents foreign claim on domestics.
 
->  [http://m.safe.gov.cn/safe/file/file/20190329/bdcf1afe0d5d41838f9f9554721494c6.pdf](http://m.safe.gov.cn/safe/file/file/20190329/bdcf1afe0d5d41838f9f9554721494c6.pdf)
+> 中国2018 BOP [http://m.safe.gov.cn/safe/file/file/20190329/bdcf1afe0d5d41838f9f9554721494c6.pdf](http://m.safe.gov.cn/safe/file/file/20190329/bdcf1afe0d5d41838f9f9554721494c6.pdf)
+
+# Chapter 7 Exchange rate
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyMzYwNjk1LDczMzQ3MjY0NSwtMTgyNj
-YxNTE5NCwxNzUzMTQxMzM2LC0yMDE5MzY1MjUxLC0xMjU3Nzk3
-MTAxLDEzMTIxNjgzMDgsODgwODQxODMyLC0zNzM0NjE2MzgsLT
-g2MzMxNzYwNSwtMTkxMTAzOTE4NywxMTA2OTI2NTY3LDI3ODA2
-MTc0LDUzMTUxNjYzNywtNjQ5NTM1LDE1MDQ0MTU0MjksMTExNT
-AyOTE0MywtMTI2MTcwNDM2MywtMTY5MTg4NzUxNCw5MTY1OTEw
-MzFdfQ==
+eyJoaXN0b3J5IjpbMTg2Mjg3Njc4Nyw3MzM0NzI2NDUsLTE4Mj
+Y2MTUxOTQsMTc1MzE0MTMzNiwtMjAxOTM2NTI1MSwtMTI1Nzc5
+NzEwMSwxMzEyMTY4MzA4LDg4MDg0MTgzMiwtMzczNDYxNjM4LC
+04NjMzMTc2MDUsLTE5MTEwMzkxODcsMTEwNjkyNjU2NywyNzgw
+NjE3NCw1MzE1MTY2MzcsLTY0OTUzNSwxNTA0NDE1NDI5LDExMT
+UwMjkxNDMsLTEyNjE3MDQzNjMsLTE2OTE4ODc1MTQsOTE2NTkx
+MDMxXX0=
 -->
