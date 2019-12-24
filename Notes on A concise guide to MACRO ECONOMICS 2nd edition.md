@@ -70,13 +70,14 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 - Credit and debit on a BOP must add up to zero.
 - Every source of fund is a credit, every use of fund is debit
 - Asset represents domestic claim on foreigners, Liability represents foreign claim on domestics.
-- 
+
+>  [http://m.safe.gov.cn/safe/file/file/20190329/bdcf1afe0d5d41838f9f9554721494c6.pdf](http://m.safe.gov.cn/safe/file/file/20190329/bdcf1afe0d5d41838f9f9554721494c6.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzNDcyNjQ1LC0xODI2NjE1MTk0LDE3NT
-MxNDEzMzYsLTIwMTkzNjUyNTEsLTEyNTc3OTcxMDEsMTMxMjE2
-ODMwOCw4ODA4NDE4MzIsLTM3MzQ2MTYzOCwtODYzMzE3NjA1LC
-0xOTExMDM5MTg3LDExMDY5MjY1NjcsMjc4MDYxNzQsNTMxNTE2
-NjM3LC02NDk1MzUsMTUwNDQxNTQyOSwxMTE1MDI5MTQzLC0xMj
-YxNzA0MzYzLC0xNjkxODg3NTE0LDkxNjU5MTAzMSwtNjYyMzIw
-MTUyXX0=
+eyJoaXN0b3J5IjpbOTMyMzYwNjk1LDczMzQ3MjY0NSwtMTgyNj
+YxNTE5NCwxNzUzMTQxMzM2LC0yMDE5MzY1MjUxLC0xMjU3Nzk3
+MTAxLDEzMTIxNjgzMDgsODgwODQxODMyLC0zNzM0NjE2MzgsLT
+g2MzMxNzYwNSwtMTkxMTAzOTE4NywxMTA2OTI2NTY3LDI3ODA2
+MTc0LDUzMTUxNjYzNywtNjQ5NTM1LDE1MDQ0MTU0MjksMTExNT
+AyOTE0MywtMTI2MTcwNDM2MywtMTY5MTg4NzUxNCw5MTY1OTEw
+MzFdfQ==
 -->
