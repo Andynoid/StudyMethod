@@ -65,12 +65,15 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 	- To improve investment: reduce consumption/increase tax/increase import.
 	- But, a > 5% GDP of current account deficit is red flag for unsustainable eco. 
 	> Maxico in 1990.
+	
+# Chapter 6 BoP
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTkzNjUyNTEsLTEyNTc3OTcxMDEsMT
-MxMjE2ODMwOCw4ODA4NDE4MzIsLTM3MzQ2MTYzOCwtODYzMzE3
-NjA1LC0xOTExMDM5MTg3LDExMDY5MjY1NjcsMjc4MDYxNzQsNT
-MxNTE2NjM3LC02NDk1MzUsMTUwNDQxNTQyOSwxMTE1MDI5MTQz
-LC0xMjYxNzA0MzYzLC0xNjkxODg3NTE0LDkxNjU5MTAzMSwtNj
-YyMzIwMTUyLDEyMTI0MjU3NDAsODAxMTM0MDQ2LDEyMjUxMDcz
-MjVdfQ==
+eyJoaXN0b3J5IjpbMTc1MzE0MTMzNiwtMjAxOTM2NTI1MSwtMT
+I1Nzc5NzEwMSwxMzEyMTY4MzA4LDg4MDg0MTgzMiwtMzczNDYx
+NjM4LC04NjMzMTc2MDUsLTE5MTEwMzkxODcsMTEwNjkyNjU2Ny
+wyNzgwNjE3NCw1MzE1MTY2MzcsLTY0OTUzNSwxNTA0NDE1NDI5
+LDExMTUwMjkxNDMsLTEyNjE3MDQzNjMsLTE2OTE4ODc1MTQsOT
+E2NTkxMDMxLC02NjIzMjAxNTIsMTIxMjQyNTc0MCw4MDExMzQw
+NDZdfQ==
 -->
