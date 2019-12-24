@@ -75,12 +75,14 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 
 # Chapter 7 Exchange Rate
 - sustained current account deficits appears to be more associated with long-term currency depreciation than long-term appreciation.
+- *Purchasing power parity*: inflation leads to currency deprecation
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDgxNDMwLDExNTU5OTkzMTUsMTg2Mj
-g3Njc4Nyw3MzM0NzI2NDUsLTE4MjY2MTUxOTQsMTc1MzE0MTMz
-NiwtMjAxOTM2NTI1MSwtMTI1Nzc5NzEwMSwxMzEyMTY4MzA4LD
-g4MDg0MTgzMiwtMzczNDYxNjM4LC04NjMzMTc2MDUsLTE5MTEw
-MzkxODcsMTEwNjkyNjU2NywyNzgwNjE3NCw1MzE1MTY2MzcsLT
-Y0OTUzNSwxNTA0NDE1NDI5LDExMTUwMjkxNDMsLTEyNjE3MDQz
-NjNdfQ==
+eyJoaXN0b3J5IjpbLTE5MjQyODMzMTEsMTE1NTk5OTMxNSwxOD
+YyODc2Nzg3LDczMzQ3MjY0NSwtMTgyNjYxNTE5NCwxNzUzMTQx
+MzM2LC0yMDE5MzY1MjUxLC0xMjU3Nzk3MTAxLDEzMTIxNjgzMD
+gsODgwODQxODMyLC0zNzM0NjE2MzgsLTg2MzMxNzYwNSwtMTkx
+MTAzOTE4NywxMTA2OTI2NTY3LDI3ODA2MTc0LDUzMTUxNjYzNy
+wtNjQ5NTM1LDE1MDQ0MTU0MjksMTExNTAyOTE0MywtMTI2MTcw
+NDM2M119
 -->
