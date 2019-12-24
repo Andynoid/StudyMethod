@@ -77,9 +77,10 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 - sustained current account deficits appears to be more associated with long-term currency depreciation than long-term appreciation.
 - *Purchasing power parity*: inflation leads to currency deprecation
 - Interest rate &uarr; leads to exchange rate &uarr;
+- In all, exchange rate is **unpredictable**!
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQ0OTc1MTksMTE1NTk5OTMxNSwxOD
+eyJoaXN0b3J5IjpbLTE4NDk2MDc3NzgsMTE1NTk5OTMxNSwxOD
 YyODc2Nzg3LDczMzQ3MjY0NSwtMTgyNjYxNTE5NCwxNzUzMTQx
 MzM2LC0yMDE5MzY1MjUxLC0xMjU3Nzk3MTAxLDEzMTIxNjgzMD
 gsODgwODQxODMyLC0zNzM0NjE2MzgsLTg2MzMxNzYwNSwtMTkx
