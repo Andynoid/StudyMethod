@@ -66,14 +66,15 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 	- But, a > 5% GDP of current account deficit is red flag for unsustainable eco. 
 	> Maxico in 1990.
 	
-# Chapter 6 BoP
+# Chapter 6 BOP
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzE0MTMzNiwtMjAxOTM2NTI1MSwtMT
-I1Nzc5NzEwMSwxMzEyMTY4MzA4LDg4MDg0MTgzMiwtMzczNDYx
-NjM4LC04NjMzMTc2MDUsLTE5MTEwMzkxODcsMTEwNjkyNjU2Ny
-wyNzgwNjE3NCw1MzE1MTY2MzcsLTY0OTUzNSwxNTA0NDE1NDI5
-LDExMTUwMjkxNDMsLTEyNjE3MDQzNjMsLTE2OTE4ODc1MTQsOT
-E2NTkxMDMxLC02NjIzMjAxNTIsMTIxMjQyNTc0MCw4MDExMzQw
-NDZdfQ==
+eyJoaXN0b3J5IjpbLTE4MjY2MTUxOTQsMTc1MzE0MTMzNiwtMj
+AxOTM2NTI1MSwtMTI1Nzc5NzEwMSwxMzEyMTY4MzA4LDg4MDg0
+MTgzMiwtMzczNDYxNjM4LC04NjMzMTc2MDUsLTE5MTEwMzkxOD
+csMTEwNjkyNjU2NywyNzgwNjE3NCw1MzE1MTY2MzcsLTY0OTUz
+NSwxNTA0NDE1NDI5LDExMTUwMjkxNDMsLTEyNjE3MDQzNjMsLT
+E2OTE4ODc1MTQsOTE2NTkxMDMxLC02NjIzMjAxNTIsMTIxMjQy
+NTc0MF19
 -->
