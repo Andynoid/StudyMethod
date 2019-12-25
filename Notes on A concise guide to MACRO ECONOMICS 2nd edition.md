@@ -84,9 +84,11 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 # Conclusion
 ## Money
 - Money supply &uaar; : interest rate &darr; exchange rate &darr; aggragate price level &uarr;
+- Roles of central bank
+- Method of central bank controlling short term interest rate
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTIxMTcxNywxNjE1OTE2NTMyLDExNT
+eyJoaXN0b3J5IjpbMTcxNDM0MzI4MCwxNjE1OTE2NTMyLDExNT
 U5OTkzMTUsMTg2Mjg3Njc4Nyw3MzM0NzI2NDUsLTE4MjY2MTUx
 OTQsMTc1MzE0MTMzNiwtMjAxOTM2NTI1MSwtMTI1Nzc5NzEwMS
 wxMzEyMTY4MzA4LDg4MDg0MTgzMiwtMzczNDYxNjM4LC04NjMz
