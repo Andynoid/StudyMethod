@@ -18,10 +18,10 @@
 # Chapter 2 Inequalities within nations.
 ## Dissatisfaction with the Kuznets Hypothesis.
 - Kuznuets hypothesis: the "U" shaped inequality curve against economic development in country.
-- Tinbergen:
+- Tinbergen: Race between technology and education
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzAxOTMzOTYsLTEwMzYzMzQ5MTQsMj
-M5NTc4MDk4LC00NjU1ODIwNDcsLTExOTQ3OTIzMzAsLTM5NjE4
-ODYxNSwtMTI4MzkzNjcyNywyODM5Mjg4MjRdfQ==
+eyJoaXN0b3J5IjpbNjc3NzA5NTYyLC0xMDM2MzM0OTE0LDIzOT
+U3ODA5OCwtNDY1NTgyMDQ3LC0xMTk0NzkyMzMwLC0zOTYxODg2
+MTUsLTEyODM5MzY3MjcsMjgzOTI4ODI0XX0=
 -->
