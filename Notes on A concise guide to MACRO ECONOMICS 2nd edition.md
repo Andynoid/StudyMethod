@@ -90,13 +90,15 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 - Method of central bank controlling short term interest rate
 ## Expectations
 - Keynesian theory of income multiplier.
-- 
+- Central to fiscal and monetary policy
+## Use and Misuse of Macroeconomics
+- Macroeconomics is a very *inexcat
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0Mjg4ODI0MCwtMTk3NzQ2ODQ0MywxNj
-E1OTE2NTMyLDExNTU5OTkzMTUsMTg2Mjg3Njc4Nyw3MzM0NzI2
-NDUsLTE4MjY2MTUxOTQsMTc1MzE0MTMzNiwtMjAxOTM2NTI1MS
-wtMTI1Nzc5NzEwMSwxMzEyMTY4MzA4LDg4MDg0MTgzMiwtMzcz
-NDYxNjM4LC04NjMzMTc2MDUsLTE5MTEwMzkxODcsMTEwNjkyNj
-U2NywyNzgwNjE3NCw1MzE1MTY2MzcsLTY0OTUzNSwxNTA0NDE1
-NDI5XX0=
+eyJoaXN0b3J5IjpbLTE0NjQxNjE4OTUsMjE0Mjg4ODI0MCwtMT
+k3NzQ2ODQ0MywxNjE1OTE2NTMyLDExNTU5OTkzMTUsMTg2Mjg3
+Njc4Nyw3MzM0NzI2NDUsLTE4MjY2MTUxOTQsMTc1MzE0MTMzNi
+wtMjAxOTM2NTI1MSwtMTI1Nzc5NzEwMSwxMzEyMTY4MzA4LDg4
+MDg0MTgzMiwtMzczNDYxNjM4LC04NjMzMTc2MDUsLTE5MTEwMz
+kxODcsMTEwNjkyNjU2NywyNzgwNjE3NCw1MzE1MTY2MzcsLTY0
+OTUzNV19
 -->
