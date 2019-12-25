@@ -83,13 +83,14 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 
 # Conclusion
 ## Money
-- Money supply &uaar; : interest rate &darr; exchange rate &darr; aggragate price level &aar
+- Money supply &uaar; : interest rate &darr; exchange rate &darr; aggragate price level &uarr;
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTk2MzQ1LDE2MTU5MTY1MzIsMTE1NT
-k5OTMxNSwxODYyODc2Nzg3LDczMzQ3MjY0NSwtMTgyNjYxNTE5
-NCwxNzUzMTQxMzM2LC0yMDE5MzY1MjUxLC0xMjU3Nzk3MTAxLD
-EzMTIxNjgzMDgsODgwODQxODMyLC0zNzM0NjE2MzgsLTg2MzMx
-NzYwNSwtMTkxMTAzOTE4NywxMTA2OTI2NTY3LDI3ODA2MTc0LD
-UzMTUxNjYzNywtNjQ5NTM1LDE1MDQ0MTU0MjksMTExNTAyOTE0
-M119
+eyJoaXN0b3J5IjpbMTkzNTIxMTcxNywxNjE1OTE2NTMyLDExNT
+U5OTkzMTUsMTg2Mjg3Njc4Nyw3MzM0NzI2NDUsLTE4MjY2MTUx
+OTQsMTc1MzE0MTMzNiwtMjAxOTM2NTI1MSwtMTI1Nzc5NzEwMS
+wxMzEyMTY4MzA4LDg4MDg0MTgzMiwtMzczNDYxNjM4LC04NjMz
+MTc2MDUsLTE5MTEwMzkxODcsMTEwNjkyNjU2NywyNzgwNjE3NC
+w1MzE1MTY2MzcsLTY0OTUzNSwxNTA0NDE1NDI5LDExMTUwMjkx
+NDNdfQ==
 -->
