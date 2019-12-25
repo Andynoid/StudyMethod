@@ -89,12 +89,14 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 - Roles of central bank
 - Method of central bank controlling short term interest rate
 ## Expectations
+- Keynesian theory of income multiplier.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzc0Njg0NDMsMTYxNTkxNjUzMiwxMT
-U1OTk5MzE1LDE4NjI4NzY3ODcsNzMzNDcyNjQ1LC0xODI2NjE1
-MTk0LDE3NTMxNDEzMzYsLTIwMTkzNjUyNTEsLTEyNTc3OTcxMD
-EsMTMxMjE2ODMwOCw4ODA4NDE4MzIsLTM3MzQ2MTYzOCwtODYz
-MzE3NjA1LC0xOTExMDM5MTg3LDExMDY5MjY1NjcsMjc4MDYxNz
-QsNTMxNTE2NjM3LC02NDk1MzUsMTUwNDQxNTQyOSwxMTE1MDI5
-MTQzXX0=
+eyJoaXN0b3J5IjpbMjE0Mjg4ODI0MCwtMTk3NzQ2ODQ0MywxNj
+E1OTE2NTMyLDExNTU5OTkzMTUsMTg2Mjg3Njc4Nyw3MzM0NzI2
+NDUsLTE4MjY2MTUxOTQsMTc1MzE0MTMzNiwtMjAxOTM2NTI1MS
+wtMTI1Nzc5NzEwMSwxMzEyMTY4MzA4LDg4MDg0MTgzMiwtMzcz
+NDYxNjM4LC04NjMzMTc2MDUsLTE5MTEwMzkxODcsMTEwNjkyNj
+U2NywyNzgwNjE3NCw1MzE1MTY2MzcsLTY0OTUzNSwxNTA0NDE1
+NDI5XX0=
 -->
