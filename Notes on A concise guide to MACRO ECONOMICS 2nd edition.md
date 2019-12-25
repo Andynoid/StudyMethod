@@ -1,6 +1,7 @@
 
 > This book is by David A. Moss. 2014. Harvard Business School
-> Read during Nov-Dec 2019.
+> Read during Nov-Dec 2019.  
+> Finished on 2019.12.25
 # Chapter 1
  ..
 # Chapter 3 Expectations
@@ -94,12 +95,14 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 ## Use and Misuse of Macroeconomics
 - Macroeconomics is a very *inexact* science
 - Dangerous to become overconfident
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODAwMzEzOCwyMTQyODg4MjQwLC0xOT
-c3NDY4NDQzLDE2MTU5MTY1MzIsMTE1NTk5OTMxNSwxODYyODc2
-Nzg3LDczMzQ3MjY0NSwtMTgyNjYxNTE5NCwxNzUzMTQxMzM2LC
-0yMDE5MzY1MjUxLC0xMjU3Nzk3MTAxLDEzMTIxNjgzMDgsODgw
-ODQxODMyLC0zNzM0NjE2MzgsLTg2MzMxNzYwNSwtMTkxMTAzOT
-E4NywxMTA2OTI2NTY3LDI3ODA2MTc0LDUzMTUxNjYzNywtNjQ5
-NTM1XX0=
+eyJoaXN0b3J5IjpbLTkzNTYwNDUyOSwxOTc4MDAzMTM4LDIxND
+I4ODgyNDAsLTE5Nzc0Njg0NDMsMTYxNTkxNjUzMiwxMTU1OTk5
+MzE1LDE4NjI4NzY3ODcsNzMzNDcyNjQ1LC0xODI2NjE1MTk0LD
+E3NTMxNDEzMzYsLTIwMTkzNjUyNTEsLTEyNTc3OTcxMDEsMTMx
+MjE2ODMwOCw4ODA4NDE4MzIsLTM3MzQ2MTYzOCwtODYzMzE3Nj
+A1LC0xOTExMDM5MTg3LDExMDY5MjY1NjcsMjc4MDYxNzQsNTMx
+NTE2NjM3XX0=
 -->
