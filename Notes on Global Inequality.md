@@ -5,8 +5,8 @@
 
 ## Who has gained from globalisation?
 - The gains from globalisation is not evenly distributed.
-- 
+- Top 1 percent.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjE4ODYxNSwtMTI4MzkzNjcyNywyOD
-M5Mjg4MjRdfQ==
+eyJoaXN0b3J5IjpbLTExOTQ3OTIzMzAsLTM5NjE4ODYxNSwtMT
+I4MzkzNjcyNywyODM5Mjg4MjRdfQ==
 -->
