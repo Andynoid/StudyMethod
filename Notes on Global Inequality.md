@@ -6,7 +6,12 @@
 ## Who has gained from globalisation?
 - The gains from globalisation is not evenly distributed.
 - *elephant curve* of percentile income gain distribution 
+1. low income 
+2. Global middle class (
+3. Lower middle income in rich country (80 percentile)
+4. High income in rich country (Top 1-5%)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTU4MjA0NywtMTE5NDc5MjMzMCwtMz
-k2MTg4NjE1LC0xMjgzOTM2NzI3LDI4MzkyODgyNF19
+eyJoaXN0b3J5IjpbLTE3MTY0NzAxMCwtNDY1NTgyMDQ3LC0xMT
+k0NzkyMzMwLC0zOTYxODg2MTUsLTEyODM5MzY3MjcsMjgzOTI4
+ODI0XX0=
 -->
