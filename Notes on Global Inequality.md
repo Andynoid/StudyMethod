@@ -12,14 +12,15 @@
 4. High income in rich country (Top 1-5%, >71000$/y )**Winner**
 
 ## Development in globalisation.
-6. Hyper rich people have increase 5 times in number and their wealth increased from 1% global total wealth to 2% from 1987-2013
+- Hyper rich people have increase 5 times in number and their wealth increased from 1% global total wealth to 2% from 1987-2013
 - Development in high globalisation: 1. Increased amount of hyper-rich people and rise of global middle class.
 
 # Chapter 2 Inequalities within nations.
-
+## Dissatisfaction with the Kuznets Hypothesis.
+- Kuznuets hypothesis: the "U" 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzYzMzQ5MTQsMjM5NTc4MDk4LC00Nj
-U1ODIwNDcsLTExOTQ3OTIzMzAsLTM5NjE4ODYxNSwtMTI4Mzkz
-NjcyNywyODM5Mjg4MjRdfQ==
+eyJoaXN0b3J5IjpbNTMzNjcyNDg4LC0xMDM2MzM0OTE0LDIzOT
+U3ODA5OCwtNDY1NTgyMDQ3LC0xMTk0NzkyMzMwLC0zOTYxODg2
+MTUsLTEyODM5MzY3MjcsMjgzOTI4ODI0XX0=
 -->
