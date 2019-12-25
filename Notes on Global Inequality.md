@@ -5,8 +5,8 @@
 
 ## Who has gained from globalisation?
 - The gains from globalisation is not evenly distributed.
-- Top 1 percent.
+- *elephant curve* of percentile income gain distribution 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQ3OTIzMzAsLTM5NjE4ODYxNSwtMT
-I4MzkzNjcyNywyODM5Mjg4MjRdfQ==
+eyJoaXN0b3J5IjpbLTQ2NTU4MjA0NywtMTE5NDc5MjMzMCwtMz
+k2MTg4NjE1LC0xMjgzOTM2NzI3LDI4MzkyODgyNF19
 -->
