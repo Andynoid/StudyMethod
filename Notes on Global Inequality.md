@@ -19,9 +19,14 @@
 ## Dissatisfaction with the Kuznets Hypothesis.
 - Kuznuets hypothesis: the "U" shaped inequality curve against economic development in country.
 - Tinbergen: Race between technology and education
+- Piketty: Inequality always rise under capitalism.
+
+## Kuznets Waves
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3NzA5NTYyLC0xMDM2MzM0OTE0LDIzOT
-U3ODA5OCwtNDY1NTgyMDQ3LC0xMTk0NzkyMzMwLC0zOTYxODg2
-MTUsLTEyODM5MzY3MjcsMjgzOTI4ODI0XX0=
+eyJoaXN0b3J5IjpbLTk3MTU0NDY1MSw2Nzc3MDk1NjIsLTEwMz
+YzMzQ5MTQsMjM5NTc4MDk4LC00NjU1ODIwNDcsLTExOTQ3OTIz
+MzAsLTM5NjE4ODYxNSwtMTI4MzkzNjcyNywyODM5Mjg4MjRdfQ
+==
 -->
