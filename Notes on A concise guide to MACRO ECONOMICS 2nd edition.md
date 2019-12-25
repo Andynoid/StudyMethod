@@ -82,17 +82,19 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 - Summary: Interest rate for short term movements, inflation for medium term movement, deficit in current account imbalance for long term movements.
 
 # Conclusion
+## Output
+- (real) GDP--the most important variable in macroeconomy
 ## Money
 - Money supply &uaar; : interest rate &darr; exchange rate &darr; aggragate price level &uarr;
 - Roles of central bank
 - Method of central bank controlling short term interest rate
-- 
+## Expectations
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDM0MzI4MCwxNjE1OTE2NTMyLDExNT
-U5OTkzMTUsMTg2Mjg3Njc4Nyw3MzM0NzI2NDUsLTE4MjY2MTUx
-OTQsMTc1MzE0MTMzNiwtMjAxOTM2NTI1MSwtMTI1Nzc5NzEwMS
-wxMzEyMTY4MzA4LDg4MDg0MTgzMiwtMzczNDYxNjM4LC04NjMz
-MTc2MDUsLTE5MTEwMzkxODcsMTEwNjkyNjU2NywyNzgwNjE3NC
-w1MzE1MTY2MzcsLTY0OTUzNSwxNTA0NDE1NDI5LDExMTUwMjkx
-NDNdfQ==
+eyJoaXN0b3J5IjpbLTE5Nzc0Njg0NDMsMTYxNTkxNjUzMiwxMT
+U1OTk5MzE1LDE4NjI4NzY3ODcsNzMzNDcyNjQ1LC0xODI2NjE1
+MTk0LDE3NTMxNDEzMzYsLTIwMTkzNjUyNTEsLTEyNTc3OTcxMD
+EsMTMxMjE2ODMwOCw4ODA4NDE4MzIsLTM3MzQ2MTYzOCwtODYz
+MzE3NjA1LC0xOTExMDM5MTg3LDExMDY5MjY1NjcsMjc4MDYxNz
+QsNTMxNTE2NjM3LC02NDk1MzUsMTUwNDQxNTQyOSwxMTE1MDI5
+MTQzXX0=
 -->
