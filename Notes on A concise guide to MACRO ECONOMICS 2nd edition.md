@@ -92,13 +92,14 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 - Keynesian theory of income multiplier.
 - Central to fiscal and monetary policy
 ## Use and Misuse of Macroeconomics
-- Macroeconomics is a very *inexcat
+- Macroeconomics is a very *inexact* science
+- Dangerous to become overconfident
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQxNjE4OTUsMjE0Mjg4ODI0MCwtMT
-k3NzQ2ODQ0MywxNjE1OTE2NTMyLDExNTU5OTkzMTUsMTg2Mjg3
-Njc4Nyw3MzM0NzI2NDUsLTE4MjY2MTUxOTQsMTc1MzE0MTMzNi
-wtMjAxOTM2NTI1MSwtMTI1Nzc5NzEwMSwxMzEyMTY4MzA4LDg4
-MDg0MTgzMiwtMzczNDYxNjM4LC04NjMzMTc2MDUsLTE5MTEwMz
-kxODcsMTEwNjkyNjU2NywyNzgwNjE3NCw1MzE1MTY2MzcsLTY0
-OTUzNV19
+eyJoaXN0b3J5IjpbMTk3ODAwMzEzOCwyMTQyODg4MjQwLC0xOT
+c3NDY4NDQzLDE2MTU5MTY1MzIsMTE1NTk5OTMxNSwxODYyODc2
+Nzg3LDczMzQ3MjY0NSwtMTgyNjYxNTE5NCwxNzUzMTQxMzM2LC
+0yMDE5MzY1MjUxLC0xMjU3Nzk3MTAxLDEzMTIxNjgzMDgsODgw
+ODQxODMyLC0zNzM0NjE2MzgsLTg2MzMxNzYwNSwtMTkxMTAzOT
+E4NywxMTA2OTI2NTY3LDI3ODA2MTc0LDUzMTUxNjYzNywtNjQ5
+NTM1XX0=
 -->
