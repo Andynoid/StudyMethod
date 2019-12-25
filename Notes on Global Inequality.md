@@ -15,10 +15,11 @@
 6. Hyper rich people have increase 5 times in number and their wealth increased from 1% global total wealth to 2% from 1987-2013
 - Development in high globalisation: 1. Increased amount of hyper-rich people and rise of global middle class.
 
-# Chapter 2 
+# Chapter 2 Inequalities within nations.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTAwOTQzOTYsMjM5NTc4MDk4LC00Nj
+eyJoaXN0b3J5IjpbLTEwMzYzMzQ5MTQsMjM5NTc4MDk4LC00Nj
 U1ODIwNDcsLTExOTQ3OTIzMzAsLTM5NjE4ODYxNSwtMTI4Mzkz
 NjcyNywyODM5Mjg4MjRdfQ==
 -->
