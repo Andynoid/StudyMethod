@@ -8,10 +8,10 @@
 - *elephant curve* of percentile income gain distribution 
 1. low income (<30%)
 2. Global middle class (40-70%, 1000-2000$/y) **Winner** 
-3. Lower middle income in rich country (80 percentile, 500): **Loser** little- none income gain.
+3. Lower middle income in rich country (80 percentile, 5000-10000$/y): **Loser** little- none income gain.
 4. High income in rich country (Top 1-5%, >71000$/y )**Winner**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwNDM5OTI4LC00NjU1ODIwNDcsLTExOT
+eyJoaXN0b3J5IjpbMjM5NTc4MDk4LC00NjU1ODIwNDcsLTExOT
 Q3OTIzMzAsLTM5NjE4ODYxNSwtMTI4MzkzNjcyNywyODM5Mjg4
 MjRdfQ==
 -->
