@@ -82,13 +82,14 @@ $GDP = C + I + G + EX - IM$ GDP = consumption + investment + government expendit
 - Summary: Interest rate for short term movements, inflation for medium term movement, deficit in current account imbalance for long term movements.
 
 # Conclusion
-
+## Money
+- Money supply &uaar; : interest rate &darr; exchange rate &darr; aggragate price level &aar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTkxNjUzMiwxMTU1OTk5MzE1LDE4Nj
-I4NzY3ODcsNzMzNDcyNjQ1LC0xODI2NjE1MTk0LDE3NTMxNDEz
-MzYsLTIwMTkzNjUyNTEsLTEyNTc3OTcxMDEsMTMxMjE2ODMwOC
-w4ODA4NDE4MzIsLTM3MzQ2MTYzOCwtODYzMzE3NjA1LC0xOTEx
-MDM5MTg3LDExMDY5MjY1NjcsMjc4MDYxNzQsNTMxNTE2NjM3LC
-02NDk1MzUsMTUwNDQxNTQyOSwxMTE1MDI5MTQzLC0xMjYxNzA0
-MzYzXX0=
+eyJoaXN0b3J5IjpbLTE4OTk2MzQ1LDE2MTU5MTY1MzIsMTE1NT
+k5OTMxNSwxODYyODc2Nzg3LDczMzQ3MjY0NSwtMTgyNjYxNTE5
+NCwxNzUzMTQxMzM2LC0yMDE5MzY1MjUxLC0xMjU3Nzk3MTAxLD
+EzMTIxNjgzMDgsODgwODQxODMyLC0zNzM0NjE2MzgsLTg2MzMx
+NzYwNSwtMTkxMTAzOTE4NywxMTA2OTI2NTY3LDI3ODA2MTc0LD
+UzMTUxNjYzNywtNjQ5NTM1LDE1MDQ0MTU0MjksMTExNTAyOTE0
+M119
 -->
