@@ -25,11 +25,11 @@
 - Modern ways of reduce inequalities: War and welfare. (Education?)
 - Preindustrial economics: unchanging mean income &uarr; and accidental events: wars, epidemics...
 - TOP: Technology Openness and policy.
--
+-Countries as examples: US and UK, Spain and Italy, Germany and Netherland, Brazil and Chile,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NjUxNzA2MSw2NzYzNjU3NjIsLTExND
-c4Mjk3NzcsLTcwNTc4NjMxNCwtOTcxNTQ0NjUxLDY3NzcwOTU2
-MiwtMTAzNjMzNDkxNCwyMzk1NzgwOTgsLTQ2NTU4MjA0NywtMT
-E5NDc5MjMzMCwtMzk2MTg4NjE1LC0xMjgzOTM2NzI3LDI4Mzky
-ODgyNF19
+eyJoaXN0b3J5IjpbLTIxNDYxMzE5NDMsNjc2MzY1NzYyLC0xMT
+Q3ODI5Nzc3LC03MDU3ODYzMTQsLTk3MTU0NDY1MSw2Nzc3MDk1
+NjIsLTEwMzYzMzQ5MTQsMjM5NTc4MDk4LC00NjU1ODIwNDcsLT
+ExOTQ3OTIzMzAsLTM5NjE4ODYxNSwtMTI4MzkzNjcyNywyODM5
+Mjg4MjRdfQ==
 -->
