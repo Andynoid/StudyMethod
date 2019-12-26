@@ -25,10 +25,11 @@
 - Modern ways of reduce inequalities: War and welfare. (Education?)
 - Preindustrial economics: unchanging mean income &uarr; and accidental events: wars, epidemics...
 - TOP: Technology Openness and policy.
-
+-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2MzY1NzYyLC0xMTQ3ODI5Nzc3LC03MD
-U3ODYzMTQsLTk3MTU0NDY1MSw2Nzc3MDk1NjIsLTEwMzYzMzQ5
-MTQsMjM5NTc4MDk4LC00NjU1ODIwNDcsLTExOTQ3OTIzMzAsLT
-M5NjE4ODYxNSwtMTI4MzkzNjcyNywyODM5Mjg4MjRdfQ==
+eyJoaXN0b3J5IjpbMTE5NjUxNzA2MSw2NzYzNjU3NjIsLTExND
+c4Mjk3NzcsLTcwNTc4NjMxNCwtOTcxNTQ0NjUxLDY3NzcwOTU2
+MiwtMTAzNjMzNDkxNCwyMzk1NzgwOTgsLTQ2NTU4MjA0NywtMT
+E5NDc5MjMzMCwtMzk2MTg4NjE1LC0xMjgzOTM2NzI3LDI4Mzky
+ODgyNF19
 -->
