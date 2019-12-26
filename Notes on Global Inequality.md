@@ -24,12 +24,14 @@
 ## Kuznets Waves
 - Modern ways of reduce inequalities: War and welfare. (Education?)
 - Preindustrial economics: unchanging mean income &uarr; and accidental events: wars, epidemics...
+- ** The interplay between economic and political factors drives the cycle.
 - TOP: Technology Openness and policy.
--Countries as examples: US and UK, Spain and Italy, Germany and Netherland, Brazil and Chile, 
+-Countries as examples: US and UK, Spain and Italy, Germany and Netherland, Brazil and Chile, Japan.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzMzYyMTA3LC0yMTQ2MTMxOTQzLDY3Nj
-M2NTc2MiwtMTE0NzgyOTc3NywtNzA1Nzg2MzE0LC05NzE1NDQ2
-NTEsNjc3NzA5NTYyLC0xMDM2MzM0OTE0LDIzOTU3ODA5OCwtND
-Y1NTgyMDQ3LC0xMTk0NzkyMzMwLC0zOTYxODg2MTUsLTEyODM5
-MzY3MjcsMjgzOTI4ODI0XX0=
+eyJoaXN0b3J5IjpbLTEyMzcwNzMwMCwtMjE0NjEzMTk0Myw2Nz
+YzNjU3NjIsLTExNDc4Mjk3NzcsLTcwNTc4NjMxNCwtOTcxNTQ0
+NjUxLDY3NzcwOTU2MiwtMTAzNjMzNDkxNCwyMzk1NzgwOTgsLT
+Q2NTU4MjA0NywtMTE5NDc5MjMzMCwtMzk2MTg4NjE1LC0xMjgz
+OTM2NzI3LDI4MzkyODgyNF19
 -->
