@@ -24,11 +24,11 @@
 ## Kuznets Waves
 - Modern ways of reduce inequalities: War and welfare. (Education?)
 - Preindustrial economics: unchanging mean income &uarr; and accidental events: wars, epidemics...
-- 
+- TOP: Technology Openness and policy.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc4Mjk3NzcsLTcwNTc4NjMxNCwtOT
-cxNTQ0NjUxLDY3NzcwOTU2MiwtMTAzNjMzNDkxNCwyMzk1Nzgw
-OTgsLTQ2NTU4MjA0NywtMTE5NDc5MjMzMCwtMzk2MTg4NjE1LC
-0xMjgzOTM2NzI3LDI4MzkyODgyNF19
+eyJoaXN0b3J5IjpbNjc2MzY1NzYyLC0xMTQ3ODI5Nzc3LC03MD
+U3ODYzMTQsLTk3MTU0NDY1MSw2Nzc3MDk1NjIsLTEwMzYzMzQ5
+MTQsMjM5NTc4MDk4LC00NjU1ODIwNDcsLTExOTQ3OTIzMzAsLT
+M5NjE4ODYxNSwtMTI4MzkzNjcyNywyODM5Mjg4MjRdfQ==
 -->
