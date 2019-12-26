@@ -22,11 +22,11 @@
 - Piketty: Inequality always rise under capitalism.
 
 ## Kuznets Waves
-*
+- Modern ways of reduce inequalities: War and welfare. (Education?)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1Njc1Mzc3LC05NzE1NDQ2NTEsNjc3Nz
-A5NTYyLC0xMDM2MzM0OTE0LDIzOTU3ODA5OCwtNDY1NTgyMDQ3
-LC0xMTk0NzkyMzMwLC0zOTYxODg2MTUsLTEyODM5MzY3MjcsMj
-gzOTI4ODI0XX0=
+eyJoaXN0b3J5IjpbLTcwNTc4NjMxNCwtOTcxNTQ0NjUxLDY3Nz
+cwOTU2MiwtMTAzNjMzNDkxNCwyMzk1NzgwOTgsLTQ2NTU4MjA0
+NywtMTE5NDc5MjMzMCwtMzk2MTg4NjE1LC0xMjgzOTM2NzI3LD
+I4MzkyODgyNF19
 -->
