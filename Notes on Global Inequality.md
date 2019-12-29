@@ -32,12 +32,12 @@
 2. Second wave. &uarr; information technology and globalisation.
 
 ## The second wave
-- Decline in trade union density underpins the process of the weakening of the bargaining position of labor VS capital.
+- Decline in trade union density underpins the process of the weakening of the bargaining position of labor VS capital.,.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODQwNjU4OCwxNDQ1MjU2NDc5LDEzND
-A0NTgxMiwtMTY0NjM1ODUyNywtMTIzNzA3MzAwLC0yMTQ2MTMx
-OTQzLDY3NjM2NTc2MiwtMTE0NzgyOTc3NywtNzA1Nzg2MzE0LC
-05NzE1NDQ2NTEsNjc3NzA5NTYyLC0xMDM2MzM0OTE0LDIzOTU3
-ODA5OCwtNDY1NTgyMDQ3LC0xMTk0NzkyMzMwLC0zOTYxODg2MT
-UsLTEyODM5MzY3MjcsMjgzOTI4ODI0XX0=
+eyJoaXN0b3J5IjpbNjQ2MDMwMzMwLDE1Mzg0MDY1ODgsMTQ0NT
+I1NjQ3OSwxMzQwNDU4MTIsLTE2NDYzNTg1MjcsLTEyMzcwNzMw
+MCwtMjE0NjEzMTk0Myw2NzYzNjU3NjIsLTExNDc4Mjk3NzcsLT
+cwNTc4NjMxNCwtOTcxNTQ0NjUxLDY3NzcwOTU2MiwtMTAzNjMz
+NDkxNCwyMzk1NzgwOTgsLTQ2NTU4MjA0NywtMTE5NDc5MjMzMC
+wtMzk2MTg4NjE1LC0xMjgzOTM2NzI3LDI4MzkyODgyNF19
 -->
