@@ -30,12 +30,14 @@
 -Historical data does not support a trade off between growth and inequality.
 1. First wave: &uarr; transfer from agriculture to industry. &darr; war and rural area into urban area.
 2. Second wave. &uarr; information technology and globalisation.
-3. 
+
+## The second wave
+- Decline in trade union density underpins the process of the weakening of the bargaining position of labor VS capital.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczOTk1ODYsMTQ0NTI1NjQ3OSwxMzQwND
-U4MTIsLTE2NDYzNTg1MjcsLTEyMzcwNzMwMCwtMjE0NjEzMTk0
-Myw2NzYzNjU3NjIsLTExNDc4Mjk3NzcsLTcwNTc4NjMxNCwtOT
-cxNTQ0NjUxLDY3NzcwOTU2MiwtMTAzNjMzNDkxNCwyMzk1Nzgw
-OTgsLTQ2NTU4MjA0NywtMTE5NDc5MjMzMCwtMzk2MTg4NjE1LC
-0xMjgzOTM2NzI3LDI4MzkyODgyNF19
+eyJoaXN0b3J5IjpbMTUzODQwNjU4OCwxNDQ1MjU2NDc5LDEzND
+A0NTgxMiwtMTY0NjM1ODUyNywtMTIzNzA3MzAwLC0yMTQ2MTMx
+OTQzLDY3NjM2NTc2MiwtMTE0NzgyOTc3NywtNzA1Nzg2MzE0LC
+05NzE1NDQ2NTEsNjc3NzA5NTYyLC0xMDM2MzM0OTE0LDIzOTU3
+ODA5OCwtNDY1NTgyMDQ3LC0xMTk0NzkyMzMwLC0zOTYxODg2MT
+UsLTEyODM5MzY3MjcsMjgzOTI4ODI0XX0=
 -->
