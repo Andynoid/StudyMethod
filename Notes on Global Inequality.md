@@ -39,15 +39,19 @@
 **Down hill of the second wave**
 - Political changes to higher taxation
 - Education and skills
-- 
+- Reduced rents left from second technology revolutions (<2006)
 - Pro low-skilled worker technologies,
 - State Health and Education systems.
+- Income converge at global level.
+
+# Chapter 3 Inequality among Countries
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3NDU2NTU0LC0xNDk3MjQ2NDgyLDY0Nj
-AzMDMzMCwxNTM4NDA2NTg4LDE0NDUyNTY0NzksMTM0MDQ1ODEy
-LC0xNjQ2MzU4NTI3LC0xMjM3MDczMDAsLTIxNDYxMzE5NDMsNj
-c2MzY1NzYyLC0xMTQ3ODI5Nzc3LC03MDU3ODYzMTQsLTk3MTU0
-NDY1MSw2Nzc3MDk1NjIsLTEwMzYzMzQ5MTQsMjM5NTc4MDk4LC
-00NjU1ODIwNDcsLTExOTQ3OTIzMzAsLTM5NjE4ODYxNSwtMTI4
-MzkzNjcyN119
+eyJoaXN0b3J5IjpbLTEzMTU5MzY0NTUsLTE0OTcyNDY0ODIsNj
+Q2MDMwMzMwLDE1Mzg0MDY1ODgsMTQ0NTI1NjQ3OSwxMzQwNDU4
+MTIsLTE2NDYzNTg1MjcsLTEyMzcwNzMwMCwtMjE0NjEzMTk0My
+w2NzYzNjU3NjIsLTExNDc4Mjk3NzcsLTcwNTc4NjMxNCwtOTcx
+NTQ0NjUxLDY3NzcwOTU2MiwtMTAzNjMzNDkxNCwyMzk1NzgwOT
+gsLTQ2NTU4MjA0NywtMTE5NDc5MjMzMCwtMzk2MTg4NjE1LC0x
+MjgzOTM2NzI3XX0=
 -->
