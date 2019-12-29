@@ -32,12 +32,18 @@
 2. Second wave. &uarr; information technology and globalisation.
 
 ## The second wave
+**Uphill of the second wave**
 - Decline in trade union density underpins the process of the weakening of the bargaining position of labor VS capital.,.
+- Increased labor number: Opening of China and India. Female involvement of working.
+
+**Down hill of the second wave**
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2MDMwMzMwLDE1Mzg0MDY1ODgsMTQ0NT
-I1NjQ3OSwxMzQwNDU4MTIsLTE2NDYzNTg1MjcsLTEyMzcwNzMw
-MCwtMjE0NjEzMTk0Myw2NzYzNjU3NjIsLTExNDc4Mjk3NzcsLT
-cwNTc4NjMxNCwtOTcxNTQ0NjUxLDY3NzcwOTU2MiwtMTAzNjMz
-NDkxNCwyMzk1NzgwOTgsLTQ2NTU4MjA0NywtMTE5NDc5MjMzMC
-wtMzk2MTg4NjE1LC0xMjgzOTM2NzI3LDI4MzkyODgyNF19
+eyJoaXN0b3J5IjpbLTE0OTcyNDY0ODIsNjQ2MDMwMzMwLDE1Mz
+g0MDY1ODgsMTQ0NTI1NjQ3OSwxMzQwNDU4MTIsLTE2NDYzNTg1
+MjcsLTEyMzcwNzMwMCwtMjE0NjEzMTk0Myw2NzYzNjU3NjIsLT
+ExNDc4Mjk3NzcsLTcwNTc4NjMxNCwtOTcxNTQ0NjUxLDY3Nzcw
+OTU2MiwtMTAzNjMzNDkxNCwyMzk1NzgwOTgsLTQ2NTU4MjA0Ny
+wtMTE5NDc5MjMzMCwtMzk2MTg4NjE1LC0xMjgzOTM2NzI3LDI4
+MzkyODgyNF19
 -->
