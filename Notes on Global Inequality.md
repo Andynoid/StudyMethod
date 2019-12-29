@@ -37,13 +37,17 @@
 - Increased labor number: Opening of China and India. Female involvement of working.
 
 **Down hill of the second wave**
- - 
+- Political changes to higher taxation
+- Education and skills
+- 
+- Pro low-skilled worker technologies,
+- State Health and Education systems.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDk5NDUwMSwtMTQ5NzI0NjQ4Miw2ND
-YwMzAzMzAsMTUzODQwNjU4OCwxNDQ1MjU2NDc5LDEzNDA0NTgx
-MiwtMTY0NjM1ODUyNywtMTIzNzA3MzAwLC0yMTQ2MTMxOTQzLD
-Y3NjM2NTc2MiwtMTE0NzgyOTc3NywtNzA1Nzg2MzE0LC05NzE1
-NDQ2NTEsNjc3NzA5NTYyLC0xMDM2MzM0OTE0LDIzOTU3ODA5OC
-wtNDY1NTgyMDQ3LC0xMTk0NzkyMzMwLC0zOTYxODg2MTUsLTEy
-ODM5MzY3MjddfQ==
+eyJoaXN0b3J5IjpbNDk3NDU2NTU0LC0xNDk3MjQ2NDgyLDY0Nj
+AzMDMzMCwxNTM4NDA2NTg4LDE0NDUyNTY0NzksMTM0MDQ1ODEy
+LC0xNjQ2MzU4NTI3LC0xMjM3MDczMDAsLTIxNDYxMzE5NDMsNj
+c2MzY1NzYyLC0xMTQ3ODI5Nzc3LC03MDU3ODYzMTQsLTk3MTU0
+NDY1MSw2Nzc3MDk1NjIsLTEwMzYzMzQ5MTQsMjM5NTc4MDk4LC
+00NjU1ODIwNDcsLTExOTQ3OTIzMzAsLTM5NjE4ODYxNSwtMTI4
+MzkzNjcyN119
 -->
