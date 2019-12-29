@@ -27,9 +27,10 @@
 - ** The interplay between economic and political factors drives the cycle.
 - TOP: Technology Openness and policy.
 -Countries as examples: US and UK, Spain and Italy, Germany and Netherland, Brazil and Chile, Japan.
--
+-Historical data does not support a trade off between growth and inequality.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA5MTEzODEsLTEyMzcwNzMwMCwtMj
+eyJoaXN0b3J5IjpbLTE2NDYzNTg1MjcsLTEyMzcwNzMwMCwtMj
 E0NjEzMTk0Myw2NzYzNjU3NjIsLTExNDc4Mjk3NzcsLTcwNTc4
 NjMxNCwtOTcxNTQ0NjUxLDY3NzcwOTU2MiwtMTAzNjMzNDkxNC
 wyMzk1NzgwOTgsLTQ2NTU4MjA0NywtMTE5NDc5MjMzMCwtMzk2
