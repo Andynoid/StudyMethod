@@ -28,11 +28,12 @@
 - TOP: Technology Openness and policy.
 -Countries as examples: US and UK, Spain and Italy, Germany and Netherland, Brazil and Chile, Japan.
 -Historical data does not support a trade off between growth and inequality.
-
+1. First wave: transfer from agriculture to industry. The second wave trans
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDYzNTg1MjcsLTEyMzcwNzMwMCwtMj
-E0NjEzMTk0Myw2NzYzNjU3NjIsLTExNDc4Mjk3NzcsLTcwNTc4
-NjMxNCwtOTcxNTQ0NjUxLDY3NzcwOTU2MiwtMTAzNjMzNDkxNC
-wyMzk1NzgwOTgsLTQ2NTU4MjA0NywtMTE5NDc5MjMzMCwtMzk2
-MTg4NjE1LC0xMjgzOTM2NzI3LDI4MzkyODgyNF19
+eyJoaXN0b3J5IjpbNDQ0NDAwMjY0LC0xNjQ2MzU4NTI3LC0xMj
+M3MDczMDAsLTIxNDYxMzE5NDMsNjc2MzY1NzYyLC0xMTQ3ODI5
+Nzc3LC03MDU3ODYzMTQsLTk3MTU0NDY1MSw2Nzc3MDk1NjIsLT
+EwMzYzMzQ5MTQsMjM5NTc4MDk4LC00NjU1ODIwNDcsLTExOTQ3
+OTIzMzAsLTM5NjE4ODYxNSwtMTI4MzkzNjcyNywyODM5Mjg4Mj
+RdfQ==
 -->
