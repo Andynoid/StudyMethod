@@ -30,11 +30,12 @@
 -Historical data does not support a trade off between growth and inequality.
 1. First wave: &uarr; transfer from agriculture to industry. &darr; war and rural area into urban area.
 2. Second wave. &uarr; information technology and globalisation.
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTI1NjQ3OSwxMzQwNDU4MTIsLTE2ND
-YzNTg1MjcsLTEyMzcwNzMwMCwtMjE0NjEzMTk0Myw2NzYzNjU3
-NjIsLTExNDc4Mjk3NzcsLTcwNTc4NjMxNCwtOTcxNTQ0NjUxLD
-Y3NzcwOTU2MiwtMTAzNjMzNDkxNCwyMzk1NzgwOTgsLTQ2NTU4
-MjA0NywtMTE5NDc5MjMzMCwtMzk2MTg4NjE1LC0xMjgzOTM2Nz
-I3LDI4MzkyODgyNF19
+eyJoaXN0b3J5IjpbNTczOTk1ODYsMTQ0NTI1NjQ3OSwxMzQwND
+U4MTIsLTE2NDYzNTg1MjcsLTEyMzcwNzMwMCwtMjE0NjEzMTk0
+Myw2NzYzNjU3NjIsLTExNDc4Mjk3NzcsLTcwNTc4NjMxNCwtOT
+cxNTQ0NjUxLDY3NzcwOTU2MiwtMTAzNjMzNDkxNCwyMzk1Nzgw
+OTgsLTQ2NTU4MjA0NywtMTE5NDc5MjMzMCwtMzk2MTg4NjE1LC
+0xMjgzOTM2NzI3LDI4MzkyODgyNF19
 -->
