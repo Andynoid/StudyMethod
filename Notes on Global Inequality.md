@@ -68,14 +68,14 @@
 
 ## Migration and Walls
 ** Contradiction at the heart of Globalization: The labor is the production factor that is not seemless moved, but capital is.**
-- Migration does not increase from 1980-2000
-
+- Migration does not increase from 1980-2000, and the future trend is not known.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4MDc1ODg1LDcwMjEwMTY2NCw1MjgxOT
-Q2MDUsNjgwMjg4NDk3LC0zMTk1NTcyNTcsMTkwOTA1NzQzLC0x
-MzE1OTM2NDU1LC0xNDk3MjQ2NDgyLDY0NjAzMDMzMCwxNTM4ND
-A2NTg4LDE0NDUyNTY0NzksMTM0MDQ1ODEyLC0xNjQ2MzU4NTI3
-LC0xMjM3MDczMDAsLTIxNDYxMzE5NDMsNjc2MzY1NzYyLC0xMT
-Q3ODI5Nzc3LC03MDU3ODYzMTQsLTk3MTU0NDY1MSw2Nzc3MDk1
-NjJdfQ==
+eyJoaXN0b3J5IjpbLTkzMTUzNTEwNCw3MDIxMDE2NjQsNTI4MT
+k0NjA1LDY4MDI4ODQ5NywtMzE5NTU3MjU3LDE5MDkwNTc0Mywt
+MTMxNTkzNjQ1NSwtMTQ5NzI0NjQ4Miw2NDYwMzAzMzAsMTUzOD
+QwNjU4OCwxNDQ1MjU2NDc5LDEzNDA0NTgxMiwtMTY0NjM1ODUy
+NywtMTIzNzA3MzAwLC0yMTQ2MTMxOTQzLDY3NjM2NTc2MiwtMT
+E0NzgyOTc3NywtNzA1Nzg2MzE0LC05NzE1NDQ2NTEsNjc3NzA5
+NTYyXX0=
 -->
