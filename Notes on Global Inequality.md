@@ -66,10 +66,11 @@
 - Implicit contract between international citizens
 > Rawls and *Theory of justice* and *Law of justice*
 
-##
+## Migration and Walls
+** Contradiction at the heart of Globalization: The labor is the production fanot seemless movement.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjU3MDI3Myw3MDIxMDE2NjQsNTI4MT
+eyJoaXN0b3J5IjpbLTUzMTYyNjE0Myw3MDIxMDE2NjQsNTI4MT
 k0NjA1LDY4MDI4ODQ5NywtMzE5NTU3MjU3LDE5MDkwNTc0Mywt
 MTMxNTkzNjQ1NSwtMTQ5NzI0NjQ4Miw2NDYwMzAzMzAsMTUzOD
 QwNjU4OCwxNDQ1MjU2NDc5LDEzNDA0NTgxMiwtMTY0NjM1ODUy
