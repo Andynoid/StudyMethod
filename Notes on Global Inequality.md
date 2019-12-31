@@ -48,13 +48,18 @@
 ## Location and Class component
 - Balanced by rising of China and India.
 - Class was the major component in 1850
-- Loca
+- Location is the major component new (80%)
+
+## Citizenship premium
+- People born in rich country receive a rent from rich country.
+- Class distribution of citizenship premium.
+- Class distributio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTgwODEyNDYsLTEzMTU5MzY0NTUsLT
-E0OTcyNDY0ODIsNjQ2MDMwMzMwLDE1Mzg0MDY1ODgsMTQ0NTI1
-NjQ3OSwxMzQwNDU4MTIsLTE2NDYzNTg1MjcsLTEyMzcwNzMwMC
-wtMjE0NjEzMTk0Myw2NzYzNjU3NjIsLTExNDc4Mjk3NzcsLTcw
-NTc4NjMxNCwtOTcxNTQ0NjUxLDY3NzcwOTU2MiwtMTAzNjMzND
-kxNCwyMzk1NzgwOTgsLTQ2NTU4MjA0NywtMTE5NDc5MjMzMCwt
-Mzk2MTg4NjE1XX0=
+eyJoaXN0b3J5IjpbLTEyNTY0MDE3MSwtMTMxNTkzNjQ1NSwtMT
+Q5NzI0NjQ4Miw2NDYwMzAzMzAsMTUzODQwNjU4OCwxNDQ1MjU2
+NDc5LDEzNDA0NTgxMiwtMTY0NjM1ODUyNywtMTIzNzA3MzAwLC
+0yMTQ2MTMxOTQzLDY3NjM2NTc2MiwtMTE0NzgyOTc3NywtNzA1
+Nzg2MzE0LC05NzE1NDQ2NTEsNjc3NzA5NTYyLC0xMDM2MzM0OT
+E0LDIzOTU3ODA5OCwtNDY1NTgyMDQ3LC0xMTk0NzkyMzMwLC0z
+OTYxODg2MTVdfQ==
 -->
