@@ -53,13 +53,16 @@
 ## Citizenship premium
 - People born in rich country receive a rent from rich country.
 - Class distribution of citizenship premium.
-- Class distributio
+- Citizenship premium and migration policy.
+
+## The Coase theorem and role of law in globalization.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTY0MDE3MSwtMTMxNTkzNjQ1NSwtMT
-Q5NzI0NjQ4Miw2NDYwMzAzMzAsMTUzODQwNjU4OCwxNDQ1MjU2
-NDc5LDEzNDA0NTgxMiwtMTY0NjM1ODUyNywtMTIzNzA3MzAwLC
-0yMTQ2MTMxOTQzLDY3NjM2NTc2MiwtMTE0NzgyOTc3NywtNzA1
-Nzg2MzE0LC05NzE1NDQ2NTEsNjc3NzA5NTYyLC0xMDM2MzM0OT
-E0LDIzOTU3ODA5OCwtNDY1NTgyMDQ3LC0xMTk0NzkyMzMwLC0z
-OTYxODg2MTVdfQ==
+eyJoaXN0b3J5IjpbMTkwOTA1NzQzLC0xMzE1OTM2NDU1LC0xND
+k3MjQ2NDgyLDY0NjAzMDMzMCwxNTM4NDA2NTg4LDE0NDUyNTY0
+NzksMTM0MDQ1ODEyLC0xNjQ2MzU4NTI3LC0xMjM3MDczMDAsLT
+IxNDYxMzE5NDMsNjc2MzY1NzYyLC0xMTQ3ODI5Nzc3LC03MDU3
+ODYzMTQsLTk3MTU0NDY1MSw2Nzc3MDk1NjIsLTEwMzYzMzQ5MT
+QsMjM5NTc4MDk4LC00NjU1ODIwNDcsLTExOTQ3OTIzMzAsLTM5
+NjE4ODYxNV19
 -->
