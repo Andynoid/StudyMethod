@@ -63,14 +63,16 @@
 - There is no equal opportunity globally currently.
 - Should we solve this problem? -- Policy philosophers.
 - Asset transfer between generations and nations.
+- Implicit contract between international citizens
+> Rawls and *Theory of justice* and *Law of justice*
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4MTk0NjA1LDY4MDI4ODQ5NywtMzE5NT
-U3MjU3LDE5MDkwNTc0MywtMTMxNTkzNjQ1NSwtMTQ5NzI0NjQ4
-Miw2NDYwMzAzMzAsMTUzODQwNjU4OCwxNDQ1MjU2NDc5LDEzND
-A0NTgxMiwtMTY0NjM1ODUyNywtMTIzNzA3MzAwLC0yMTQ2MTMx
-OTQzLDY3NjM2NTc2MiwtMTE0NzgyOTc3NywtNzA1Nzg2MzE0LC
-05NzE1NDQ2NTEsNjc3NzA5NTYyLC0xMDM2MzM0OTE0LDIzOTU3
-ODA5OF19
+eyJoaXN0b3J5IjpbNzAyMTAxNjY0LDUyODE5NDYwNSw2ODAyOD
+g0OTcsLTMxOTU1NzI1NywxOTA5MDU3NDMsLTEzMTU5MzY0NTUs
+LTE0OTcyNDY0ODIsNjQ2MDMwMzMwLDE1Mzg0MDY1ODgsMTQ0NT
+I1NjQ3OSwxMzQwNDU4MTIsLTE2NDYzNTg1MjcsLTEyMzcwNzMw
+MCwtMjE0NjEzMTk0Myw2NzYzNjU3NjIsLTExNDc4Mjk3NzcsLT
+cwNTc4NjMxNCwtOTcxNTQ0NjUxLDY3NzcwOTU2MiwtMTAzNjMz
+NDkxNF19
 -->
