@@ -62,10 +62,11 @@
 ## Global inequality of opportunity
 - There is no equal opportunity globally currently.
 - Should we solve this problem? -- Policy philosophers.
-- Asset
+- Asset transfer between generations and nations.
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5Mjg4Mzk5LDY4MDI4ODQ5NywtMzE5NT
+eyJoaXN0b3J5IjpbNTI4MTk0NjA1LDY4MDI4ODQ5NywtMzE5NT
 U3MjU3LDE5MDkwNTc0MywtMTMxNTkzNjQ1NSwtMTQ5NzI0NjQ4
 Miw2NDYwMzAzMzAsMTUzODQwNjU4OCwxNDQ1MjU2NDc5LDEzND
 A0NTgxMiwtMTY0NjM1ODUyNywtMTIzNzA3MzAwLC0yMTQ2MTMx
