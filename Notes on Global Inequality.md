@@ -78,14 +78,15 @@ Tensions in migration problem:
 2. Two aspect of globalization: one encourages the movement of capital and the other severely limits the right of movement of labor.
 3. The economic principle of maximization of income and its application within countries but not globally: Maximization of income in each country does not means maximising global income.
 4. The concept of development: development of people within country and the betterness in another country,
-
+- Domain exclusion as well as discrimination existed for balancing migration potential.
 - Gray areas in citizenship created by legal residency without vote right.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTY3NzEwOCwtMjA0NjMwOTU5OCwtMT
-YwMzgxODYxMiwyMDEyNDMyMDEsMTQxMjI1NTQ3NywtOTMxNTM1
-MTA0LDcwMjEwMTY2NCw1MjgxOTQ2MDUsNjgwMjg4NDk3LC0zMT
-k1NTcyNTcsMTkwOTA1NzQzLC0xMzE1OTM2NDU1LC0xNDk3MjQ2
-NDgyLDY0NjAzMDMzMCwxNTM4NDA2NTg4LDE0NDUyNTY0NzksMT
-M0MDQ1ODEyLC0xNjQ2MzU4NTI3LC0xMjM3MDczMDAsLTIxNDYx
-MzE5NDNdfQ==
+eyJoaXN0b3J5IjpbLTEwNjE2NTg3MTksLTIwNDYzMDk1OTgsLT
+E2MDM4MTg2MTIsMjAxMjQzMjAxLDE0MTIyNTU0NzcsLTkzMTUz
+NTEwNCw3MDIxMDE2NjQsNTI4MTk0NjA1LDY4MDI4ODQ5NywtMz
+E5NTU3MjU3LDE5MDkwNTc0MywtMTMxNTkzNjQ1NSwtMTQ5NzI0
+NjQ4Miw2NDYwMzAzMzAsMTUzODQwNjU4OCwxNDQ1MjU2NDc5LD
+EzNDA0NTgxMiwtMTY0NjM1ODUyNywtMTIzNzA3MzAwLC0yMTQ2
+MTMxOTQzXX0=
 -->
