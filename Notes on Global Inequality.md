@@ -76,12 +76,13 @@
 Tensions in migration problem:
 1. The right to leave their own country and the lack of right to move to the country they see fit.
 2. Two aspect of globalization: one encourages the movement of capital and the other severely limits the right of movement of labor.
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjI1NTQ3NywtOTMxNTM1MTA0LDcwMj
-EwMTY2NCw1MjgxOTQ2MDUsNjgwMjg4NDk3LC0zMTk1NTcyNTcs
-MTkwOTA1NzQzLC0xMzE1OTM2NDU1LC0xNDk3MjQ2NDgyLDY0Nj
-AzMDMzMCwxNTM4NDA2NTg4LDE0NDUyNTY0NzksMTM0MDQ1ODEy
-LC0xNjQ2MzU4NTI3LC0xMjM3MDczMDAsLTIxNDYxMzE5NDMsNj
-c2MzY1NzYyLC0xMTQ3ODI5Nzc3LC03MDU3ODYzMTQsLTk3MTU0
-NDY1MV19
+eyJoaXN0b3J5IjpbLTg4NjEwNDgyMCwxNDEyMjU1NDc3LC05Mz
+E1MzUxMDQsNzAyMTAxNjY0LDUyODE5NDYwNSw2ODAyODg0OTcs
+LTMxOTU1NzI1NywxOTA5MDU3NDMsLTEzMTU5MzY0NTUsLTE0OT
+cyNDY0ODIsNjQ2MDMwMzMwLDE1Mzg0MDY1ODgsMTQ0NTI1NjQ3
+OSwxMzQwNDU4MTIsLTE2NDYzNTg1MjcsLTEyMzcwNzMwMCwtMj
+E0NjEzMTk0Myw2NzYzNjU3NjIsLTExNDc4Mjk3NzcsLTcwNTc4
+NjMxNF19
 -->
