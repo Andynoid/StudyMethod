@@ -45,13 +45,16 @@
 - Income converge at global level.
 
 # Chapter 3 Inequality among Countries
-
+## Location and Class component
+- Balanced by rising of China and India.
+- Class was the major component in 1850
+- Loca
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU5MzY0NTUsLTE0OTcyNDY0ODIsNj
-Q2MDMwMzMwLDE1Mzg0MDY1ODgsMTQ0NTI1NjQ3OSwxMzQwNDU4
-MTIsLTE2NDYzNTg1MjcsLTEyMzcwNzMwMCwtMjE0NjEzMTk0My
-w2NzYzNjU3NjIsLTExNDc4Mjk3NzcsLTcwNTc4NjMxNCwtOTcx
-NTQ0NjUxLDY3NzcwOTU2MiwtMTAzNjMzNDkxNCwyMzk1NzgwOT
-gsLTQ2NTU4MjA0NywtMTE5NDc5MjMzMCwtMzk2MTg4NjE1LC0x
-MjgzOTM2NzI3XX0=
+eyJoaXN0b3J5IjpbLTE0MTgwODEyNDYsLTEzMTU5MzY0NTUsLT
+E0OTcyNDY0ODIsNjQ2MDMwMzMwLDE1Mzg0MDY1ODgsMTQ0NTI1
+NjQ3OSwxMzQwNDU4MTIsLTE2NDYzNTg1MjcsLTEyMzcwNzMwMC
+wtMjE0NjEzMTk0Myw2NzYzNjU3NjIsLTExNDc4Mjk3NzcsLTcw
+NTc4NjMxNCwtOTcxNTQ0NjUxLDY3NzcwOTU2MiwtMTAzNjMzND
+kxNCwyMzk1NzgwOTgsLTQ2NTU4MjA0NywtMTE5NDc5MjMzMCwt
+Mzk2MTg4NjE1XX0=
 -->
