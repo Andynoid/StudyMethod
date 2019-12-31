@@ -59,14 +59,15 @@
 - Privatisation of Communist asset  and the establishment of private asset in Russia and Coase theorem. However, TAR believe leaving the distribution out of economy is wrong. And this theory does not consider globalization.
 - Capital outflow of China to other countries.
 
-## B
+## Global inequality of opportunity
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5MzM2MDA2LC0zMTk1NTcyNTcsMTkwOT
-A1NzQzLC0xMzE1OTM2NDU1LC0xNDk3MjQ2NDgyLDY0NjAzMDMz
-MCwxNTM4NDA2NTg4LDE0NDUyNTY0NzksMTM0MDQ1ODEyLC0xNj
-Q2MzU4NTI3LC0xMjM3MDczMDAsLTIxNDYxMzE5NDMsNjc2MzY1
-NzYyLC0xMTQ3ODI5Nzc3LC03MDU3ODYzMTQsLTk3MTU0NDY1MS
-w2Nzc3MDk1NjIsLTEwMzYzMzQ5MTQsMjM5NTc4MDk4LC00NjU1
-ODIwNDddfQ==
+eyJoaXN0b3J5IjpbMTIyODUyMjM3NiwtMzE5NTU3MjU3LDE5MD
+kwNTc0MywtMTMxNTkzNjQ1NSwtMTQ5NzI0NjQ4Miw2NDYwMzAz
+MzAsMTUzODQwNjU4OCwxNDQ1MjU2NDc5LDEzNDA0NTgxMiwtMT
+Y0NjM1ODUyNywtMTIzNzA3MzAwLC0yMTQ2MTMxOTQzLDY3NjM2
+NTc2MiwtMTE0NzgyOTc3NywtNzA1Nzg2MzE0LC05NzE1NDQ2NT
+EsNjc3NzA5NTYyLC0xMDM2MzM0OTE0LDIzOTU3ODA5OCwtNDY1
+NTgyMDQ3XX0=
 -->
