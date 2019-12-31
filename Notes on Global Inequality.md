@@ -73,13 +73,15 @@
 - Physical barrier between rich country and poor country.
 
 ##  Reconcile Migration with unwillingness to Open boarders
-Tension
+Tensions in migration problem:
+1. The right to leave their own country and the lack of right to move to the country they see fit.
+2. Two aspect of globalization: one encourages the movement 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDA5NzY2MzYsLTkzMTUzNTEwNCw3MD
-IxMDE2NjQsNTI4MTk0NjA1LDY4MDI4ODQ5NywtMzE5NTU3MjU3
-LDE5MDkwNTc0MywtMTMxNTkzNjQ1NSwtMTQ5NzI0NjQ4Miw2ND
-YwMzAzMzAsMTUzODQwNjU4OCwxNDQ1MjU2NDc5LDEzNDA0NTgx
-MiwtMTY0NjM1ODUyNywtMTIzNzA3MzAwLC0yMTQ2MTMxOTQzLD
-Y3NjM2NTc2MiwtMTE0NzgyOTc3NywtNzA1Nzg2MzE0LC05NzE1
-NDQ2NTFdfQ==
+eyJoaXN0b3J5IjpbLTUwMTc5NjMzLC05MzE1MzUxMDQsNzAyMT
+AxNjY0LDUyODE5NDYwNSw2ODAyODg0OTcsLTMxOTU1NzI1Nywx
+OTA5MDU3NDMsLTEzMTU5MzY0NTUsLTE0OTcyNDY0ODIsNjQ2MD
+MwMzMwLDE1Mzg0MDY1ODgsMTQ0NTI1NjQ3OSwxMzQwNDU4MTIs
+LTE2NDYzNTg1MjcsLTEyMzcwNzMwMCwtMjE0NjEzMTk0Myw2Nz
+YzNjU3NjIsLTExNDc4Mjk3NzcsLTcwNTc4NjMxNCwtOTcxNTQ0
+NjUxXX0=
 -->
