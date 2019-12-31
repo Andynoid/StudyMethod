@@ -75,13 +75,13 @@
 ##  Reconcile Migration with unwillingness to Open boarders
 Tensions in migration problem:
 1. The right to leave their own country and the lack of right to move to the country they see fit.
-2. Two aspect of globalization: one encourages the movement 
+2. Two aspect of globalization: one encourages the movement of capital and the other severely limits the right of movement of labor.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTc5NjMzLC05MzE1MzUxMDQsNzAyMT
-AxNjY0LDUyODE5NDYwNSw2ODAyODg0OTcsLTMxOTU1NzI1Nywx
-OTA5MDU3NDMsLTEzMTU5MzY0NTUsLTE0OTcyNDY0ODIsNjQ2MD
-MwMzMwLDE1Mzg0MDY1ODgsMTQ0NTI1NjQ3OSwxMzQwNDU4MTIs
-LTE2NDYzNTg1MjcsLTEyMzcwNzMwMCwtMjE0NjEzMTk0Myw2Nz
-YzNjU3NjIsLTExNDc4Mjk3NzcsLTcwNTc4NjMxNCwtOTcxNTQ0
-NjUxXX0=
+eyJoaXN0b3J5IjpbMTQxMjI1NTQ3NywtOTMxNTM1MTA0LDcwMj
+EwMTY2NCw1MjgxOTQ2MDUsNjgwMjg4NDk3LC0zMTk1NTcyNTcs
+MTkwOTA1NzQzLC0xMzE1OTM2NDU1LC0xNDk3MjQ2NDgyLDY0Nj
+AzMDMzMCwxNTM4NDA2NTg4LDE0NDUyNTY0NzksMTM0MDQ1ODEy
+LC0xNjQ2MzU4NTI3LC0xMjM3MDczMDAsLTIxNDYxMzE5NDMsNj
+c2MzY1NzYyLC0xMTQ3ODI5Nzc3LC03MDU3ODYzMTQsLTk3MTU0
+NDY1MV19
 -->
