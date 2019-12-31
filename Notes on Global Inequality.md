@@ -70,9 +70,8 @@
 ** Contradiction at the heart of Globalization: The labor is the production factor that is not seemless moved, but capital is.**
 - Migration does not increase from 1980-2000
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2NjA3OTYzLDcwMjEwMTY2NCw1MjgxOT
+eyJoaXN0b3J5IjpbOTY4MDc1ODg1LDcwMjEwMTY2NCw1MjgxOT
 Q2MDUsNjgwMjg4NDk3LC0zMTk1NTcyNTcsMTkwOTA1NzQzLC0x
 MzE1OTM2NDU1LC0xNDk3MjQ2NDgyLDY0NjAzMDMzMCwxNTM4ND
 A2NTg4LDE0NDUyNTY0NzksMTM0MDQ1ODEyLC0xNjQ2MzU4NTI3
