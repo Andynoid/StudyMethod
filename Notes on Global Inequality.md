@@ -72,13 +72,14 @@
 - The conflict between stagnate migration number and the pressure from the needs of migrating to richer country.
 - Physical barrier between rich country and poor country.
 
-## 
+##  Reconcile Migration with unwillingness to Open boarders
+Tension
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0MDU0ODI1LC05MzE1MzUxMDQsNzAyMT
-AxNjY0LDUyODE5NDYwNSw2ODAyODg0OTcsLTMxOTU1NzI1Nywx
-OTA5MDU3NDMsLTEzMTU5MzY0NTUsLTE0OTcyNDY0ODIsNjQ2MD
-MwMzMwLDE1Mzg0MDY1ODgsMTQ0NTI1NjQ3OSwxMzQwNDU4MTIs
-LTE2NDYzNTg1MjcsLTEyMzcwNzMwMCwtMjE0NjEzMTk0Myw2Nz
-YzNjU3NjIsLTExNDc4Mjk3NzcsLTcwNTc4NjMxNCwtOTcxNTQ0
-NjUxXX0=
+eyJoaXN0b3J5IjpbLTIxNDA5NzY2MzYsLTkzMTUzNTEwNCw3MD
+IxMDE2NjQsNTI4MTk0NjA1LDY4MDI4ODQ5NywtMzE5NTU3MjU3
+LDE5MDkwNTc0MywtMTMxNTkzNjQ1NSwtMTQ5NzI0NjQ4Miw2ND
+YwMzAzMzAsMTUzODQwNjU4OCwxNDQ1MjU2NDc5LDEzNDA0NTgx
+MiwtMTY0NjM1ODUyNywtMTIzNzA3MzAwLC0yMTQ2MTMxOTQzLD
+Y3NjM2NTc2MiwtMTE0NzgyOTc3NywtNzA1Nzg2MzE0LC05NzE1
+NDQ2NTFdfQ==
 -->
