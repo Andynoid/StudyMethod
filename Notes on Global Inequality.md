@@ -60,10 +60,10 @@
 - Capital outflow of China to other countries.
 
 ## Global inequality of opportunity
-
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODUyMjM3NiwtMzE5NTU3MjU3LDE5MD
+eyJoaXN0b3J5IjpbMTMwMzczMzM5NywtMzE5NTU3MjU3LDE5MD
 kwNTc0MywtMTMxNTkzNjQ1NSwtMTQ5NzI0NjQ4Miw2NDYwMzAz
 MzAsMTUzODQwNjU4OCwxNDQ1MjU2NDc5LDEzNDA0NTgxMiwtMT
 Y0NjM1ODUyNywtMTIzNzA3MzAwLC0yMTQ2MTMxOTQzLDY3NjM2
