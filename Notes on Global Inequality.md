@@ -57,13 +57,16 @@
 
 ## The Coase theorem and role of law in globalization.
 - Privatisation of Communist asset  and the establishment of private asset in Russia and Coase theorem. However, TAR believe leaving the distribution out of economy is wrong. And this theory does not consider globalization.
-- 
+- Capital outflow of China to other countries.
+
+## B
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTU1NzI1NywxOTA5MDU3NDMsLTEzMT
-U5MzY0NTUsLTE0OTcyNDY0ODIsNjQ2MDMwMzMwLDE1Mzg0MDY1
-ODgsMTQ0NTI1NjQ3OSwxMzQwNDU4MTIsLTE2NDYzNTg1MjcsLT
-EyMzcwNzMwMCwtMjE0NjEzMTk0Myw2NzYzNjU3NjIsLTExNDc4
-Mjk3NzcsLTcwNTc4NjMxNCwtOTcxNTQ0NjUxLDY3NzcwOTU2Mi
-wtMTAzNjMzNDkxNCwyMzk1NzgwOTgsLTQ2NTU4MjA0NywtMTE5
-NDc5MjMzMF19
+eyJoaXN0b3J5IjpbODI5MzM2MDA2LC0zMTk1NTcyNTcsMTkwOT
+A1NzQzLC0xMzE1OTM2NDU1LC0xNDk3MjQ2NDgyLDY0NjAzMDMz
+MCwxNTM4NDA2NTg4LDE0NDUyNTY0NzksMTM0MDQ1ODEyLC0xNj
+Q2MzU4NTI3LC0xMjM3MDczMDAsLTIxNDYxMzE5NDMsNjc2MzY1
+NzYyLC0xMTQ3ODI5Nzc3LC03MDU3ODYzMTQsLTk3MTU0NDY1MS
+w2Nzc3MDk1NjIsLTEwMzYzMzQ5MTQsMjM5NTc4MDk4LC00NjU1
+ODIwNDddfQ==
 -->
