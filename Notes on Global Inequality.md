@@ -56,9 +56,10 @@
 - Citizenship premium and migration policy.
 
 ## The Coase theorem and role of law in globalization.
-- Privatisation of Communist asset in Russia and Coase theorem.
+- Privatisation of Communist asset in Russia and Coase theorem. However, TAR believe leaving the distribution out of economy is wrong.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0MTkzNjI5LDE5MDkwNTc0MywtMTMxNT
+eyJoaXN0b3J5IjpbNzMzNzA3NzQwLDE5MDkwNTc0MywtMTMxNT
 kzNjQ1NSwtMTQ5NzI0NjQ4Miw2NDYwMzAzMzAsMTUzODQwNjU4
 OCwxNDQ1MjU2NDc5LDEzNDA0NTgxMiwtMTY0NjM1ODUyNywtMT
 IzNzA3MzAwLC0yMTQ2MTMxOTQzLDY3NjM2NTc2MiwtMTE0Nzgy
