@@ -77,13 +77,14 @@ Tensions in migration problem:
 1. The right to leave their own country and the lack of right to move to the country they see fit.
 2. Two aspect of globalization: one encourages the movement of capital and the other severely limits the right of movement of labor.
 3. The economic principle of maximization of income and its application within countries but not globally: Maximization of income in each country does not means maximising global income.
-4. 
+4. The concept of development: development of people within country and the betterness in another country,
+5. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjQzMjAxLDE0MTIyNTU0NzcsLTkzMT
-UzNTEwNCw3MDIxMDE2NjQsNTI4MTk0NjA1LDY4MDI4ODQ5Nywt
-MzE5NTU3MjU3LDE5MDkwNTc0MywtMTMxNTkzNjQ1NSwtMTQ5Nz
-I0NjQ4Miw2NDYwMzAzMzAsMTUzODQwNjU4OCwxNDQ1MjU2NDc5
-LDEzNDA0NTgxMiwtMTY0NjM1ODUyNywtMTIzNzA3MzAwLC0yMT
-Q2MTMxOTQzLDY3NjM2NTc2MiwtMTE0NzgyOTc3NywtNzA1Nzg2
-MzE0XX0=
+eyJoaXN0b3J5IjpbLTE2MDM4MTg2MTIsMjAxMjQzMjAxLDE0MT
+IyNTU0NzcsLTkzMTUzNTEwNCw3MDIxMDE2NjQsNTI4MTk0NjA1
+LDY4MDI4ODQ5NywtMzE5NTU3MjU3LDE5MDkwNTc0MywtMTMxNT
+kzNjQ1NSwtMTQ5NzI0NjQ4Miw2NDYwMzAzMzAsMTUzODQwNjU4
+OCwxNDQ1MjU2NDc5LDEzNDA0NTgxMiwtMTY0NjM1ODUyNywtMT
+IzNzA3MzAwLC0yMTQ2MTMxOTQzLDY3NjM2NTc2MiwtMTE0Nzgy
+OTc3N119
 -->
