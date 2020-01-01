@@ -104,13 +104,13 @@ Tensions in migration problem:
 ## Is convergence an Asian phenomenon?
 - Convergence is because the fast growth of populus asian countries.
 - Africa and Latin America are left behind.
-- 
+- Africa have a cyclic economic dec
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2ODEwNzk5LDE5NzE5MjI5ODQsODc2Nz
-g2ODc4LDE2ODg3NjkxMzQsLTIwMDI1NzI5NjUsLTg4Mzg3NDM5
-NCwtODkzNTYyMDM1LDEwNjEwMDAyMTAsLTMxOTIwNjU5NCw2ND
-IxMTg4MTUsLTEwNjE2NTg3MTksLTIwNDYzMDk1OTgsLTE2MDM4
-MTg2MTIsMjAxMjQzMjAxLDE0MTIyNTU0NzcsLTkzMTUzNTEwNC
-w3MDIxMDE2NjQsNTI4MTk0NjA1LDY4MDI4ODQ5NywtMzE5NTU3
-MjU3XX0=
+eyJoaXN0b3J5IjpbLTYwODAyMTM4NCwyMzY4MTA3OTksMTk3MT
+kyMjk4NCw4NzY3ODY4NzgsMTY4ODc2OTEzNCwtMjAwMjU3Mjk2
+NSwtODgzODc0Mzk0LC04OTM1NjIwMzUsMTA2MTAwMDIxMCwtMz
+E5MjA2NTk0LDY0MjExODgxNSwtMTA2MTY1ODcxOSwtMjA0NjMw
+OTU5OCwtMTYwMzgxODYxMiwyMDEyNDMyMDEsMTQxMjI1NTQ3Ny
+wtOTMxNTM1MTA0LDcwMjEwMTY2NCw1MjgxOTQ2MDUsNjgwMjg4
+NDk3XX0=
 -->
