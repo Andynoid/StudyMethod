@@ -85,9 +85,10 @@ Tensions in migration problem:
 # Chapter 4 Global inequality in this century and the Next.
 ## Intro
 - Discussion of economic forecast are strongly limited by popular beliefs at certain ages.
-- View of convergence of capitalism and socialism at 60-70s. However, socialism collapse and pa
+- View of convergence of capitalism and socialism at 60-70s. However, socialism collapse and second technology revolution and the rise of China and India was missing.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjEyNDA5NSwtODkzNTYyMDM1LDEwNj
+eyJoaXN0b3J5IjpbMTYyOTIzODAyOCwtODkzNTYyMDM1LDEwNj
 EwMDAyMTAsLTMxOTIwNjU5NCw2NDIxMTg4MTUsLTEwNjE2NTg3
 MTksLTIwNDYzMDk1OTgsLTE2MDM4MTg2MTIsMjAxMjQzMjAxLD
 E0MTIyNTU0NzcsLTkzMTUzNTEwNCw3MDIxMDE2NjQsNTI4MTk0
