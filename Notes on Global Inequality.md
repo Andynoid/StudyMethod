@@ -89,9 +89,10 @@ Tensions in migration problem:
 - Generally, forecast: the wrong belief that the current trend will continue; the inability to predict single event; over-exaggerate focus o key global players.
 
 ## Outline of Main forces: Economic convergence and Kuznets waves.
-- With 
+- With globalisation, there should be income convergence.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM2MTQ0MSwtMjAwMjU3Mjk2NSwtOD
+eyJoaXN0b3J5IjpbMTY4ODc2OTEzNCwtMjAwMjU3Mjk2NSwtOD
 gzODc0Mzk0LC04OTM1NjIwMzUsMTA2MTAwMDIxMCwtMzE5MjA2
 NTk0LDY0MjExODgxNSwtMTA2MTY1ODcxOSwtMjA0NjMwOTU5OC
 wtMTYwMzgxODYxMiwyMDEyNDMyMDEsMTQxMjI1NTQ3NywtOTMx
