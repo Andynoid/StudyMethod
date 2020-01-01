@@ -102,13 +102,14 @@ Tensions in migration problem:
 - ** The key force of declined global inequality: higher growth rate in emerging economy from mid-1980s**
 
 ## Is convergence an Asian phenomenon?
-##
+- Convergence is because the fast growth of populus asian countries.
+- Af
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU3MDM4NjQsMTk3MTkyMjk4NCw4Nz
-Y3ODY4NzgsMTY4ODc2OTEzNCwtMjAwMjU3Mjk2NSwtODgzODc0
-Mzk0LC04OTM1NjIwMzUsMTA2MTAwMDIxMCwtMzE5MjA2NTk0LD
-Y0MjExODgxNSwtMTA2MTY1ODcxOSwtMjA0NjMwOTU5OCwtMTYw
-MzgxODYxMiwyMDEyNDMyMDEsMTQxMjI1NTQ3NywtOTMxNTM1MT
-A0LDcwMjEwMTY2NCw1MjgxOTQ2MDUsNjgwMjg4NDk3LC0zMTk1
-NTcyNTddfQ==
+eyJoaXN0b3J5IjpbMTI5NzE1NDYxNSwxOTcxOTIyOTg0LDg3Nj
+c4Njg3OCwxNjg4NzY5MTM0LC0yMDAyNTcyOTY1LC04ODM4NzQz
+OTQsLTg5MzU2MjAzNSwxMDYxMDAwMjEwLC0zMTkyMDY1OTQsNj
+QyMTE4ODE1LC0xMDYxNjU4NzE5LC0yMDQ2MzA5NTk4LC0xNjAz
+ODE4NjEyLDIwMTI0MzIwMSwxNDEyMjU1NDc3LC05MzE1MzUxMD
+QsNzAyMTAxNjY0LDUyODE5NDYwNSw2ODAyODg0OTcsLTMxOTU1
+NzI1N119
 -->
