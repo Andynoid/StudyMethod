@@ -105,12 +105,14 @@ Tensions in migration problem:
 - Convergence is because the fast growth of populus asian countries.
 - Africa and Latin America are left behind.
 - Africa have a cyclic economic decline and spurt with very high GDP shortfall: the inability to sustain growth or even level of production.
+- A very 'loose' prediction of next 40 years by Hellebrandt and Mauro(2015) in *E4.1*: 
+-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5ODM3MzU3LDIzNjgxMDc5OSwxOTcxOT
-IyOTg0LDg3Njc4Njg3OCwxNjg4NzY5MTM0LC0yMDAyNTcyOTY1
-LC04ODM4NzQzOTQsLTg5MzU2MjAzNSwxMDYxMDAwMjEwLC0zMT
-kyMDY1OTQsNjQyMTE4ODE1LC0xMDYxNjU4NzE5LC0yMDQ2MzA5
-NTk4LC0xNjAzODE4NjEyLDIwMTI0MzIwMSwxNDEyMjU1NDc3LC
-05MzE1MzUxMDQsNzAyMTAxNjY0LDUyODE5NDYwNSw2ODAyODg0
-OTddfQ==
+eyJoaXN0b3J5IjpbODg3MDQzMTg0LDQwOTgzNzM1NywyMzY4MT
+A3OTksMTk3MTkyMjk4NCw4NzY3ODY4NzgsMTY4ODc2OTEzNCwt
+MjAwMjU3Mjk2NSwtODgzODc0Mzk0LC04OTM1NjIwMzUsMTA2MT
+AwMDIxMCwtMzE5MjA2NTk0LDY0MjExODgxNSwtMTA2MTY1ODcx
+OSwtMjA0NjMwOTU5OCwtMTYwMzgxODYxMiwyMDEyNDMyMDEsMT
+QxMjI1NTQ3NywtOTMxNTM1MTA0LDcwMjEwMTY2NCw1MjgxOTQ2
+MDVdfQ==
 -->
