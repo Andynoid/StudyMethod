@@ -89,13 +89,13 @@ Tensions in migration problem:
 - Generally, forecast: the wrong belief that the current trend will continue; the inability to predict single event; over-exaggerate focus o key global players.
 
 ## Outline of Main forces: Economic convergence and Kuznets waves.
-- 
+- With 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI1NzI5NjUsLTg4Mzg3NDM5NCwtOD
-kzNTYyMDM1LDEwNjEwMDAyMTAsLTMxOTIwNjU5NCw2NDIxMTg4
-MTUsLTEwNjE2NTg3MTksLTIwNDYzMDk1OTgsLTE2MDM4MTg2MT
-IsMjAxMjQzMjAxLDE0MTIyNTU0NzcsLTkzMTUzNTEwNCw3MDIx
-MDE2NjQsNTI4MTk0NjA1LDY4MDI4ODQ5NywtMzE5NTU3MjU3LD
-E5MDkwNTc0MywtMTMxNTkzNjQ1NSwtMTQ5NzI0NjQ4Miw2NDYw
-MzAzMzBdfQ==
+eyJoaXN0b3J5IjpbLTIwNDM2MTQ0MSwtMjAwMjU3Mjk2NSwtOD
+gzODc0Mzk0LC04OTM1NjIwMzUsMTA2MTAwMDIxMCwtMzE5MjA2
+NTk0LDY0MjExODgxNSwtMTA2MTY1ODcxOSwtMjA0NjMwOTU5OC
+wtMTYwMzgxODYxMiwyMDEyNDMyMDEsMTQxMjI1NTQ3NywtOTMx
+NTM1MTA0LDcwMjEwMTY2NCw1MjgxOTQ2MDUsNjgwMjg4NDk3LC
+0zMTk1NTcyNTcsMTkwOTA1NzQzLC0xMzE1OTM2NDU1LC0xNDk3
+MjQ2NDgyXX0=
 -->
