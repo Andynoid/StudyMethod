@@ -102,13 +102,13 @@ Tensions in migration problem:
 - ** The key force of declined global inequality: higher growth rate in emerging economy from mid-1980s**
 
 ## Is convergence an Asian phenomenon?
-
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTkyMjk4NCw4NzY3ODY4NzgsMTY4OD
-c2OTEzNCwtMjAwMjU3Mjk2NSwtODgzODc0Mzk0LC04OTM1NjIw
-MzUsMTA2MTAwMDIxMCwtMzE5MjA2NTk0LDY0MjExODgxNSwtMT
-A2MTY1ODcxOSwtMjA0NjMwOTU5OCwtMTYwMzgxODYxMiwyMDEy
-NDMyMDEsMTQxMjI1NTQ3NywtOTMxNTM1MTA0LDcwMjEwMTY2NC
-w1MjgxOTQ2MDUsNjgwMjg4NDk3LC0zMTk1NTcyNTcsMTkwOTA1
-NzQzXX0=
+eyJoaXN0b3J5IjpbLTEwMjU3MDM4NjQsMTk3MTkyMjk4NCw4Nz
+Y3ODY4NzgsMTY4ODc2OTEzNCwtMjAwMjU3Mjk2NSwtODgzODc0
+Mzk0LC04OTM1NjIwMzUsMTA2MTAwMDIxMCwtMzE5MjA2NTk0LD
+Y0MjExODgxNSwtMTA2MTY1ODcxOSwtMjA0NjMwOTU5OCwtMTYw
+MzgxODYxMiwyMDEyNDMyMDEsMTQxMjI1NTQ3NywtOTMxNTM1MT
+A0LDcwMjEwMTY2NCw1MjgxOTQ2MDUsNjgwMjg4NDk3LC0zMTk1
+NTcyNTddfQ==
 -->
