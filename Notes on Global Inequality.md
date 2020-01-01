@@ -80,13 +80,16 @@ Tensions in migration problem:
 4. The concept of development: development of people within country and the betterness in another country,
 - Domain exclusion as well as discrimination existed for balancing migration potential.
 - Gray areas in citizenship created by legal residency without vote right.
-- Payback from migrants: higher tax or 
+- Payback from migrants: higher tax or longer labor time.
+
+# Chapter 4 Global inequality in this century and the Next.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTIwNjU5NCw2NDIxMTg4MTUsLTEwNj
-E2NTg3MTksLTIwNDYzMDk1OTgsLTE2MDM4MTg2MTIsMjAxMjQz
-MjAxLDE0MTIyNTU0NzcsLTkzMTUzNTEwNCw3MDIxMDE2NjQsNT
-I4MTk0NjA1LDY4MDI4ODQ5NywtMzE5NTU3MjU3LDE5MDkwNTc0
-MywtMTMxNTkzNjQ1NSwtMTQ5NzI0NjQ4Miw2NDYwMzAzMzAsMT
-UzODQwNjU4OCwxNDQ1MjU2NDc5LDEzNDA0NTgxMiwtMTY0NjM1
-ODUyN119
+eyJoaXN0b3J5IjpbMTA2MTAwMDIxMCwtMzE5MjA2NTk0LDY0Mj
+ExODgxNSwtMTA2MTY1ODcxOSwtMjA0NjMwOTU5OCwtMTYwMzgx
+ODYxMiwyMDEyNDMyMDEsMTQxMjI1NTQ3NywtOTMxNTM1MTA0LD
+cwMjEwMTY2NCw1MjgxOTQ2MDUsNjgwMjg4NDk3LC0zMTk1NTcy
+NTcsMTkwOTA1NzQzLC0xMzE1OTM2NDU1LC0xNDk3MjQ2NDgyLD
+Y0NjAzMDMzMCwxNTM4NDA2NTg4LDE0NDUyNTY0NzksMTM0MDQ1
+ODEyXX0=
 -->
