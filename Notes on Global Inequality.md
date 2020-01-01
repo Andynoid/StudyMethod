@@ -87,13 +87,15 @@ Tensions in migration problem:
 - Discussion of economic forecast are strongly limited by popular beliefs at certain ages.
 - View of convergence of capitalism and socialism at 60-70s. However, socialism collapse and second technology revolution and the rise of China and India was missing.
 - Generally, forecast: the wrong belief that the current trend will continue; the inability to predict single event; over-exaggerate focus o key global players.
+
+## Outline of Main forces: Economic convergence and Kuznets waves.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4Mzg3NDM5NCwtODkzNTYyMDM1LDEwNj
-EwMDAyMTAsLTMxOTIwNjU5NCw2NDIxMTg4MTUsLTEwNjE2NTg3
-MTksLTIwNDYzMDk1OTgsLTE2MDM4MTg2MTIsMjAxMjQzMjAxLD
-E0MTIyNTU0NzcsLTkzMTUzNTEwNCw3MDIxMDE2NjQsNTI4MTk0
-NjA1LDY4MDI4ODQ5NywtMzE5NTU3MjU3LDE5MDkwNTc0MywtMT
-MxNTkzNjQ1NSwtMTQ5NzI0NjQ4Miw2NDYwMzAzMzAsMTUzODQw
-NjU4OF19
+eyJoaXN0b3J5IjpbLTIwMDI1NzI5NjUsLTg4Mzg3NDM5NCwtOD
+kzNTYyMDM1LDEwNjEwMDAyMTAsLTMxOTIwNjU5NCw2NDIxMTg4
+MTUsLTEwNjE2NTg3MTksLTIwNDYzMDk1OTgsLTE2MDM4MTg2MT
+IsMjAxMjQzMjAxLDE0MTIyNTU0NzcsLTkzMTUzNTEwNCw3MDIx
+MDE2NjQsNTI4MTk0NjA1LDY4MDI4ODQ5NywtMzE5NTU3MjU3LD
+E5MDkwNTc0MywtMTMxNTkzNjQ1NSwtMTQ5NzI0NjQ4Miw2NDYw
+MzAzMzBdfQ==
 -->
