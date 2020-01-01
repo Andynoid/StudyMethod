@@ -90,9 +90,11 @@ Tensions in migration problem:
 
 ## Outline of Main forces: Economic convergence and Kuznets waves.
 - With globalisation, there should be income convergence.
-- Rise
+- Richest country may either be more rich or began to fall down in the future.
+- Wars are linked to economical benefits.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0MTQ2OTgxLDE2ODg3NjkxMzQsLTIwMD
+eyJoaXN0b3J5IjpbODc2Nzg2ODc4LDE2ODg3NjkxMzQsLTIwMD
 I1NzI5NjUsLTg4Mzg3NDM5NCwtODkzNTYyMDM1LDEwNjEwMDAy
 MTAsLTMxOTIwNjU5NCw2NDIxMTg4MTUsLTEwNjE2NTg3MTksLT
 IwNDYzMDk1OTgsLTE2MDM4MTg2MTIsMjAxMjQzMjAxLDE0MTIy
