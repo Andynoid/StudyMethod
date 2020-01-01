@@ -83,13 +83,15 @@ Tensions in migration problem:
 - Payback from migrants: higher tax or longer labor time.
 
 # Chapter 4 Global inequality in this century and the Next.
+## Intro
+- Discussion of economic forecast are strongly limited by popular beliefs at certain ages.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTAwMDIxMCwtMzE5MjA2NTk0LDY0Mj
-ExODgxNSwtMTA2MTY1ODcxOSwtMjA0NjMwOTU5OCwtMTYwMzgx
-ODYxMiwyMDEyNDMyMDEsMTQxMjI1NTQ3NywtOTMxNTM1MTA0LD
-cwMjEwMTY2NCw1MjgxOTQ2MDUsNjgwMjg4NDk3LC0zMTk1NTcy
-NTcsMTkwOTA1NzQzLC0xMzE1OTM2NDU1LC0xNDk3MjQ2NDgyLD
-Y0NjAzMDMzMCwxNTM4NDA2NTg4LDE0NDUyNTY0NzksMTM0MDQ1
-ODEyXX0=
+eyJoaXN0b3J5IjpbLTg5MzU2MjAzNSwxMDYxMDAwMjEwLC0zMT
+kyMDY1OTQsNjQyMTE4ODE1LC0xMDYxNjU4NzE5LC0yMDQ2MzA5
+NTk4LC0xNjAzODE4NjEyLDIwMTI0MzIwMSwxNDEyMjU1NDc3LC
+05MzE1MzUxMDQsNzAyMTAxNjY0LDUyODE5NDYwNSw2ODAyODg0
+OTcsLTMxOTU1NzI1NywxOTA5MDU3NDMsLTEzMTU5MzY0NTUsLT
+E0OTcyNDY0ODIsNjQ2MDMwMzMwLDE1Mzg0MDY1ODgsMTQ0NTI1
+NjQ3OV19
 -->
