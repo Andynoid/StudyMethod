@@ -85,13 +85,13 @@ Tensions in migration problem:
 # Chapter 4 Global inequality in this century and the Next.
 ## Intro
 - Discussion of economic forecast are strongly limited by popular beliefs at certain ages.
-- View of convergence of capitalis
+- View of convergence of capitalism and socialism at 60-70s. However, socialism collapse and pa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTgyMDE3NDAsLTg5MzU2MjAzNSwxMD
-YxMDAwMjEwLC0zMTkyMDY1OTQsNjQyMTE4ODE1LC0xMDYxNjU4
-NzE5LC0yMDQ2MzA5NTk4LC0xNjAzODE4NjEyLDIwMTI0MzIwMS
-wxNDEyMjU1NDc3LC05MzE1MzUxMDQsNzAyMTAxNjY0LDUyODE5
-NDYwNSw2ODAyODg0OTcsLTMxOTU1NzI1NywxOTA5MDU3NDMsLT
-EzMTU5MzY0NTUsLTE0OTcyNDY0ODIsNjQ2MDMwMzMwLDE1Mzg0
-MDY1ODhdfQ==
+eyJoaXN0b3J5IjpbMTM1NjEyNDA5NSwtODkzNTYyMDM1LDEwNj
+EwMDAyMTAsLTMxOTIwNjU5NCw2NDIxMTg4MTUsLTEwNjE2NTg3
+MTksLTIwNDYzMDk1OTgsLTE2MDM4MTg2MTIsMjAxMjQzMjAxLD
+E0MTIyNTU0NzcsLTkzMTUzNTEwNCw3MDIxMDE2NjQsNTI4MTk0
+NjA1LDY4MDI4ODQ5NywtMzE5NTU3MjU3LDE5MDkwNTc0MywtMT
+MxNTkzNjQ1NSwtMTQ5NzI0NjQ4Miw2NDYwMzAzMzAsMTUzODQw
+NjU4OF19
 -->
