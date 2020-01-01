@@ -99,13 +99,14 @@ Tensions in migration problem:
 - Globalization in theory suggest so with easy access to technology and advance policy.
 - However, un-population-weighted data suggests a mixed convergence and divergence from 1960-2010 
 - Weighted data by population suggests a convergence.
+- ** The key force of declined global inequality: higher growth rate in emerging economy from mid-1980s**
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDYzNjg1Myw4NzY3ODY4NzgsMTY4OD
-c2OTEzNCwtMjAwMjU3Mjk2NSwtODgzODc0Mzk0LC04OTM1NjIw
-MzUsMTA2MTAwMDIxMCwtMzE5MjA2NTk0LDY0MjExODgxNSwtMT
-A2MTY1ODcxOSwtMjA0NjMwOTU5OCwtMTYwMzgxODYxMiwyMDEy
-NDMyMDEsMTQxMjI1NTQ3NywtOTMxNTM1MTA0LDcwMjEwMTY2NC
-w1MjgxOTQ2MDUsNjgwMjg4NDk3LC0zMTk1NTcyNTcsMTkwOTA1
-NzQzXX0=
+eyJoaXN0b3J5IjpbMjU2MjE3NjA3LDg3Njc4Njg3OCwxNjg4Nz
+Y5MTM0LC0yMDAyNTcyOTY1LC04ODM4NzQzOTQsLTg5MzU2MjAz
+NSwxMDYxMDAwMjEwLC0zMTkyMDY1OTQsNjQyMTE4ODE1LC0xMD
+YxNjU4NzE5LC0yMDQ2MzA5NTk4LC0xNjAzODE4NjEyLDIwMTI0
+MzIwMSwxNDEyMjU1NDc3LC05MzE1MzUxMDQsNzAyMTAxNjY0LD
+UyODE5NDYwNSw2ODAyODg0OTcsLTMxOTU1NzI1NywxOTA5MDU3
+NDNdfQ==
 -->
