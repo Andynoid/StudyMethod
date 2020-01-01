@@ -92,13 +92,13 @@ Tensions in migration problem:
 - With globalisation, there should be income convergence.
 - Richest country may either be more rich or began to fall down in the future.
 - Wars are linked to economical benefits.
-- 
+- Breakdown of country or civil wars: Political transition of China, current civil war of Iraq a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2Nzg2ODc4LDE2ODg3NjkxMzQsLTIwMD
-I1NzI5NjUsLTg4Mzg3NDM5NCwtODkzNTYyMDM1LDEwNjEwMDAy
-MTAsLTMxOTIwNjU5NCw2NDIxMTg4MTUsLTEwNjE2NTg3MTksLT
-IwNDYzMDk1OTgsLTE2MDM4MTg2MTIsMjAxMjQzMjAxLDE0MTIy
-NTU0NzcsLTkzMTUzNTEwNCw3MDIxMDE2NjQsNTI4MTk0NjA1LD
-Y4MDI4ODQ5NywtMzE5NTU3MjU3LDE5MDkwNTc0MywtMTMxNTkz
-NjQ1NV19
+eyJoaXN0b3J5IjpbLTExMjMwNDI1MTgsODc2Nzg2ODc4LDE2OD
+g3NjkxMzQsLTIwMDI1NzI5NjUsLTg4Mzg3NDM5NCwtODkzNTYy
+MDM1LDEwNjEwMDAyMTAsLTMxOTIwNjU5NCw2NDIxMTg4MTUsLT
+EwNjE2NTg3MTksLTIwNDYzMDk1OTgsLTE2MDM4MTg2MTIsMjAx
+MjQzMjAxLDE0MTIyNTU0NzcsLTkzMTUzNTEwNCw3MDIxMDE2Nj
+QsNTI4MTk0NjA1LDY4MDI4ODQ5NywtMzE5NTU3MjU3LDE5MDkw
+NTc0M119
 -->
