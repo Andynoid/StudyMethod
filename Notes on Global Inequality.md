@@ -97,13 +97,14 @@ Tensions in migration problem:
 ## Income convergence
 - Poor countries may grow faster than rich counties?
 - Globalization in theory suggest so with easy access to technology and advance policy.
-- However, data suggests opposite
+- However, un-population-weighted data suggests a mixed convergence and divergence from 1960-2010 
+- Weighted data by 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjUyMzY2MjEsODc2Nzg2ODc4LDE2OD
-g3NjkxMzQsLTIwMDI1NzI5NjUsLTg4Mzg3NDM5NCwtODkzNTYy
-MDM1LDEwNjEwMDAyMTAsLTMxOTIwNjU5NCw2NDIxMTg4MTUsLT
-EwNjE2NTg3MTksLTIwNDYzMDk1OTgsLTE2MDM4MTg2MTIsMjAx
-MjQzMjAxLDE0MTIyNTU0NzcsLTkzMTUzNTEwNCw3MDIxMDE2Nj
-QsNTI4MTk0NjA1LDY4MDI4ODQ5NywtMzE5NTU3MjU3LDE5MDkw
-NTc0M119
+eyJoaXN0b3J5IjpbLTU5OTAzMTM3Miw4NzY3ODY4NzgsMTY4OD
+c2OTEzNCwtMjAwMjU3Mjk2NSwtODgzODc0Mzk0LC04OTM1NjIw
+MzUsMTA2MTAwMDIxMCwtMzE5MjA2NTk0LDY0MjExODgxNSwtMT
+A2MTY1ODcxOSwtMjA0NjMwOTU5OCwtMTYwMzgxODYxMiwyMDEy
+NDMyMDEsMTQxMjI1NTQ3NywtOTMxNTM1MTA0LDcwMjEwMTY2NC
+w1MjgxOTQ2MDUsNjgwMjg4NDk3LC0zMTk1NTcyNTcsMTkwOTA1
+NzQzXX0=
 -->
