@@ -131,13 +131,13 @@ Tensions in migration problem:
 - **Populism** -- European countries.
 - More parties in general election
 - Migrants bring different cultures and social norms.
-- 
+- High social wellfare rooted in a 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTU4MTIxNzgsLTgzMjgyMTc3LDE2OT
-MxMjI4OSwyMDU3MzEyMDY3LDE4MDE5MDk1MDUsLTM1NTUyOTQ3
-NCw1ODI5OTQ4MzcsMTQ2NDU1MDc2OSwtMTY5OTY3OTM5MiwxND
-MwMjM1NzUwLDQwOTgzNzM1NywyMzY4MTA3OTksMTk3MTkyMjk4
-NCw4NzY3ODY4NzgsMTY4ODc2OTEzNCwtMjAwMjU3Mjk2NSwtOD
-gzODc0Mzk0LC04OTM1NjIwMzUsMTA2MTAwMDIxMCwtMzE5MjA2
-NTk0XX0=
+eyJoaXN0b3J5IjpbLTYyOTQ2NzM5NiwtMTIxNTgxMjE3OCwtOD
+MyODIxNzcsMTY5MzEyMjg5LDIwNTczMTIwNjcsMTgwMTkwOTUw
+NSwtMzU1NTI5NDc0LDU4Mjk5NDgzNywxNDY0NTUwNzY5LC0xNj
+k5Njc5MzkyLDE0MzAyMzU3NTAsNDA5ODM3MzU3LDIzNjgxMDc5
+OSwxOTcxOTIyOTg0LDg3Njc4Njg3OCwxNjg4NzY5MTM0LC0yMD
+AyNTcyOTY1LC04ODM4NzQzOTQsLTg5MzU2MjAzNSwxMDYxMDAw
+MjEwXX0=
 -->
