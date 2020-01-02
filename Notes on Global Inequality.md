@@ -142,14 +142,14 @@ Tensions in migration problem:
 4. Will winner-take-all remain the rule? Enhanced scalebility from technology advancement.
 5. Why is it wrong to focus on exclusively on horizontal inequality? General inequality ** is ** the root of many horizontal inequality.
 6. Will labor remain different from other factors of production? Require Multilateralism involving sending countries and recipient countries. redefinement of citizenship to solve the migrant problem.
-7. Will economic growth still matter? It will. But will a ecological upper lim
+7. Will economic growth still matter? It will. But will a ecological upper limit where the growth rate of the rich must be constraint in order for the poor to improve.
 8. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDg5Mjk1LC0xNjUyOTg0NDU3LC0yMT
-IwNzA4NDI2LDMzMjc4MjY0MSwtMjA2MTY1NDA1LC0xMTEwNjM5
-NzI5LDYyOTQ5ODc4NiwtMjI5NjA0NDEsMzc2NzM0Nzk5LC02Nz
-YzODQzMzgsLTEyMTU4MTIxNzgsLTgzMjgyMTc3LDE2OTMxMjI4
-OSwyMDU3MzEyMDY3LDE4MDE5MDk1MDUsLTM1NTUyOTQ3NCw1OD
-I5OTQ4MzcsMTQ2NDU1MDc2OSwtMTY5OTY3OTM5MiwxNDMwMjM1
-NzUwXX0=
+eyJoaXN0b3J5IjpbLTE0MjkxOTgwODgsLTE2NTI5ODQ0NTcsLT
+IxMjA3MDg0MjYsMzMyNzgyNjQxLC0yMDYxNjU0MDUsLTExMTA2
+Mzk3MjksNjI5NDk4Nzg2LC0yMjk2MDQ0MSwzNzY3MzQ3OTksLT
+Y3NjM4NDMzOCwtMTIxNTgxMjE3OCwtODMyODIxNzcsMTY5MzEy
+Mjg5LDIwNTczMTIwNjcsMTgwMTkwOTUwNSwtMzU1NTI5NDc0LD
+U4Mjk5NDgzNywxNDY0NTUwNzY5LC0xNjk5Njc5MzkyLDE0MzAy
+MzU3NTBdfQ==
 -->
