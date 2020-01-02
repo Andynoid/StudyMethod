@@ -126,13 +126,14 @@ Tensions in migration problem:
 2. Decoupling of democracy and capitalism. Middle class prefer democracy but inequality hollow the middle class.
 3. * The decline of middle class* : Leads to production focusing more on luxuries instead of middle class consumption.
 - Also see an increase in guard jobs: 2% of total labor in US 2000.
-
+- ** plutocracy: dictatorship of the propertied class **
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NzMxMjA2NywxODAxOTA5NTA1LC0zNT
-U1Mjk0NzQsNTgyOTk0ODM3LDE0NjQ1NTA3NjksLTE2OTk2Nzkz
-OTIsMTQzMDIzNTc1MCw0MDk4MzczNTcsMjM2ODEwNzk5LDE5Nz
-E5MjI5ODQsODc2Nzg2ODc4LDE2ODg3NjkxMzQsLTIwMDI1NzI5
-NjUsLTg4Mzg3NDM5NCwtODkzNTYyMDM1LDEwNjEwMDAyMTAsLT
-MxOTIwNjU5NCw2NDIxMTg4MTUsLTEwNjE2NTg3MTksLTIwNDYz
-MDk1OThdfQ==
+eyJoaXN0b3J5IjpbMTY5MzEyMjg5LDIwNTczMTIwNjcsMTgwMT
+kwOTUwNSwtMzU1NTI5NDc0LDU4Mjk5NDgzNywxNDY0NTUwNzY5
+LC0xNjk5Njc5MzkyLDE0MzAyMzU3NTAsNDA5ODM3MzU3LDIzNj
+gxMDc5OSwxOTcxOTIyOTg0LDg3Njc4Njg3OCwxNjg4NzY5MTM0
+LC0yMDAyNTcyOTY1LC04ODM4NzQzOTQsLTg5MzU2MjAzNSwxMD
+YxMDAwMjEwLC0zMTkyMDY1OTQsNjQyMTE4ODE1LC0xMDYxNjU4
+NzE5XX0=
 -->
