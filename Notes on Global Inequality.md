@@ -130,13 +130,14 @@ Tensions in migration problem:
 - Democracy suppression: 1. suppressing the vote of the poor. 2. creating a false consciousness among the lower middle class and the poor.
 - **Populism** -- European countries.
 - More parties in general election
-- Migrants bring different cultures
+- Migrants bring different cultures and social norms.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDMxMzgwLC04MzI4MjE3NywxNjkzMT
-IyODksMjA1NzMxMjA2NywxODAxOTA5NTA1LC0zNTU1Mjk0NzQs
-NTgyOTk0ODM3LDE0NjQ1NTA3NjksLTE2OTk2NzkzOTIsMTQzMD
-IzNTc1MCw0MDk4MzczNTcsMjM2ODEwNzk5LDE5NzE5MjI5ODQs
-ODc2Nzg2ODc4LDE2ODg3NjkxMzQsLTIwMDI1NzI5NjUsLTg4Mz
-g3NDM5NCwtODkzNTYyMDM1LDEwNjEwMDAyMTAsLTMxOTIwNjU5
-NF19
+eyJoaXN0b3J5IjpbLTEyMTU4MTIxNzgsLTgzMjgyMTc3LDE2OT
+MxMjI4OSwyMDU3MzEyMDY3LDE4MDE5MDk1MDUsLTM1NTUyOTQ3
+NCw1ODI5OTQ4MzcsMTQ2NDU1MDc2OSwtMTY5OTY3OTM5MiwxND
+MwMjM1NzUwLDQwOTgzNzM1NywyMzY4MTA3OTksMTk3MTkyMjk4
+NCw4NzY3ODY4NzgsMTY4ODc2OTEzNCwtMjAwMjU3Mjk2NSwtOD
+gzODc0Mzk0LC04OTM1NjIwMzUsMTA2MTAwMDIxMCwtMzE5MjA2
+NTk0XX0=
 -->
