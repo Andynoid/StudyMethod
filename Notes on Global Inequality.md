@@ -123,10 +123,11 @@ Tensions in migration problem:
 ## Perils of inequality: Plutocracy and Populism
 ** Does inequality threaten the sustainability of Western democratic capitalism? **
 1. Inequality may ** not** danger capitalism, but **may** danger democratic capitalism
-2. Decoupling of democracy and capitalism.
+2. Decoupling of democracy and capitalism. Middle class prefer democracy but inequality hollow the middle class.
+3. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODkxODU4NjAsLTM1NTUyOTQ3NCw1OD
+eyJoaXN0b3J5IjpbLTE4NTAzNjEyMzYsLTM1NTUyOTQ3NCw1OD
 I5OTQ4MzcsMTQ2NDU1MDc2OSwtMTY5OTY3OTM5MiwxNDMwMjM1
 NzUwLDQwOTgzNzM1NywyMzY4MTA3OTksMTk3MTkyMjk4NCw4Nz
 Y3ODY4NzgsMTY4ODc2OTEzNCwtMjAwMjU3Mjk2NSwtODgzODc0
