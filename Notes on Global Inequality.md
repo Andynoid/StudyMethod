@@ -108,14 +108,17 @@ Tensions in migration problem:
 - A very 'loose' prediction of next 40 years by Hellebrandt and Mauro(2015) in *E4.1*: ~ 6 percent decrease of Gini 
 
 ## Inequality in China and US
-- China: Little household data available. * **Kuznets and Lewis** Turing point at the same time in the future.*
+- **China**: Little household data available. **Kuznets and Lewis** *Turing point at the same time in the future. *
 - Top down power structure and decentralised province system.
+- Political instability in China.
+- ** May be at the peak of the first Kuznets curve**
+- US
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDU1MDc2OSwtMTY5OTY3OTM5MiwxND
-MwMjM1NzUwLDQwOTgzNzM1NywyMzY4MTA3OTksMTk3MTkyMjk4
-NCw4NzY3ODY4NzgsMTY4ODc2OTEzNCwtMjAwMjU3Mjk2NSwtOD
-gzODc0Mzk0LC04OTM1NjIwMzUsMTA2MTAwMDIxMCwtMzE5MjA2
-NTk0LDY0MjExODgxNSwtMTA2MTY1ODcxOSwtMjA0NjMwOTU5OC
-wtMTYwMzgxODYxMiwyMDEyNDMyMDEsMTQxMjI1NTQ3NywtOTMx
-NTM1MTA0XX0=
+eyJoaXN0b3J5IjpbNDY1MDI2MDU5LDE0NjQ1NTA3NjksLTE2OT
+k2NzkzOTIsMTQzMDIzNTc1MCw0MDk4MzczNTcsMjM2ODEwNzk5
+LDE5NzE5MjI5ODQsODc2Nzg2ODc4LDE2ODg3NjkxMzQsLTIwMD
+I1NzI5NjUsLTg4Mzg3NDM5NCwtODkzNTYyMDM1LDEwNjEwMDAy
+MTAsLTMxOTIwNjU5NCw2NDIxMTg4MTUsLTEwNjE2NTg3MTksLT
+IwNDYzMDk1OTgsLTE2MDM4MTg2MTIsMjAxMjQzMjAxLDE0MTIy
+NTU0NzddfQ==
 -->
