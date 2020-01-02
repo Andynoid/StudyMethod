@@ -117,9 +117,10 @@ Tensions in migration problem:
   1. Higher substitution of labor by capital
   2. High capital income and high labor income overlaps.
   3. Capital income remain concentrated
-  4. 
+  4. Assortive marriage
+  5. Pro-rich policy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTM2NTExNiwxNDY0NTUwNzY5LC0xNj
+eyJoaXN0b3J5IjpbMTI2OTUwMDEzMywxNDY0NTUwNzY5LC0xNj
 k5Njc5MzkyLDE0MzAyMzU3NTAsNDA5ODM3MzU3LDIzNjgxMDc5
 OSwxOTcxOTIyOTg0LDg3Njc4Njg3OCwxNjg4NzY5MTM0LC0yMD
 AyNTcyOTY1LC04ODM4NzQzOTQsLTg5MzU2MjAzNSwxMDYxMDAw
