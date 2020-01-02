@@ -1,5 +1,5 @@
 > This book is by Branko Milanovic, 2016,  City university of New York.
->
+> Finished on 2020.1.2
 
 # Chapter 1 The rise of global middle class and global plutocrats
 
@@ -147,11 +147,11 @@ Tensions in migration problem:
 9. Why is methodological nationalism becoming less relevant?  We sometimes need to discuss international monetary and/or economic policies and phenomena. We also should treat the inequality problem on a globally level.
 10. Will inequality disappear as globalization countinues?: No. The gains from globalization will not be evenly distributed. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODY3NjcwNDUsLTE5OTU3Mzk1NjksLT
-E2NTI5ODQ0NTcsLTIxMjA3MDg0MjYsMzMyNzgyNjQxLC0yMDYx
-NjU0MDUsLTExMTA2Mzk3MjksNjI5NDk4Nzg2LC0yMjk2MDQ0MS
-wzNzY3MzQ3OTksLTY3NjM4NDMzOCwtMTIxNTgxMjE3OCwtODMy
-ODIxNzcsMTY5MzEyMjg5LDIwNTczMTIwNjcsMTgwMTkwOTUwNS
-wtMzU1NTI5NDc0LDU4Mjk5NDgzNywxNDY0NTUwNzY5LC0xNjk5
-Njc5MzkyXX0=
+eyJoaXN0b3J5IjpbODMyOTM1ODAzLC0xOTk1NzM5NTY5LC0xNj
+UyOTg0NDU3LC0yMTIwNzA4NDI2LDMzMjc4MjY0MSwtMjA2MTY1
+NDA1LC0xMTEwNjM5NzI5LDYyOTQ5ODc4NiwtMjI5NjA0NDEsMz
+c2NzM0Nzk5LC02NzYzODQzMzgsLTEyMTU4MTIxNzgsLTgzMjgy
+MTc3LDE2OTMxMjI4OSwyMDU3MzEyMDY3LDE4MDE5MDk1MDUsLT
+M1NTUyOTQ3NCw1ODI5OTQ4MzcsMTQ2NDU1MDc2OSwtMTY5OTY3
+OTM5Ml19
 -->
