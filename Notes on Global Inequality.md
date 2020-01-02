@@ -113,13 +113,17 @@ Tensions in migration problem:
 - Political instability in China.
 - ** May be at the peak of the first Kuznets curve**
 - US: rising inequality in the foreseeable future.
-- Higher elasticity of substitution between
+- 5 important factors:
+  1. Higher substitution of labor by capital
+  2. High capital income and high labor income overlaps.
+  3. Capital income remain concentrated
+  4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODEwMjkzODcsMTQ2NDU1MDc2OSwtMT
-Y5OTY3OTM5MiwxNDMwMjM1NzUwLDQwOTgzNzM1NywyMzY4MTA3
-OTksMTk3MTkyMjk4NCw4NzY3ODY4NzgsMTY4ODc2OTEzNCwtMj
-AwMjU3Mjk2NSwtODgzODc0Mzk0LC04OTM1NjIwMzUsMTA2MTAw
-MDIxMCwtMzE5MjA2NTk0LDY0MjExODgxNSwtMTA2MTY1ODcxOS
-wtMjA0NjMwOTU5OCwtMTYwMzgxODYxMiwyMDEyNDMyMDEsMTQx
-MjI1NTQ3N119
+eyJoaXN0b3J5IjpbLTUyOTM2NTExNiwxNDY0NTUwNzY5LC0xNj
+k5Njc5MzkyLDE0MzAyMzU3NTAsNDA5ODM3MzU3LDIzNjgxMDc5
+OSwxOTcxOTIyOTg0LDg3Njc4Njg3OCwxNjg4NzY5MTM0LC0yMD
+AyNTcyOTY1LC04ODM4NzQzOTQsLTg5MzU2MjAzNSwxMDYxMDAw
+MjEwLC0zMTkyMDY1OTQsNjQyMTE4ODE1LC0xMDYxNjU4NzE5LC
+0yMDQ2MzA5NTk4LC0xNjAzODE4NjEyLDIwMTI0MzIwMSwxNDEy
+MjU1NDc3XX0=
 -->
