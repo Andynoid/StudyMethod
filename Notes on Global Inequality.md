@@ -128,13 +128,15 @@ Tensions in migration problem:
 - Also see an increase in guard jobs: 2% of total labor in US 2000.
 - ** plutocracy: dictatorship of the propertied class ** -- US
 - Democracy suppression: 1. suppressing the vote of the poor. 2. creating a false consciousness among the lower middle class and the poor.
-- **Populism** Eupourean countries.
+- **Populism** -- European countries.
+- More parties in general election
+- Migrants bring different cultures
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDU0NTIxNSwtODMyODIxNzcsMTY5Mz
-EyMjg5LDIwNTczMTIwNjcsMTgwMTkwOTUwNSwtMzU1NTI5NDc0
-LDU4Mjk5NDgzNywxNDY0NTUwNzY5LC0xNjk5Njc5MzkyLDE0Mz
-AyMzU3NTAsNDA5ODM3MzU3LDIzNjgxMDc5OSwxOTcxOTIyOTg0
-LDg3Njc4Njg3OCwxNjg4NzY5MTM0LC0yMDAyNTcyOTY1LC04OD
-M4NzQzOTQsLTg5MzU2MjAzNSwxMDYxMDAwMjEwLC0zMTkyMDY1
-OTRdfQ==
+eyJoaXN0b3J5IjpbMTg3NDMxMzgwLC04MzI4MjE3NywxNjkzMT
+IyODksMjA1NzMxMjA2NywxODAxOTA5NTA1LC0zNTU1Mjk0NzQs
+NTgyOTk0ODM3LDE0NjQ1NTA3NjksLTE2OTk2NzkzOTIsMTQzMD
+IzNTc1MCw0MDk4MzczNTcsMjM2ODEwNzk5LDE5NzE5MjI5ODQs
+ODc2Nzg2ODc4LDE2ODg3NjkxMzQsLTIwMDI1NzI5NjUsLTg4Mz
+g3NDM5NCwtODkzNTYyMDM1LDEwNjEwMDAyMTAsLTMxOTIwNjU5
+NF19
 -->
