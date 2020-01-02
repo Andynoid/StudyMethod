@@ -108,9 +108,9 @@ Tensions in migration problem:
 - A very 'loose' prediction of next 40 years by Hellebrandt and Mauro(2015) in *E4.1*: ~ 6 percent decrease of Gini 
 
 ## Inequality in China and US
-- China: Little household data available. Ku
+- China: Little household data available. * **Kuznets and Lewis** Turing point at the same time in the future.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODM4OTM1NCwtMTY5OTY3OTM5MiwxND
+eyJoaXN0b3J5IjpbMTQ5NjQ0MTEzOCwtMTY5OTY3OTM5MiwxND
 MwMjM1NzUwLDQwOTgzNzM1NywyMzY4MTA3OTksMTk3MTkyMjk4
 NCw4NzY3ODY4NzgsMTY4ODc2OTEzNCwtMjAwMjU3Mjk2NSwtOD
 gzODc0Mzk0LC04OTM1NjIwMzUsMTA2MTAwMDIxMCwtMzE5MjA2
