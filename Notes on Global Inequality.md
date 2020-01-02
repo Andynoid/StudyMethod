@@ -108,13 +108,13 @@ Tensions in migration problem:
 - A very 'loose' prediction of next 40 years by Hellebrandt and Mauro(2015) in *E4.1*: ~ 6 percent decrease of Gini 
 
 ## Inequality in China and US
-- China: Little household data available. 
+- China: Little household data available. Ku
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk2NzkzOTIsMTQzMDIzNTc1MCw0MD
-k4MzczNTcsMjM2ODEwNzk5LDE5NzE5MjI5ODQsODc2Nzg2ODc4
-LDE2ODg3NjkxMzQsLTIwMDI1NzI5NjUsLTg4Mzg3NDM5NCwtOD
-kzNTYyMDM1LDEwNjEwMDAyMTAsLTMxOTIwNjU5NCw2NDIxMTg4
-MTUsLTEwNjE2NTg3MTksLTIwNDYzMDk1OTgsLTE2MDM4MTg2MT
-IsMjAxMjQzMjAxLDE0MTIyNTU0NzcsLTkzMTUzNTEwNCw3MDIx
-MDE2NjRdfQ==
+eyJoaXN0b3J5IjpbLTMzODM4OTM1NCwtMTY5OTY3OTM5MiwxND
+MwMjM1NzUwLDQwOTgzNzM1NywyMzY4MTA3OTksMTk3MTkyMjk4
+NCw4NzY3ODY4NzgsMTY4ODc2OTEzNCwtMjAwMjU3Mjk2NSwtOD
+gzODc0Mzk0LC04OTM1NjIwMzUsMTA2MTAwMDIxMCwtMzE5MjA2
+NTk0LDY0MjExODgxNSwtMTA2MTY1ODcxOSwtMjA0NjMwOTU5OC
+wtMTYwMzgxODYxMiwyMDEyNDMyMDEsMTQxMjI1NTQ3NywtOTMx
+NTM1MTA0XX0=
 -->
