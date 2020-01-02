@@ -109,12 +109,13 @@ Tensions in migration problem:
 
 ## Inequality in China and US
 - China: Little household data available. * **Kuznets and Lewis** Turing point at the same time in the future.*
+- Top down power structure and decentralize province system.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NjQ0MTEzOCwtMTY5OTY3OTM5MiwxND
-MwMjM1NzUwLDQwOTgzNzM1NywyMzY4MTA3OTksMTk3MTkyMjk4
-NCw4NzY3ODY4NzgsMTY4ODc2OTEzNCwtMjAwMjU3Mjk2NSwtOD
-gzODc0Mzk0LC04OTM1NjIwMzUsMTA2MTAwMDIxMCwtMzE5MjA2
-NTk0LDY0MjExODgxNSwtMTA2MTY1ODcxOSwtMjA0NjMwOTU5OC
-wtMTYwMzgxODYxMiwyMDEyNDMyMDEsMTQxMjI1NTQ3NywtOTMx
-NTM1MTA0XX0=
+eyJoaXN0b3J5IjpbLTE4MDg1Nzg1NTgsLTE2OTk2NzkzOTIsMT
+QzMDIzNTc1MCw0MDk4MzczNTcsMjM2ODEwNzk5LDE5NzE5MjI5
+ODQsODc2Nzg2ODc4LDE2ODg3NjkxMzQsLTIwMDI1NzI5NjUsLT
+g4Mzg3NDM5NCwtODkzNTYyMDM1LDEwNjEwMDAyMTAsLTMxOTIw
+NjU5NCw2NDIxMTg4MTUsLTEwNjE2NTg3MTksLTIwNDYzMDk1OT
+gsLTE2MDM4MTg2MTIsMjAxMjQzMjAxLDE0MTIyNTU0NzcsLTkz
+MTUzNTEwNF19
 -->
