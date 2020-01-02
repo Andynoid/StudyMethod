@@ -127,13 +127,13 @@ Tensions in migration problem:
 3. * The decline of middle class* : Leads to production focusing more on luxuries instead of middle class consumption.
 - Also see an increase in guard jobs: 2% of total labor in US 2000.
 - ** plutocracy: dictatorship of the propertied class **
-- 
+- Democracy suppression: 1. suppressing the vote of the poor. 2. creating a false con
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MzEyMjg5LDIwNTczMTIwNjcsMTgwMT
-kwOTUwNSwtMzU1NTI5NDc0LDU4Mjk5NDgzNywxNDY0NTUwNzY5
-LC0xNjk5Njc5MzkyLDE0MzAyMzU3NTAsNDA5ODM3MzU3LDIzNj
-gxMDc5OSwxOTcxOTIyOTg0LDg3Njc4Njg3OCwxNjg4NzY5MTM0
-LC0yMDAyNTcyOTY1LC04ODM4NzQzOTQsLTg5MzU2MjAzNSwxMD
-YxMDAwMjEwLC0zMTkyMDY1OTQsNjQyMTE4ODE1LC0xMDYxNjU4
-NzE5XX0=
+eyJoaXN0b3J5IjpbLTE0MTYxODE1NTUsMTY5MzEyMjg5LDIwNT
+czMTIwNjcsMTgwMTkwOTUwNSwtMzU1NTI5NDc0LDU4Mjk5NDgz
+NywxNDY0NTUwNzY5LC0xNjk5Njc5MzkyLDE0MzAyMzU3NTAsND
+A5ODM3MzU3LDIzNjgxMDc5OSwxOTcxOTIyOTg0LDg3Njc4Njg3
+OCwxNjg4NzY5MTM0LC0yMDAyNTcyOTY1LC04ODM4NzQzOTQsLT
+g5MzU2MjAzNSwxMDYxMDAwMjEwLC0zMTkyMDY1OTQsNjQyMTE4
+ODE1XX0=
 -->
