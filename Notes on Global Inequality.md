@@ -122,13 +122,14 @@ Tensions in migration problem:
 
 ## Perils of inequality: Plutocracy and Populism
 ** Does inequality threaten the sustainability of Western democratic capitalism? **
-
+1. Inequality may ** not** danger capitalism, but **may** danger democratic capitalism
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyOTk0ODM3LDE0NjQ1NTA3NjksLTE2OT
-k2NzkzOTIsMTQzMDIzNTc1MCw0MDk4MzczNTcsMjM2ODEwNzk5
-LDE5NzE5MjI5ODQsODc2Nzg2ODc4LDE2ODg3NjkxMzQsLTIwMD
-I1NzI5NjUsLTg4Mzg3NDM5NCwtODkzNTYyMDM1LDEwNjEwMDAy
-MTAsLTMxOTIwNjU5NCw2NDIxMTg4MTUsLTEwNjE2NTg3MTksLT
-IwNDYzMDk1OTgsLTE2MDM4MTg2MTIsMjAxMjQzMjAxLDE0MTIy
-NTU0NzddfQ==
+eyJoaXN0b3J5IjpbLTM1NTUyOTQ3NCw1ODI5OTQ4MzcsMTQ2ND
+U1MDc2OSwtMTY5OTY3OTM5MiwxNDMwMjM1NzUwLDQwOTgzNzM1
+NywyMzY4MTA3OTksMTk3MTkyMjk4NCw4NzY3ODY4NzgsMTY4OD
+c2OTEzNCwtMjAwMjU3Mjk2NSwtODgzODc0Mzk0LC04OTM1NjIw
+MzUsMTA2MTAwMDIxMCwtMzE5MjA2NTk0LDY0MjExODgxNSwtMT
+A2MTY1ODcxOSwtMjA0NjMwOTU5OCwtMTYwMzgxODYxMiwyMDEy
+NDMyMDFdfQ==
 -->
