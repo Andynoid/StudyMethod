@@ -144,9 +144,9 @@ Tensions in migration problem:
 6. Will labor remain different from other factors of production? Require Multilateralism involving sending countries and recipient countries. redefinement of citizenship to solve the migrant problem.
 7. Will economic growth still matter? It will. But will a ecological upper limit where the growth rate of the rich must be constraint in order for the poor to improve.
 8. Will the concern about inequality disappear from economics? The economists have shifted to a heterogeneous view which includes differences.
-9. Why is methodoloh
+9. Why is methodological nationalism becoming less relevant?  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQxMTU5NzMsLTE2NTI5ODQ0NTcsLT
+eyJoaXN0b3J5IjpbLTE5OTU3Mzk1NjksLTE2NTI5ODQ0NTcsLT
 IxMjA3MDg0MjYsMzMyNzgyNjQxLC0yMDYxNjU0MDUsLTExMTA2
 Mzk3MjksNjI5NDk4Nzg2LC0yMjk2MDQ0MSwzNzY3MzQ3OTksLT
 Y3NjM4NDMzOCwtMTIxNTgxMjE3OCwtODMyODIxNzcsMTY5MzEy
