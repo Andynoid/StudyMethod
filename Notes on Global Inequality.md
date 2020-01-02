@@ -141,13 +141,13 @@ Tensions in migration problem:
 3. How can inequality in rich welfare states be reduced? Tax and more equal education
 4. Will winner-take-all remain the rule? Enhanced scalebility from technology advancement.
 5. Why is it wrong to focus on exclusively on horizontal inequality? General inequality ** is ** the root of many horizontal inequality.
-6. Will labor remain different from other factors of production? 
+6. Will labor remain different from other factors of production? RequireMultilateralism involving sending countries and recipient countries. redefinement of citizenship.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjA3MDg0MjYsMzMyNzgyNjQxLC0yMD
-YxNjU0MDUsLTExMTA2Mzk3MjksNjI5NDk4Nzg2LC0yMjk2MDQ0
-MSwzNzY3MzQ3OTksLTY3NjM4NDMzOCwtMTIxNTgxMjE3OCwtOD
-MyODIxNzcsMTY5MzEyMjg5LDIwNTczMTIwNjcsMTgwMTkwOTUw
-NSwtMzU1NTI5NDc0LDU4Mjk5NDgzNywxNDY0NTUwNzY5LC0xNj
-k5Njc5MzkyLDE0MzAyMzU3NTAsNDA5ODM3MzU3LDIzNjgxMDc5
-OV19
+eyJoaXN0b3J5IjpbMTA0MDQ3NjM0NSwtMjEyMDcwODQyNiwzMz
+I3ODI2NDEsLTIwNjE2NTQwNSwtMTExMDYzOTcyOSw2Mjk0OTg3
+ODYsLTIyOTYwNDQxLDM3NjczNDc5OSwtNjc2Mzg0MzM4LC0xMj
+E1ODEyMTc4LC04MzI4MjE3NywxNjkzMTIyODksMjA1NzMxMjA2
+NywxODAxOTA5NTA1LC0zNTU1Mjk0NzQsNTgyOTk0ODM3LDE0Nj
+Q1NTA3NjksLTE2OTk2NzkzOTIsMTQzMDIzNTc1MCw0MDk4Mzcz
+NTddfQ==
 -->
