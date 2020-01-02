@@ -112,13 +112,14 @@ Tensions in migration problem:
 - Top down power structure and decentralised province system.
 - Political instability in China.
 - ** May be at the peak of the first Kuznets curve**
-- US
+- US: rising inequality in the foreseeable future.
+- Higher elasticity of substitution between
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MDI2MDU5LDE0NjQ1NTA3NjksLTE2OT
-k2NzkzOTIsMTQzMDIzNTc1MCw0MDk4MzczNTcsMjM2ODEwNzk5
-LDE5NzE5MjI5ODQsODc2Nzg2ODc4LDE2ODg3NjkxMzQsLTIwMD
-I1NzI5NjUsLTg4Mzg3NDM5NCwtODkzNTYyMDM1LDEwNjEwMDAy
-MTAsLTMxOTIwNjU5NCw2NDIxMTg4MTUsLTEwNjE2NTg3MTksLT
-IwNDYzMDk1OTgsLTE2MDM4MTg2MTIsMjAxMjQzMjAxLDE0MTIy
-NTU0NzddfQ==
+eyJoaXN0b3J5IjpbLTE0ODEwMjkzODcsMTQ2NDU1MDc2OSwtMT
+Y5OTY3OTM5MiwxNDMwMjM1NzUwLDQwOTgzNzM1NywyMzY4MTA3
+OTksMTk3MTkyMjk4NCw4NzY3ODY4NzgsMTY4ODc2OTEzNCwtMj
+AwMjU3Mjk2NSwtODgzODc0Mzk0LC04OTM1NjIwMzUsMTA2MTAw
+MDIxMCwtMzE5MjA2NTk0LDY0MjExODgxNSwtMTA2MTY1ODcxOS
+wtMjA0NjMwOTU5OCwtMTYwMzgxODYxMiwyMDEyNDMyMDEsMTQx
+MjI1NTQ3N119
 -->
