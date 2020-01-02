@@ -143,13 +143,14 @@ Tensions in migration problem:
 5. Why is it wrong to focus on exclusively on horizontal inequality? General inequality ** is ** the root of many horizontal inequality.
 6. Will labor remain different from other factors of production? Require Multilateralism involving sending countries and recipient countries. redefinement of citizenship to solve the migrant problem.
 7. Will economic growth still matter? It will. But will a ecological upper limit where the growth rate of the rich must be constraint in order for the poor to improve.
-8. Will thw
+8. Will the concern about inequality disappear from economics? The economists have shifted to a heterogeneous view which includes differences.
+9. Why is methodoloh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjQxNTQyNywtMTY1Mjk4NDQ1NywtMj
-EyMDcwODQyNiwzMzI3ODI2NDEsLTIwNjE2NTQwNSwtMTExMDYz
-OTcyOSw2Mjk0OTg3ODYsLTIyOTYwNDQxLDM3NjczNDc5OSwtNj
-c2Mzg0MzM4LC0xMjE1ODEyMTc4LC04MzI4MjE3NywxNjkzMTIy
-ODksMjA1NzMxMjA2NywxODAxOTA5NTA1LC0zNTU1Mjk0NzQsNT
-gyOTk0ODM3LDE0NjQ1NTA3NjksLTE2OTk2NzkzOTIsMTQzMDIz
-NTc1MF19
+eyJoaXN0b3J5IjpbLTExMDQxMTU5NzMsLTE2NTI5ODQ0NTcsLT
+IxMjA3MDg0MjYsMzMyNzgyNjQxLC0yMDYxNjU0MDUsLTExMTA2
+Mzk3MjksNjI5NDk4Nzg2LC0yMjk2MDQ0MSwzNzY3MzQ3OTksLT
+Y3NjM4NDMzOCwtMTIxNTgxMjE3OCwtODMyODIxNzcsMTY5MzEy
+Mjg5LDIwNTczMTIwNjcsMTgwMTkwOTUwNSwtMzU1NTI5NDc0LD
+U4Mjk5NDgzNywxNDY0NTUwNzY5LC0xNjk5Njc5MzkyLDE0MzAy
+MzU3NTBdfQ==
 -->
