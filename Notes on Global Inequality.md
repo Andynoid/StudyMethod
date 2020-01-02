@@ -131,9 +131,11 @@ Tensions in migration problem:
 - **Populism** -- European countries.
 - More parties in general election
 - Migrants bring different cultures and social norms.
-- High social wellfare rooted in a 
+- High social welfare rooted in a stronger connection between classes than US. But the loss of affinity may be developing now.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyOTQ2NzM5NiwtMTIxNTgxMjE3OCwtOD
+eyJoaXN0b3J5IjpbLTY3NjM4NDMzOCwtMTIxNTgxMjE3OCwtOD
 MyODIxNzcsMTY5MzEyMjg5LDIwNTczMTIwNjcsMTgwMTkwOTUw
 NSwtMzU1NTI5NDc0LDU4Mjk5NDgzNywxNDY0NTUwNzY5LC0xNj
 k5Njc5MzkyLDE0MzAyMzU3NTAsNDA5ODM3MzU3LDIzNjgxMDc5
