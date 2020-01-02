@@ -133,9 +133,11 @@ Tensions in migration problem:
 - Migrants bring different cultures and social norms.
 - High social welfare rooted in a stronger connection between classes than US. But the loss of affinity may be developing now.
 - Increasing support of populist parties in European countries.
+- ** Plutocracy tries to maintain globalization while sacrificing key elements of democracy; Populism tries to preserve a simulacrum of democracy while reducing exposure to globalization. **
 
+# 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDg0NjIwNiwzNzY3MzQ3OTksLTY3Nj
+eyJoaXN0b3J5IjpbLTIyMTk0NTgyMSwzNzY3MzQ3OTksLTY3Nj
 M4NDMzOCwtMTIxNTgxMjE3OCwtODMyODIxNzcsMTY5MzEyMjg5
 LDIwNTczMTIwNjcsMTgwMTkwOTUwNSwtMzU1NTI5NDc0LDU4Mj
 k5NDgzNywxNDY0NTUwNzY5LC0xNjk5Njc5MzkyLDE0MzAyMzU3
