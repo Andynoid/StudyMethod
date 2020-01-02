@@ -139,13 +139,13 @@ Tensions in migration problem:
 1.  What force will shape global inequality in this century? Economic convergence and Kuznets waves.
 2. What will happen to Rich countries middle classes? Shrink and polarize into two groups of people. The influence of education is small.
 3. How can inequality in rich welfare states be reduced? Tax and more equal education
-4. Will winner-take-all remain the rule?
+4. Will winner-take-all remain the rule? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjE2NTQwNSwtMTExMDYzOTcyOSw2Mj
-k0OTg3ODYsLTIyOTYwNDQxLDM3NjczNDc5OSwtNjc2Mzg0MzM4
-LC0xMjE1ODEyMTc4LC04MzI4MjE3NywxNjkzMTIyODksMjA1Nz
-MxMjA2NywxODAxOTA5NTA1LC0zNTU1Mjk0NzQsNTgyOTk0ODM3
-LDE0NjQ1NTA3NjksLTE2OTk2NzkzOTIsMTQzMDIzNTc1MCw0MD
-k4MzczNTcsMjM2ODEwNzk5LDE5NzE5MjI5ODQsODc2Nzg2ODc4
+eyJoaXN0b3J5IjpbMzMyNzgyNjQxLC0yMDYxNjU0MDUsLTExMT
+A2Mzk3MjksNjI5NDk4Nzg2LC0yMjk2MDQ0MSwzNzY3MzQ3OTks
+LTY3NjM4NDMzOCwtMTIxNTgxMjE3OCwtODMyODIxNzcsMTY5Mz
+EyMjg5LDIwNTczMTIwNjcsMTgwMTkwOTUwNSwtMzU1NTI5NDc0
+LDU4Mjk5NDgzNywxNDY0NTUwNzY5LC0xNjk5Njc5MzkyLDE0Mz
+AyMzU3NTAsNDA5ODM3MzU3LDIzNjgxMDc5OSwxOTcxOTIyOTg0
 XX0=
 -->
