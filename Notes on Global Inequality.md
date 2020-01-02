@@ -121,9 +121,10 @@ Tensions in migration problem:
   5. Pro-rich policy.
 
 ## Perils of inequality: Plutocracy and Populism
-** Does inequality th
+** Does inequality threaten the sustainability of Western democratic capitalism? **
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzYxMTI2LDE0NjQ1NTA3NjksLTE2OT
+eyJoaXN0b3J5IjpbNTgyOTk0ODM3LDE0NjQ1NTA3NjksLTE2OT
 k2NzkzOTIsMTQzMDIzNTc1MCw0MDk4MzczNTcsMjM2ODEwNzk5
 LDE5NzE5MjI5ODQsODc2Nzg2ODc4LDE2ODg3NjkxMzQsLTIwMD
 I1NzI5NjUsLTg4Mzg3NDM5NCwtODkzNTYyMDM1LDEwNjEwMDAy
