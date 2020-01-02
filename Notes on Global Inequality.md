@@ -137,13 +137,13 @@ Tensions in migration problem:
 
 # Chapter 5. What next?
 1.  What force will shape global inequality in this century? Economic convergence and Kuznets waves.
-2. 
+2. What will happen to Rich countries middle classes? Shrink and polarize into two groups of people.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTYwNDQxLDM3NjczNDc5OSwtNjc2Mz
-g0MzM4LC0xMjE1ODEyMTc4LC04MzI4MjE3NywxNjkzMTIyODks
-MjA1NzMxMjA2NywxODAxOTA5NTA1LC0zNTU1Mjk0NzQsNTgyOT
-k0ODM3LDE0NjQ1NTA3NjksLTE2OTk2NzkzOTIsMTQzMDIzNTc1
-MCw0MDk4MzczNTcsMjM2ODEwNzk5LDE5NzE5MjI5ODQsODc2Nz
-g2ODc4LDE2ODg3NjkxMzQsLTIwMDI1NzI5NjUsLTg4Mzg3NDM5
-NF19
+eyJoaXN0b3J5IjpbNjI5NDk4Nzg2LC0yMjk2MDQ0MSwzNzY3Mz
+Q3OTksLTY3NjM4NDMzOCwtMTIxNTgxMjE3OCwtODMyODIxNzcs
+MTY5MzEyMjg5LDIwNTczMTIwNjcsMTgwMTkwOTUwNSwtMzU1NT
+I5NDc0LDU4Mjk5NDgzNywxNDY0NTUwNzY5LC0xNjk5Njc5Mzky
+LDE0MzAyMzU3NTAsNDA5ODM3MzU3LDIzNjgxMDc5OSwxOTcxOT
+IyOTg0LDg3Njc4Njg3OCwxNjg4NzY5MTM0LC0yMDAyNTcyOTY1
+XX0=
 -->
