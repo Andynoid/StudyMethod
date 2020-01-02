@@ -135,13 +135,15 @@ Tensions in migration problem:
 - Increasing support of populist parties in European countries.
 - ** Plutocracy tries to maintain globalization while sacrificing key elements of democracy; Populism tries to preserve a simulacrum of democracy while reducing exposure to globalization. **
 
-# 
+# Chapter 5. What next?
+1.  What force will shape global inequality in this century? Economic convergence and Kuznets waves.
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTk0NTgyMSwzNzY3MzQ3OTksLTY3Nj
-M4NDMzOCwtMTIxNTgxMjE3OCwtODMyODIxNzcsMTY5MzEyMjg5
-LDIwNTczMTIwNjcsMTgwMTkwOTUwNSwtMzU1NTI5NDc0LDU4Mj
-k5NDgzNywxNDY0NTUwNzY5LC0xNjk5Njc5MzkyLDE0MzAyMzU3
-NTAsNDA5ODM3MzU3LDIzNjgxMDc5OSwxOTcxOTIyOTg0LDg3Nj
-c4Njg3OCwxNjg4NzY5MTM0LC0yMDAyNTcyOTY1LC04ODM4NzQz
-OTRdfQ==
+eyJoaXN0b3J5IjpbLTIyOTYwNDQxLDM3NjczNDc5OSwtNjc2Mz
+g0MzM4LC0xMjE1ODEyMTc4LC04MzI4MjE3NywxNjkzMTIyODks
+MjA1NzMxMjA2NywxODAxOTA5NTA1LC0zNTU1Mjk0NzQsNTgyOT
+k0ODM3LDE0NjQ1NTA3NjksLTE2OTk2NzkzOTIsMTQzMDIzNTc1
+MCw0MDk4MzczNTcsMjM2ODEwNzk5LDE5NzE5MjI5ODQsODc2Nz
+g2ODc4LDE2ODg3NjkxMzQsLTIwMDI1NzI5NjUsLTg4Mzg3NDM5
+NF19
 -->
