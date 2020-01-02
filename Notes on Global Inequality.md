@@ -124,14 +124,14 @@ Tensions in migration problem:
 ** Does inequality threaten the sustainability of Western democratic capitalism? **
 1. Inequality may ** not** danger capitalism, but **may** danger democratic capitalism
 2. Decoupling of democracy and capitalism. Middle class prefer democracy but inequality hollow the middle class.
-3. 
+3.* The decline fo middle class* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTAzNjEyMzYsLTM1NTUyOTQ3NCw1OD
-I5OTQ4MzcsMTQ2NDU1MDc2OSwtMTY5OTY3OTM5MiwxNDMwMjM1
-NzUwLDQwOTgzNzM1NywyMzY4MTA3OTksMTk3MTkyMjk4NCw4Nz
-Y3ODY4NzgsMTY4ODc2OTEzNCwtMjAwMjU3Mjk2NSwtODgzODc0
-Mzk0LC04OTM1NjIwMzUsMTA2MTAwMDIxMCwtMzE5MjA2NTk0LD
-Y0MjExODgxNSwtMTA2MTY1ODcxOSwtMjA0NjMwOTU5OCwtMTYw
-MzgxODYxMl19
+eyJoaXN0b3J5IjpbMTgwMTkwOTUwNSwtMzU1NTI5NDc0LDU4Mj
+k5NDgzNywxNDY0NTUwNzY5LC0xNjk5Njc5MzkyLDE0MzAyMzU3
+NTAsNDA5ODM3MzU3LDIzNjgxMDc5OSwxOTcxOTIyOTg0LDg3Nj
+c4Njg3OCwxNjg4NzY5MTM0LC0yMDAyNTcyOTY1LC04ODM4NzQz
+OTQsLTg5MzU2MjAzNSwxMDYxMDAwMjEwLC0zMTkyMDY1OTQsNj
+QyMTE4ODE1LC0xMDYxNjU4NzE5LC0yMDQ2MzA5NTk4LC0xNjAz
+ODE4NjEyXX0=
 -->
