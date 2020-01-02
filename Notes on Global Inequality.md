@@ -133,13 +133,13 @@ Tensions in migration problem:
 - Migrants bring different cultures and social norms.
 - High social welfare rooted in a stronger connection between classes than US. But the loss of affinity may be developing now.
 - Increasing support of populist parties in European countries.
-- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2NzM0Nzk5LC02NzYzODQzMzgsLTEyMT
-U4MTIxNzgsLTgzMjgyMTc3LDE2OTMxMjI4OSwyMDU3MzEyMDY3
-LDE4MDE5MDk1MDUsLTM1NTUyOTQ3NCw1ODI5OTQ4MzcsMTQ2ND
-U1MDc2OSwtMTY5OTY3OTM5MiwxNDMwMjM1NzUwLDQwOTgzNzM1
-NywyMzY4MTA3OTksMTk3MTkyMjk4NCw4NzY3ODY4NzgsMTY4OD
-c2OTEzNCwtMjAwMjU3Mjk2NSwtODgzODc0Mzk0LC04OTM1NjIw
-MzVdfQ==
+eyJoaXN0b3J5IjpbLTUzMDg0NjIwNiwzNzY3MzQ3OTksLTY3Nj
+M4NDMzOCwtMTIxNTgxMjE3OCwtODMyODIxNzcsMTY5MzEyMjg5
+LDIwNTczMTIwNjcsMTgwMTkwOTUwNSwtMzU1NTI5NDc0LDU4Mj
+k5NDgzNywxNDY0NTUwNzY5LC0xNjk5Njc5MzkyLDE0MzAyMzU3
+NTAsNDA5ODM3MzU3LDIzNjgxMDc5OSwxOTcxOTIyOTg0LDg3Nj
+c4Njg3OCwxNjg4NzY5MTM0LC0yMDAyNTcyOTY1LC04ODM4NzQz
+OTRdfQ==
 -->
