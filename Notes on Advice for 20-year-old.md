@@ -80,8 +80,11 @@
 # 有哪些是你踏入社会才明白的道理?
 [https://www.zhihu.com/question/34225818/answer/547742221](https://www.zhihu.com/question/34225818/answer/547742221)
 
-> 
+> **涉及利益时, 要把所有人当成最坏的人防.**
+> **没有实力的愤怒一文不值.**
+> **该争取的一定要争取.**
+> **提升合群的能力** 否则, zi'ji'yao'you'shi'li
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzNjgwNDgyLC0yMDMwNTYxOTUzLC0xNz
-MyOTgwNzIxLDE4MDEyMzcxMiwtMTk2MjcxMDI4NF19
+eyJoaXN0b3J5IjpbLTExOTYwODI2NzEsLTIwMzA1NjE5NTMsLT
+E3MzI5ODA3MjEsMTgwMTIzNzEyLC0xOTYyNzEwMjg0XX0=
 -->
