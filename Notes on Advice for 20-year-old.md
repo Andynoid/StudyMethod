@@ -83,8 +83,10 @@
 > 1. **用功不求过猛, 但求有恒**
 > 2. 无用的社交, 会让自己丢失自己的思想, 只剩躯壳, 随波逐流.
 > 3. **清心, 寡言, 静思, 实干**
-> 4. 
+> 4. **谨言慎发**
+> **收到消息一定要及时回复**
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI5ODA3MjEsMTgwMTIzNzEyLC0xOT
-YyNzEwMjg0XX0=
+eyJoaXN0b3J5IjpbLTIwMzA1NjE5NTMsLTE3MzI5ODA3MjEsMT
+gwMTIzNzEyLC0xOTYyNzEwMjg0XX0=
 -->
