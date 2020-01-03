@@ -58,9 +58,12 @@
 > 20岁开始琢磨要不要在本专业就业. 确定自己的就业方向.
 19. 目前确定在化工研究生, molecular design + computer science 交叉学科. 经济学备选.
 
-> 
+> 你可以什么话都听, 但千万别什么话都信. 做决定的永远都是你自己.
+20. ** 此条十分重要**
+
+> 别人可以自嘲, 你千万别附和, 自嘲是高情商的表现. 和附别人的自嘲是di'qi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjMwODI0NV19
+eyJoaXN0b3J5IjpbMTM1MTY0ODI1MV19
 -->
