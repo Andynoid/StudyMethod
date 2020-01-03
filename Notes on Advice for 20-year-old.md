@@ -1,4 +1,5 @@
->[https://www.zhihu.com/question/34225818/answer/547742221](https://www.zhihu.com/question/34225818/answer/547742221)
+# 给20岁男生的建议
+[https://www.zhihu.com/question/34225818/answer/547742221](https://www.zhihu.com/question/34225818/answer/547742221)
 
 
 > 保证8个小时的工作时长
@@ -76,6 +77,11 @@
 > 人生无论听过多少忠告, 知易行难, 即使都记在了心里, 也是别人的经验和人生, 自己的路完全不一样. **该走的弯路一步都不会少.** **在不伤天害理, 违法乱纪, 损人利己的前提下, 做一切自己想做的事, 但行好事, 莫问前程.**
 25.  **此条重要**
 
+# 有哪些是你踏入社会才明白的道理?
+[https://www.zhihu.com/question/34225818/answer/547742221](https://www.zhihu.com/question/34225818/answer/547742221)
+
+>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjc3NzUwNCwtMTk2MjcxMDI4NF19
+eyJoaXN0b3J5IjpbMTgwMTIzNzEyLC0xOTYyNzEwMjg0XX0=
 -->
