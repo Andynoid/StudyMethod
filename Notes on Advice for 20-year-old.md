@@ -8,7 +8,12 @@
 2. 自觉自律, 一周一次
 
 > 多锻炼身体
-3. 
+3. Ethos 跑步, 记得打卡
+
+> 培养一个生存技能以外的爱好
+4. 练口琴和画画
+
+> 想到什么,不确定对不对,看了再说. 路上发现不对了, 再坚持一下. 依然觉得不对, 咬咬牙最后坚持一下. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODU2ODQ5OV19
+eyJoaXN0b3J5IjpbLTc0NTE0NTIxNF19
 -->
