@@ -50,12 +50,17 @@
 16. 没有必要的电子产品不要瞎买.
 
 > 要心存敬畏. 
+17. 和长辈说话要认真听, 有耐心.
 
 > 服务人员并不低人一等, 多说请, 谢谢, 您.
+18. 明白了
+
+> 20岁开始琢磨要不要在本专业就业. 确定自己的就业方向.
+19. 目前确定在化工研究生, molecular design + computer science 交叉学科. 经济学备选.
 
 > 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU1Njc2NDhdfQ==
+eyJoaXN0b3J5IjpbMTM5NjMwODI0NV19
 -->
