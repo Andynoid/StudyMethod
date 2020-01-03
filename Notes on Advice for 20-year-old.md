@@ -83,8 +83,9 @@
 > **涉及利益时, 要把所有人当成最坏的人防.**
 > **没有实力的愤怒一文不值.**
 > **该争取的一定要争取.**
-> **提升合群的能力** 否则, zi'ji'yao'you'shi'li
+> **提升合群的能力** 否则, 自己要有实力, 要有差异化价值, 还要长得帅
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTYwODI2NzEsLTIwMzA1NjE5NTMsLT
+eyJoaXN0b3J5IjpbLTE5NTgwNDM2MjgsLTIwMzA1NjE5NTMsLT
 E3MzI5ODA3MjEsMTgwMTIzNzEyLC0xOTYyNzEwMjg0XX0=
 -->
