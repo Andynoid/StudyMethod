@@ -2,9 +2,12 @@
 
 > Rich Dad Poor Dad
 
+> The most important thing illuminated: uncommon sense for thoughtful investor.
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3OTE2Nzc0LC0xNTAzMTgzNDU0XX0=
+eyJoaXN0b3J5IjpbNjE2OTM5MjA1LDYxNzkxNjc3NCwtMTUwMz
+E4MzQ1NF19
 -->
