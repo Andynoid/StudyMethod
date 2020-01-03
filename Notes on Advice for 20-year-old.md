@@ -80,10 +80,11 @@
 # 有哪些是你踏入社会才明白的道理?
 [https://www.zhihu.com/question/34225818/answer/547742221](https://www.zhihu.com/question/34225818/answer/547742221)
 
-> **用功不求过猛, 但求有恒**
-> 
-
+> 1. **用功不求过猛, 但求有恒**
+> 2. 无用的社交, 会让自己丢失自己的思想, 只剩躯壳, 随波逐流.
+> 3. **清心, 寡言, 静思, 实干**
+> 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTcwMDI1OSwxODAxMjM3MTIsLTE5Nj
-I3MTAyODRdfQ==
+eyJoaXN0b3J5IjpbLTE3MzI5ODA3MjEsMTgwMTIzNzEyLC0xOT
+YyNzEwMjg0XX0=
 -->
