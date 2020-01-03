@@ -31,7 +31,10 @@
 > 不要翘课.
 10. 明白了.
 
-> 如果你觉得mi'm
+> 如果你觉得迷茫了, 别担心, 别人跟你一样.
+11.
+
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODA5MDY5NV19
+eyJoaXN0b3J5IjpbMTM0MzQ4Njk3M119
 -->
