@@ -80,8 +80,10 @@
 # 有哪些是你踏入社会才明白的道理?
 [https://www.zhihu.com/question/34225818/answer/547742221](https://www.zhihu.com/question/34225818/answer/547742221)
 
->
+> **用功不求过猛, 但求有恒**
+> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTIzNzEyLC0xOTYyNzEwMjg0XX0=
+eyJoaXN0b3J5IjpbMTEzMTcwMDI1OSwxODAxMjM3MTIsLTE5Nj
+I3MTAyODRdfQ==
 -->
