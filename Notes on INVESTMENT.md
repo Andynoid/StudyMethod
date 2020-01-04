@@ -4,10 +4,11 @@
 
 > The most important thing illuminated: uncommon sense for thoughtful investor.
 
+# 雪球投资者教育
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2OTM5MjA1LDYxNzkxNjc3NCwtMTUwMz
-E4MzQ1NF19
+eyJoaXN0b3J5IjpbMTY5NTA0MTYyOCw2MTY5MzkyMDUsNjE3OT
+E2Nzc0LC0xNTAzMTgzNDU0XX0=
 -->
