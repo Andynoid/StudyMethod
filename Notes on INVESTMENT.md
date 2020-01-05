@@ -12,11 +12,15 @@
 
 > "The Little Book of Common Sense Investing" by Jack Bogle
 
-> [https://www.amazon.com/Interpretation-Financial-Statements-Benjamin-Graham/dp/0887309135](https://www.amazon.com/Interpretation-Financial-Statements-Benjamin-Graham/dp/0887309135)
+> "First a Dream" by Jim Clayton and Bill Retherford
+
+> "Take on the Street" by Arthur Levitt
+
+> # The Interpretation of Financial Statements [https://www.amazon.com/Interpretation-Financial-Statements-Benjamin-Graham/dp/0887309135](https://www.amazon.com/Interpretation-Financial-Statements-Benjamin-Graham/dp/0887309135)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyOTczMDM4LDYxNjkzOTIwNSwxNDUyNz
+eyJoaXN0b3J5IjpbLTU5MjkxODQxLDYxNjkzOTIwNSwxNDUyNz
 U3OTksMTY5NTA0MTYyOCw2MTc5MTY3NzQsLTE1MDMxODM0NTRd
 fQ==
 -->
