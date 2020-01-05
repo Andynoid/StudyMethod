@@ -1,6 +1,12 @@
 > [https://www.zhihu.com/question/21142799/answer/18160458](https://www.zhihu.com/question/21142799/answer/18160458)]
-#
+# Finance
 
+
+# Math 
+
+# Social science
+
+# investment
 > Rich Dad Poor Dad
 
 > The most important thing illuminated: uncommon sense for thoughtful investor.
@@ -41,5 +47,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzgzMTI0MV19
+eyJoaXN0b3J5IjpbMTM1ODUxNjYyMl19
 -->
