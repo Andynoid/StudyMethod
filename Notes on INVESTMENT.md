@@ -4,11 +4,15 @@
 
 > The most important thing illuminated: uncommon sense for thoughtful investor.
 
+> ‘Poor Charlie’s Almanack: The Wit and Wisdom of Charles T. Munger’
 
+> 
+
+> [https://www.amazon.com/Interpretation-Financial-Statements-Benjamin-Graham/dp/0887309135](https://www.amazon.com/Interpretation-Financial-Statements-Benjamin-Graham/dp/0887309135)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2OTM5MjA1LDE0NTI3NTc5OSwxNjk1MD
-QxNjI4LDYxNjkzOTIwNSw2MTc5MTY3NzQsLTE1MDMxODM0NTRd
-fQ==
+eyJoaXN0b3J5IjpbLTM3OTA3ODI4OSw2MTY5MzkyMDUsMTQ1Mj
+c1Nzk5LDE2OTUwNDE2MjgsNjE3OTE2Nzc0LC0xNTAzMTgzNDU0
+XX0=
 -->
