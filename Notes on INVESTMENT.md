@@ -4,13 +4,11 @@
 
 > The most important thing illuminated: uncommon sense for thoughtful investor.
 
-# 美股
 
-# 黄金
-`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1Mjc1Nzk5LDE2OTUwNDE2MjgsNjE2OT
-M5MjA1LDYxNzkxNjc3NCwtMTUwMzE4MzQ1NF19
+eyJoaXN0b3J5IjpbNjE2OTM5MjA1LDE0NTI3NTc5OSwxNjk1MD
+QxNjI4LDYxNjkzOTIwNSw2MTc5MTY3NzQsLTE1MDMxODM0NTRd
+fQ==
 -->
