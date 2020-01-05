@@ -6,13 +6,17 @@
 
 > ‘Poor Charlie’s Almanack: The Wit and Wisdom of Charles T. Munger’
 
-> 
+>  "The Outsiders" by William Thorndike Jr.
+
+>  "The Clash of the Cultures" by John Bogle
+
+> "The Little Book of Common Sense Investing" by Jack Bogle
 
 > [https://www.amazon.com/Interpretation-Financial-Statements-Benjamin-Graham/dp/0887309135](https://www.amazon.com/Interpretation-Financial-Statements-Benjamin-Graham/dp/0887309135)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTA3ODI4OSw2MTY5MzkyMDUsMTQ1Mj
-c1Nzk5LDE2OTUwNDE2MjgsNjE3OTE2Nzc0LC0xNTAzMTgzNDU0
-XX0=
+eyJoaXN0b3J5IjpbNDQyOTczMDM4LDYxNjkzOTIwNSwxNDUyNz
+U3OTksMTY5NTA0MTYyOCw2MTc5MTY3NzQsLTE1MDMxODM0NTRd
+fQ==
 -->
