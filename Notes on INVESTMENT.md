@@ -28,13 +28,19 @@
 
 > Nudge. richard h thaler
 
-> misbehaving. richard h thaler.
+> misbehaving.  richard h thaler.
+
+> Phising for phools robert j shiller
+
+>
+
+
 
 > The Interpretation of Financial Statements [https://www.amazon.com/Interpretation-Financial-Statements-Benjamin-Graham/dp/0887309135](https://www.amazon.com/Interpretation-Financial-Statements-Benjamin-Graham/dp/0887309135)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTQ0MDg2NywtMzU0NjQ0NDQ0LDYxNj
+eyJoaXN0b3J5IjpbLTg1ODY3MDE0NCwtMzU0NjQ0NDQ0LDYxNj
 kzOTIwNSwxNDUyNzU3OTksMTY5NTA0MTYyOCw2MTc5MTY3NzQs
 LTE1MDMxODM0NTRdfQ==
 -->
