@@ -29,9 +29,9 @@
 2. **free-agent nation or the end of jobs?** very few creative workers are self-employed at the moment. 
  - rosy view: free agents will be working in their homes and commuting virtually.
  - current situation of big company dominance.
-3. ** where the new york comes from**  Workers now facing full responsibility for themselves. Including job instability, on-going learning and many more. The traditional security and entitlement nolog
+3. ** where the new york comes from**  Workers now facing full responsibility for themselves. Including job instability, on-going learning and many more. The traditional security and entitlement no longer exist. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTg0Njc2NiwxNTExMDAzODk0LC0xNj
+eyJoaXN0b3J5IjpbMTgxNDcxNDc1NiwxNTExMDAzODk0LC0xNj
 YzNzc3NzAwLC0xNjYzNzc3NzAwLDU4NTQwMjE2NCw2MDY4Mjcy
 NjAsNjQxMTc1NDI5LC0xOTQ0MzE2NTQ0LDU3MzQ2OTM4OSwxMz
 UxMjIzMTg0LDM2MjcxMTA1NywxMDExNDI0MjEwLC0yMTE5Njky
