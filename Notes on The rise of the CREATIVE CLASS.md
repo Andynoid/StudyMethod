@@ -21,12 +21,13 @@
 - challenge and responsibility, 
 - flexibility, peer recognition, 
 - location and community: household in good location are now key to the quality life and access to jobs.
-- money and more.
+- money and more. most paid employee are most satisfied and least paid are the least satisfied. The most usual reason for job changing is a higher salary.
+- Herding squirrels.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczNDY5Mzg5LDEzNTEyMjMxODQsMzYyNz
-ExMDU3LDEwMTE0MjQyMTAsLTIxMTk2OTI5MjMsMTEzMjA0MjE4
-MSw2OTY3MzM3MTcsLTExMTMzNjg3MjYsODk3MzQ4NDkwLC0xNj
-Y4NjUwMTYwLDk2ODM5MjY5MSwxMzgxMzg1MDgyLC0xMTIwMzQx
-LDEzMDkwODkyMzgsMTQ2NDUxODIxLDM3ODE5MzAzNiwtMjA3MT
-k2ODIxMV19
+eyJoaXN0b3J5IjpbLTE5NDQzMTY1NDQsNTczNDY5Mzg5LDEzNT
+EyMjMxODQsMzYyNzExMDU3LDEwMTE0MjQyMTAsLTIxMTk2OTI5
+MjMsMTEzMjA0MjE4MSw2OTY3MzM3MTcsLTExMTMzNjg3MjYsOD
+k3MzQ4NDkwLC0xNjY4NjUwMTYwLDk2ODM5MjY5MSwxMzgxMzg1
+MDgyLC0xMTIwMzQxLDEzMDkwODkyMzgsMTQ2NDUxODIxLDM3OD
+E5MzAzNiwtMjA3MTk2ODIxMV19
 -->
