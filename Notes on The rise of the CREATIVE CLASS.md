@@ -6,9 +6,10 @@
 ## The creative economy
 1.  A creative glass factory go to collapse under inhibitory management.
 ## The creative class
-1. Defining the creative class: Super creative class(engineers, music composers) and creative professionals (work in a knowledge intensive job
+1. Defining the creative class: Super creative class(engineers, music composers) and creative professionals (work in a knowledge intensive job)
+2. Service job earn 60% less than creative jobs in 2010 US. and has little upward space.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MTI3MzUxMywtMTEyMDM0MSwxMzA5MD
-g5MjM4LDE0NjQ1MTgyMSwzNzgxOTMwMzYsLTIwNzE5NjgyMTFd
-fQ==
+eyJoaXN0b3J5IjpbLTE2MjQ1OTI0MTAsLTExMjAzNDEsMTMwOT
+A4OTIzOCwxNDY0NTE4MjEsMzc4MTkzMDM2LC0yMDcxOTY4MjEx
+XX0=
 -->
