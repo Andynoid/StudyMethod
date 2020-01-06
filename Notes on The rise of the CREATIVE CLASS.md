@@ -12,10 +12,10 @@
 4. **Gender race and the creative class.** women tends to work in creative 37.1 and service class 62.2. Men tends to work in Working 94 and creative class37.1.
 5. **Creative class values**: individuality; meritocracy; diversity and openness
 6. The sex and racial problem in creative class. the absence of black people.
-7. 
+7. **Global value shift** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4Mzc3OTkxNSwtMTExMzM2ODcyNiw4OT
-czNDg0OTAsLTE2Njg2NTAxNjAsOTY4MzkyNjkxLDEzODEzODUw
-ODIsLTExMjAzNDEsMTMwOTA4OTIzOCwxNDY0NTE4MjEsMzc4MT
-kzMDM2LC0yMDcxOTY4MjExXX0=
+eyJoaXN0b3J5IjpbNjk2NzMzNzE3LC0xMTEzMzY4NzI2LDg5Nz
+M0ODQ5MCwtMTY2ODY1MDE2MCw5NjgzOTI2OTEsMTM4MTM4NTA4
+MiwtMTEyMDM0MSwxMzA5MDg5MjM4LDE0NjQ1MTgyMSwzNzgxOT
+MwMzYsLTIwNzE5NjgyMTFdfQ==
 -->
