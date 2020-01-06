@@ -17,10 +17,13 @@
 # Work
 ## C4 The machine shop and the hair salon
 1.  ** In 1990, good technician such as technician is rare.** Hair salon is the most creative job at the time above computer system designer and artist. People may prefer hair salon than machine shop because of this. 
-2. ** What creatives want at work?** challenge and responsibility, flexibility, peer recognition, location and community.
-3.
+2. ** What creatives want at work?** 
+- challenge and responsibility, 
+- flexibility, peer recognition, 
+- location and community: household in good location are now key to the quality life and access to jobs.
+- money and more.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyNzgyNDYyLDEzNTEyMjMxODQsMzYyNz
+eyJoaXN0b3J5IjpbNTczNDY5Mzg5LDEzNTEyMjMxODQsMzYyNz
 ExMDU3LDEwMTE0MjQyMTAsLTIxMTk2OTI5MjMsMTEzMjA0MjE4
 MSw2OTY3MzM3MTcsLTExMTMzNjg3MjYsODk3MzQ4NDkwLC0xNj
 Y4NjUwMTYwLDk2ODM5MjY5MSwxMzgxMzg1MDgyLC0xMTIwMzQx
