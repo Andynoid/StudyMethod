@@ -28,12 +28,14 @@
 1. high frequency of job changing for creative class.
 2. **free-agent nation or the end of jobs?** very few creative workers are self-employed at the moment. 
  - rosy view: free agents will be working in their homes and commuting virtually.
+ - current situation of big company dominance.
+3. ** where the new yook comes from** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjM3Nzc3MDAsLTE2NjM3Nzc3MDAsNT
-g1NDAyMTY0LDYwNjgyNzI2MCw2NDExNzU0MjksLTE5NDQzMTY1
-NDQsNTczNDY5Mzg5LDEzNTEyMjMxODQsMzYyNzExMDU3LDEwMT
-E0MjQyMTAsLTIxMTk2OTI5MjMsMTEzMjA0MjE4MSw2OTY3MzM3
-MTcsLTExMTMzNjg3MjYsODk3MzQ4NDkwLC0xNjY4NjUwMTYwLD
-k2ODM5MjY5MSwxMzgxMzg1MDgyLC0xMTIwMzQxLDEzMDkwODky
-MzhdfQ==
+eyJoaXN0b3J5IjpbMTUxMTAwMzg5NCwtMTY2Mzc3NzcwMCwtMT
+Y2Mzc3NzcwMCw1ODU0MDIxNjQsNjA2ODI3MjYwLDY0MTE3NTQy
+OSwtMTk0NDMxNjU0NCw1NzM0NjkzODksMTM1MTIyMzE4NCwzNj
+I3MTEwNTcsMTAxMTQyNDIxMCwtMjExOTY5MjkyMywxMTMyMDQy
+MTgxLDY5NjczMzcxNywtMTExMzM2ODcyNiw4OTczNDg0OTAsLT
+E2Njg2NTAxNjAsOTY4MzkyNjkxLDEzODEzODUwODIsLTExMjAz
+NDFdfQ==
 -->
