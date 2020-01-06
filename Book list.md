@@ -6,6 +6,8 @@
 
 # Social science
 
+> psychology and life
+
 # investment
 > Rich Dad Poor Dad
 
@@ -47,5 +49,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODUxNjYyMl19
+eyJoaXN0b3J5IjpbMTA3MTUxNTcxNiwxMzU4NTE2NjIyXX0=
 -->
