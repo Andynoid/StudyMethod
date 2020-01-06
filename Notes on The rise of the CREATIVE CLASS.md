@@ -23,12 +23,14 @@
 - location and community: household in good location are now key to the quality life and access to jobs.
 - money and more. most paid employee are most satisfied and least paid are the least satisfied. The most usual reason for job changing is a higher salary.
 - Herding squirrels.
-3. **coping with the crisis.** 
+3. **coping with the crisis.**
+4. #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxMTc1NDI5LC0xOTQ0MzE2NTQ0LDU3Mz
-Q2OTM4OSwxMzUxMjIzMTg0LDM2MjcxMTA1NywxMDExNDI0MjEw
-LC0yMTE5NjkyOTIzLDExMzIwNDIxODEsNjk2NzMzNzE3LC0xMT
-EzMzY4NzI2LDg5NzM0ODQ5MCwtMTY2ODY1MDE2MCw5NjgzOTI2
-OTEsMTM4MTM4NTA4MiwtMTEyMDM0MSwxMzA5MDg5MjM4LDE0Nj
-Q1MTgyMSwzNzgxOTMwMzYsLTIwNzE5NjgyMTFdfQ==
+eyJoaXN0b3J5IjpbMjkyNTU2MTkyLDY0MTE3NTQyOSwtMTk0ND
+MxNjU0NCw1NzM0NjkzODksMTM1MTIyMzE4NCwzNjI3MTEwNTcs
+MTAxMTQyNDIxMCwtMjExOTY5MjkyMywxMTMyMDQyMTgxLDY5Nj
+czMzcxNywtMTExMzM2ODcyNiw4OTczNDg0OTAsLTE2Njg2NTAx
+NjAsOTY4MzkyNjkxLDEzODEzODUwODIsLTExMjAzNDEsMTMwOT
+A4OTIzOCwxNDY0NTE4MjEsMzc4MTkzMDM2LC0yMDcxOTY4MjEx
+XX0=
 -->
