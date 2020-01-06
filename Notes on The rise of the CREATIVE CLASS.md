@@ -8,9 +8,9 @@
 ## The creative class
 1. Defining the creative class: Super creative class(engineers, music composers) and creative professionals (work in a knowledge intensive job)
 2. Service job earn 60% less than creative jobs in 2010 US. and has little upward space.
-3. The crisis and the creative class. 
+3. The crisis and the creative class. 2008  crisis. Creative class has the lowest unemployment rate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTM4NTA4MiwtMTEyMDM0MSwxMzA5MD
-g5MjM4LDE0NjQ1MTgyMSwzNzgxOTMwMzYsLTIwNzE5NjgyMTFd
-fQ==
+eyJoaXN0b3J5IjpbLTI3Nzg1NDkwMCwxMzgxMzg1MDgyLC0xMT
+IwMzQxLDEzMDkwODkyMzgsMTQ2NDUxODIxLDM3ODE5MzAzNiwt
+MjA3MTk2ODIxMV19
 -->
