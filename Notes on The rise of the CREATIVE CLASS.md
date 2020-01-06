@@ -29,13 +29,13 @@
 2. **free-agent nation or the end of jobs?** very few creative workers are self-employed at the moment. 
  - rosy view: free agents will be working in their homes and commuting virtually.
  - current situation of big company dominance.
-3. ** where the new yook comes from** 
+3. ** where the new york comes from**  Workers now facing full responsibility for themselves. Including job instability, on-going learning and many more. The traditional security and entitlement nolog
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTAwMzg5NCwtMTY2Mzc3NzcwMCwtMT
-Y2Mzc3NzcwMCw1ODU0MDIxNjQsNjA2ODI3MjYwLDY0MTE3NTQy
-OSwtMTk0NDMxNjU0NCw1NzM0NjkzODksMTM1MTIyMzE4NCwzNj
-I3MTEwNTcsMTAxMTQyNDIxMCwtMjExOTY5MjkyMywxMTMyMDQy
-MTgxLDY5NjczMzcxNywtMTExMzM2ODcyNiw4OTczNDg0OTAsLT
-E2Njg2NTAxNjAsOTY4MzkyNjkxLDEzODEzODUwODIsLTExMjAz
-NDFdfQ==
+eyJoaXN0b3J5IjpbLTU5NTg0Njc2NiwxNTExMDAzODk0LC0xNj
+YzNzc3NzAwLC0xNjYzNzc3NzAwLDU4NTQwMjE2NCw2MDY4Mjcy
+NjAsNjQxMTc1NDI5LC0xOTQ0MzE2NTQ0LDU3MzQ2OTM4OSwxMz
+UxMjIzMTg0LDM2MjcxMTA1NywxMDExNDI0MjEwLC0yMTE5Njky
+OTIzLDExMzIwNDIxODEsNjk2NzMzNzE3LC0xMTEzMzY4NzI2LD
+g5NzM0ODQ5MCwtMTY2ODY1MDE2MCw5NjgzOTI2OTEsMTM4MTM4
+NTA4Ml19
 -->
