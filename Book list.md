@@ -3,6 +3,7 @@
 
 
 # Math 
+> the art of computer programming
 
 # Social science
 
@@ -49,5 +50,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTUxNTcxNiwxMzU4NTE2NjIyXX0=
+eyJoaXN0b3J5IjpbLTc5NDE4MDkyNSwxMzU4NTE2NjIyXX0=
 -->
