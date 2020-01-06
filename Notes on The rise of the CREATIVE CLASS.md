@@ -24,9 +24,10 @@
 - money and more. most paid employee are most satisfied and least paid are the least satisfied. The most usual reason for job changing is a higher salary.
 - Herding squirrels.
 3. **coping with the crisis.**
-4. #
+## C5 Brave new work space.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyNTU2MTkyLDY0MTE3NTQyOSwtMTk0ND
+eyJoaXN0b3J5IjpbNjA2ODI3MjYwLDY0MTE3NTQyOSwtMTk0ND
 MxNjU0NCw1NzM0NjkzODksMTM1MTIyMzE4NCwzNjI3MTEwNTcs
 MTAxMTQyNDIxMCwtMjExOTY5MjkyMywxMTMyMDQyMTgxLDY5Nj
 czMzcxNywtMTExMzM2ODcyNiw4OTczNDg0OTAsLTE2Njg2NTAx
