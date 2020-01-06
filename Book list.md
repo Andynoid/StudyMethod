@@ -4,6 +4,7 @@
 
 # Math 
 > the art of computer programming
+> how to educate a PHD
 
 # Social science
 
@@ -50,5 +51,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDE4MDkyNSwxMzU4NTE2NjIyXX0=
+eyJoaXN0b3J5IjpbLTY1NDAxNzMyNiwtNzk0MTgwOTI1LDEzNT
+g1MTY2MjJdfQ==
 -->
