@@ -27,13 +27,13 @@
 ## C5 Brave new work space.
 1. high frequency of job changing for creative class.
 2. **free-agent nation or the end of jobs?** very few creative workers are self-employed at the moment. 
- - rosy view: free agents will be working in their homes and commuting virtually.
+ - rosy view: free agents will be working in their homes and commuting virtually.idio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjM3Nzc3MDAsNTg1NDAyMTY0LDYwNj
-gyNzI2MCw2NDExNzU0MjksLTE5NDQzMTY1NDQsNTczNDY5Mzg5
-LDEzNTEyMjMxODQsMzYyNzExMDU3LDEwMTE0MjQyMTAsLTIxMT
-k2OTI5MjMsMTEzMjA0MjE4MSw2OTY3MzM3MTcsLTExMTMzNjg3
-MjYsODk3MzQ4NDkwLC0xNjY4NjUwMTYwLDk2ODM5MjY5MSwxMz
-gxMzg1MDgyLC0xMTIwMzQxLDEzMDkwODkyMzgsMTQ2NDUxODIx
-XX0=
+eyJoaXN0b3J5IjpbLTIwMDU3MDcxNDEsLTE2NjM3Nzc3MDAsNT
+g1NDAyMTY0LDYwNjgyNzI2MCw2NDExNzU0MjksLTE5NDQzMTY1
+NDQsNTczNDY5Mzg5LDEzNTEyMjMxODQsMzYyNzExMDU3LDEwMT
+E0MjQyMTAsLTIxMTk2OTI5MjMsMTEzMjA0MjE4MSw2OTY3MzM3
+MTcsLTExMTMzNjg3MjYsODk3MzQ4NDkwLC0xNjY4NjUwMTYwLD
+k2ODM5MjY5MSwxMzgxMzg1MDgyLC0xMTIwMzQxLDEzMDkwODky
+MzhdfQ==
 -->
