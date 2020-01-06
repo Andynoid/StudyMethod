@@ -26,9 +26,10 @@
 3. **coping with the crisis.**
 ## C5 Brave new work space.
 1. high frequency of job changing for creative class.
-2. **f
+2. **free-agent nation or the end of jobs?** very few creative workers are self-employed at the moment. 
+ - rosy view: free agents will be working in their homes and commuting virtually.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjAwMTg3NTgsNTg1NDAyMTY0LDYwNj
+eyJoaXN0b3J5IjpbLTE2NjM3Nzc3MDAsNTg1NDAyMTY0LDYwNj
 gyNzI2MCw2NDExNzU0MjksLTE5NDQzMTY1NDQsNTczNDY5Mzg5
 LDEzNTEyMjMxODQsMzYyNzExMDU3LDEwMTE0MjQyMTAsLTIxMT
 k2OTI5MjMsMTEzMjA0MjE4MSw2OTY3MzM3MTcsLTExMTMzNjg3
