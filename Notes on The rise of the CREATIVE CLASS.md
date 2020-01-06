@@ -16,11 +16,11 @@
 
 # Work
 ## C4 The machine shop and the hair salon
-1.  ** In 1990, good technicial
+1.  ** In 1990, good technician such as technician is rare.** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2MzcxNjMwLDExMzIwNDIxODEsNjk2Nz
-MzNzE3LC0xMTEzMzY4NzI2LDg5NzM0ODQ5MCwtMTY2ODY1MDE2
-MCw5NjgzOTI2OTEsMTM4MTM4NTA4MiwtMTEyMDM0MSwxMzA5MD
-g5MjM4LDE0NjQ1MTgyMSwzNzgxOTMwMzYsLTIwNzE5NjgyMTFd
-fQ==
+eyJoaXN0b3J5IjpbLTIxMTk2OTI5MjMsMTEzMjA0MjE4MSw2OT
+Y3MzM3MTcsLTExMTMzNjg3MjYsODk3MzQ4NDkwLC0xNjY4NjUw
+MTYwLDk2ODM5MjY5MSwxMzgxMzg1MDgyLC0xMTIwMzQxLDEzMD
+kwODkyMzgsMTQ2NDUxODIxLDM3ODE5MzAzNiwtMjA3MTk2ODIx
+MV19
 -->
