@@ -49,13 +49,13 @@
 - DotComGuy who lived the entire year of 2000 in his room. Relying only on web-based services.
 - a conversion from consumption of goods to the consumption of experience.
 - constructive creativity require a openness for experience.
-- **The active live** Increasing consumption on recreation. 
+- **The active live** Increasing consumption on recreation. Creati
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzUxMzQ3OSw5ODg3MTc4MzAsLTkzNT
-Q4NDgyNywxNjYwNzQzMjY0LDUyMjY4OTEzNSwxODAwNDkxNzEx
-LC0yMDAxMjI0MDg2LC0xODYwMTQxNDcyLDkyOTg1NzYxMSw0OD
-U1ODM5LDg3NjU2MDcxLC0xNDM4NTIxMDg4LDEyNTg3MzUyMDEs
-LTM4NDM1Mzk1NSwxODE0NzE0NzU2LDE1MTEwMDM4OTQsLTE2Nj
-M3Nzc3MDAsLTE2NjM3Nzc3MDAsNTg1NDAyMTY0LDYwNjgyNzI2
-MF19
+eyJoaXN0b3J5IjpbMjEyMzI0ODkzNSwxMzc3NTEzNDc5LDk4OD
+cxNzgzMCwtOTM1NDg0ODI3LDE2NjA3NDMyNjQsNTIyNjg5MTM1
+LDE4MDA0OTE3MTEsLTIwMDEyMjQwODYsLTE4NjAxNDE0NzIsOT
+I5ODU3NjExLDQ4NTU4MzksODc2NTYwNzEsLTE0Mzg1MjEwODgs
+MTI1ODczNTIwMSwtMzg0MzUzOTU1LDE4MTQ3MTQ3NTYsMTUxMT
+AwMzg5NCwtMTY2Mzc3NzcwMCwtMTY2Mzc3NzcwMCw1ODU0MDIx
+NjRdfQ==
 -->
