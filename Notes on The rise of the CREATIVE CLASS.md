@@ -49,9 +49,10 @@
 - DotComGuy who lived the entire year of 2000 in his room. Relying only on web-based services.
 - a conversion from consumption of goods to the consumption of experience.
 - constructive creativity require a openness for experience.
-- **The active live** Increasing consumption on recreation. Creati
+- **The active live** Increasing consumption on recreation. Creative class like direct sports, has better fitness than low income peoples.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzI0ODkzNSwxMzc3NTEzNDc5LDk4OD
+eyJoaXN0b3J5IjpbMTU5ODgxMDk0OCwxMzc3NTEzNDc5LDk4OD
 cxNzgzMCwtOTM1NDg0ODI3LDE2NjA3NDMyNjQsNTIyNjg5MTM1
 LDE4MDA0OTE3MTEsLTIwMDEyMjQwODYsLTE4NjAxNDE0NzIsOT
 I5ODU3NjExLDQ4NTU4MzksODc2NTYwNzEsLTE0Mzg1MjEwODgs
