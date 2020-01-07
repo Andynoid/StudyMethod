@@ -14,7 +14,7 @@
 6. The sex and racial problem in creative class. the absence of black people.
 7. **Global value shift** To value more in mental than material survival as 'we' are able to afford it. ( Creative class in US and some people in the world.)
 
-# Work
+# 2. Work
 ## C4 The machine shop and the hair salon
 1.  ** In 1990, good technician such as technician is rare.** Hair salon is the most creative job at the time above computer system designer and artist. People may prefer hair salon than machine shop because of this. 
 2. ** What creatives want at work?** 
@@ -41,9 +41,12 @@
 	- we are all creatives 
 	- focus on customers and end-users
 
+# 3. LIFE
+## C7 Time Warp
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA5NjYzNzUsLTE4NjAxNDE0NzIsOT
+eyJoaXN0b3J5IjpbLTIwMDEyMjQwODYsLTE4NjAxNDE0NzIsOT
 I5ODU3NjExLDQ4NTU4MzksODc2NTYwNzEsLTE0Mzg1MjEwODgs
 MTI1ODczNTIwMSwtMzg0MzUzOTU1LDE4MTQ3MTQ3NTYsMTUxMT
 AwMzg5NCwtMTY2Mzc3NzcwMCwtMTY2Mzc3NzcwMCw1ODU0MDIx
