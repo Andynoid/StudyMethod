@@ -35,13 +35,13 @@
 2. **work flexibly and longer** Creative workers work more flexible and for longer hours as well.
 3. **new work space** Campus-like working space for creative works. For communication, creative thinking and long work time.
 4. ** Form follows function**  The new work space was to spark the creative works. This is desired by the firm, business and universities.
-5. **soft control** 
+5. **soft control** Caring sweatshop. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTIwMDIwMSw4NzY1NjA3MSwtMTQzOD
-UyMTA4OCwxMjU4NzM1MjAxLC0zODQzNTM5NTUsMTgxNDcxNDc1
-NiwxNTExMDAzODk0LC0xNjYzNzc3NzAwLC0xNjYzNzc3NzAwLD
-U4NTQwMjE2NCw2MDY4MjcyNjAsNjQxMTc1NDI5LC0xOTQ0MzE2
-NTQ0LDU3MzQ2OTM4OSwxMzUxMjIzMTg0LDM2MjcxMTA1NywxMD
-ExNDI0MjEwLC0yMTE5NjkyOTIzLDExMzIwNDIxODEsNjk2NzMz
-NzE3XX0=
+eyJoaXN0b3J5IjpbNDg1NTgzOSw4NzY1NjA3MSwtMTQzODUyMT
+A4OCwxMjU4NzM1MjAxLC0zODQzNTM5NTUsMTgxNDcxNDc1Niwx
+NTExMDAzODk0LC0xNjYzNzc3NzAwLC0xNjYzNzc3NzAwLDU4NT
+QwMjE2NCw2MDY4MjcyNjAsNjQxMTc1NDI5LC0xOTQ0MzE2NTQ0
+LDU3MzQ2OTM4OSwxMzUxMjIzMTg0LDM2MjcxMTA1NywxMDExND
+I0MjEwLC0yMTE5NjkyOTIzLDExMzIwNDIxODEsNjk2NzMzNzE3
+XX0=
 -->
