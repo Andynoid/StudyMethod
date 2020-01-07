@@ -46,9 +46,9 @@
 - We are having less and less time, especially the creative workers.
 1. **front-loading**
 ## C8. The experiential life
-- DotComGuy who lived the entire year of 2000 in his room. Relying only on webbased services.
+- DotComGuy who lived the entire year of 2000 in his room. Relying only on web-based services.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzI1OTYxMSw1MjI2ODkxMzUsMTgwMD
+eyJoaXN0b3J5IjpbMTY2MDc0MzI2NCw1MjI2ODkxMzUsMTgwMD
 Q5MTcxMSwtMjAwMTIyNDA4NiwtMTg2MDE0MTQ3Miw5Mjk4NTc2
 MTEsNDg1NTgzOSw4NzY1NjA3MSwtMTQzODUyMTA4OCwxMjU4Nz
 M1MjAxLC0zODQzNTM5NTUsMTgxNDcxNDc1NiwxNTExMDAzODk0
