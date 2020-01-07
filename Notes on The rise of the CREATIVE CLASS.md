@@ -31,13 +31,13 @@
  - current situation of big company dominance.
 3. ** where the new york comes from**  Workers now facing full responsibility for themselves. Including job instability, on-going learning and many more. The traditional security and entitlement no longer exist. 
 ## C6 No-Collar
-1. 
+1. Dre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDM1Mzk1NSwxODE0NzE0NzU2LDE1MT
-EwMDM4OTQsLTE2NjM3Nzc3MDAsLTE2NjM3Nzc3MDAsNTg1NDAy
-MTY0LDYwNjgyNzI2MCw2NDExNzU0MjksLTE5NDQzMTY1NDQsNT
-czNDY5Mzg5LDEzNTEyMjMxODQsMzYyNzExMDU3LDEwMTE0MjQy
-MTAsLTIxMTk2OTI5MjMsMTEzMjA0MjE4MSw2OTY3MzM3MTcsLT
-ExMTMzNjg3MjYsODk3MzQ4NDkwLC0xNjY4NjUwMTYwLDk2ODM5
-MjY5MV19
+eyJoaXN0b3J5IjpbMjQ1MDUwNDMyLC0zODQzNTM5NTUsMTgxND
+cxNDc1NiwxNTExMDAzODk0LC0xNjYzNzc3NzAwLC0xNjYzNzc3
+NzAwLDU4NTQwMjE2NCw2MDY4MjcyNjAsNjQxMTc1NDI5LC0xOT
+Q0MzE2NTQ0LDU3MzQ2OTM4OSwxMzUxMjIzMTg0LDM2MjcxMTA1
+NywxMDExNDI0MjEwLC0yMTE5NjkyOTIzLDExMzIwNDIxODEsNj
+k2NzMzNzE3LC0xMTEzMzY4NzI2LDg5NzM0ODQ5MCwtMTY2ODY1
+MDE2MF19
 -->
