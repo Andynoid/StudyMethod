@@ -35,9 +35,10 @@
 2. **work flexibly and longer** Creative workers work more flexible and for longer hours as well.
 3. **new work space** Campus-like working space for creative works. For communication, creative thinking and long work time.
 4. ** Form follows function**  The new work space was to spark the creative works. This is desired by the firm, business and universities.
-5. **soft control** Caring sweatshop. The New 
+5. **soft control** Caring sweatshop. The New economy brought the working place environment back to earth, to a real, close to life place.
+6. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTYyMzAyNCw0ODU1ODM5LDg3NjU2MD
+eyJoaXN0b3J5IjpbMTc3Mjk1MDUwNSw0ODU1ODM5LDg3NjU2MD
 cxLC0xNDM4NTIxMDg4LDEyNTg3MzUyMDEsLTM4NDM1Mzk1NSwx
 ODE0NzE0NzU2LDE1MTEwMDM4OTQsLTE2NjM3Nzc3MDAsLTE2Nj
 M3Nzc3MDAsNTg1NDAyMTY0LDYwNjgyNzI2MCw2NDExNzU0Mjks
