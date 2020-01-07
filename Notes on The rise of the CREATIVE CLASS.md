@@ -36,13 +36,13 @@
 3. **new work space** Campus-like working space for creative works. For communication, creative thinking and long work time.
 4. ** Form follows function**  The new work space was to spark the creative works. This is desired by the firm, business and universities.
 5. **soft control** Caring sweatshop. The New economy brought the working place environment back to earth, to a real, close to life place.
-6. 
+6. ** Managing creativity at SAS** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3Mjk1MDUwNSw0ODU1ODM5LDg3NjU2MD
-cxLC0xNDM4NTIxMDg4LDEyNTg3MzUyMDEsLTM4NDM1Mzk1NSwx
-ODE0NzE0NzU2LDE1MTEwMDM4OTQsLTE2NjM3Nzc3MDAsLTE2Nj
-M3Nzc3MDAsNTg1NDAyMTY0LDYwNjgyNzI2MCw2NDExNzU0Mjks
-LTE5NDQzMTY1NDQsNTczNDY5Mzg5LDEzNTEyMjMxODQsMzYyNz
-ExMDU3LDEwMTE0MjQyMTAsLTIxMTk2OTI5MjMsMTEzMjA0MjE4
-MV19
+eyJoaXN0b3J5IjpbOTI5ODU3NjExLDQ4NTU4MzksODc2NTYwNz
+EsLTE0Mzg1MjEwODgsMTI1ODczNTIwMSwtMzg0MzUzOTU1LDE4
+MTQ3MTQ3NTYsMTUxMTAwMzg5NCwtMTY2Mzc3NzcwMCwtMTY2Mz
+c3NzcwMCw1ODU0MDIxNjQsNjA2ODI3MjYwLDY0MTE3NTQyOSwt
+MTk0NDMxNjU0NCw1NzM0NjkzODksMTM1MTIyMzE4NCwzNjI3MT
+EwNTcsMTAxMTQyNDIxMCwtMjExOTY5MjkyMywxMTMyMDQyMTgx
+XX0=
 -->
