@@ -32,13 +32,14 @@
 3. ** where the new york comes from**  Workers now facing full responsibility for themselves. Including job instability, on-going learning and many more. The traditional security and entitlement no longer exist. 
 ## C6 No-Collar
 1. Dress code has become loose in the past 60  years. reflecting a release of creative class.
-2. **work flexibly and longer** 
+2. **work flexibly and longer** Creative workers work more flexible and for longer hours as well.
+3. **new work space** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODczNTIwMSwtMzg0MzUzOTU1LDE4MT
-Q3MTQ3NTYsMTUxMTAwMzg5NCwtMTY2Mzc3NzcwMCwtMTY2Mzc3
-NzcwMCw1ODU0MDIxNjQsNjA2ODI3MjYwLDY0MTE3NTQyOSwtMT
-k0NDMxNjU0NCw1NzM0NjkzODksMTM1MTIyMzE4NCwzNjI3MTEw
-NTcsMTAxMTQyNDIxMCwtMjExOTY5MjkyMywxMTMyMDQyMTgxLD
-Y5NjczMzcxNywtMTExMzM2ODcyNiw4OTczNDg0OTAsLTE2Njg2
-NTAxNjBdfQ==
+eyJoaXN0b3J5IjpbLTE0Mzg1MjEwODgsMTI1ODczNTIwMSwtMz
+g0MzUzOTU1LDE4MTQ3MTQ3NTYsMTUxMTAwMzg5NCwtMTY2Mzc3
+NzcwMCwtMTY2Mzc3NzcwMCw1ODU0MDIxNjQsNjA2ODI3MjYwLD
+Y0MTE3NTQyOSwtMTk0NDMxNjU0NCw1NzM0NjkzODksMTM1MTIy
+MzE4NCwzNjI3MTEwNTcsMTAxMTQyNDIxMCwtMjExOTY5MjkyMy
+wxMTMyMDQyMTgxLDY5NjczMzcxNywtMTExMzM2ODcyNiw4OTcz
+NDg0OTBdfQ==
 -->
