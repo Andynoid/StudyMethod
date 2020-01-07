@@ -45,9 +45,10 @@
 ## C7 Time Warp
 - We are having less and less time, especially the creative workers.
 1. **front-loading**
-## 
+## C8. The experiential life
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzOTU1MTg5LDE4MDA0OTE3MTEsLTIwMD
+eyJoaXN0b3J5IjpbNTIyNjg5MTM1LDE4MDA0OTE3MTEsLTIwMD
 EyMjQwODYsLTE4NjAxNDE0NzIsOTI5ODU3NjExLDQ4NTU4Mzks
 ODc2NTYwNzEsLTE0Mzg1MjEwODgsMTI1ODczNTIwMSwtMzg0Mz
 UzOTU1LDE4MTQ3MTQ3NTYsMTUxMTAwMzg5NCwtMTY2Mzc3Nzcw
