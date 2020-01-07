@@ -48,13 +48,14 @@
 ## C8. The experiential life
 - DotComGuy who lived the entire year of 2000 in his room. Relying only on web-based services.
 - a conversion from consumption of goods to the consumption of experience.
-- constructive creativity require a openness for experien
+- constructive creativity require a openness for experience.
+- **The active live** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMzg4Mjc3MiwtOTM1NDg0ODI3LDE2Nj
-A3NDMyNjQsNTIyNjg5MTM1LDE4MDA0OTE3MTEsLTIwMDEyMjQw
-ODYsLTE4NjAxNDE0NzIsOTI5ODU3NjExLDQ4NTU4MzksODc2NT
-YwNzEsLTE0Mzg1MjEwODgsMTI1ODczNTIwMSwtMzg0MzUzOTU1
-LDE4MTQ3MTQ3NTYsMTUxMTAwMzg5NCwtMTY2Mzc3NzcwMCwtMT
-Y2Mzc3NzcwMCw1ODU0MDIxNjQsNjA2ODI3MjYwLDY0MTE3NTQy
-OV19
+eyJoaXN0b3J5IjpbOTg4NzE3ODMwLC05MzU0ODQ4MjcsMTY2MD
+c0MzI2NCw1MjI2ODkxMzUsMTgwMDQ5MTcxMSwtMjAwMTIyNDA4
+NiwtMTg2MDE0MTQ3Miw5Mjk4NTc2MTEsNDg1NTgzOSw4NzY1Nj
+A3MSwtMTQzODUyMTA4OCwxMjU4NzM1MjAxLC0zODQzNTM5NTUs
+MTgxNDcxNDc1NiwxNTExMDAzODk0LC0xNjYzNzc3NzAwLC0xNj
+YzNzc3NzAwLDU4NTQwMjE2NCw2MDY4MjcyNjAsNjQxMTc1NDI5
+XX0=
 -->
