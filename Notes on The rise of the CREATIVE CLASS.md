@@ -47,12 +47,14 @@
 1. **front-loading**
 ## C8. The experiential life
 - DotComGuy who lived the entire year of 2000 in his room. Relying only on web-based services.
+- a conversion from consumption of goods to the consumption of experience.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDc0MzI2NCw1MjI2ODkxMzUsMTgwMD
-Q5MTcxMSwtMjAwMTIyNDA4NiwtMTg2MDE0MTQ3Miw5Mjk4NTc2
-MTEsNDg1NTgzOSw4NzY1NjA3MSwtMTQzODUyMTA4OCwxMjU4Nz
-M1MjAxLC0zODQzNTM5NTUsMTgxNDcxNDc1NiwxNTExMDAzODk0
-LC0xNjYzNzc3NzAwLC0xNjYzNzc3NzAwLDU4NTQwMjE2NCw2MD
-Y4MjcyNjAsNjQxMTc1NDI5LC0xOTQ0MzE2NTQ0LDU3MzQ2OTM4
-OV19
+eyJoaXN0b3J5IjpbLTkzNTQ4NDgyNywxNjYwNzQzMjY0LDUyMj
+Y4OTEzNSwxODAwNDkxNzExLC0yMDAxMjI0MDg2LC0xODYwMTQx
+NDcyLDkyOTg1NzYxMSw0ODU1ODM5LDg3NjU2MDcxLC0xNDM4NT
+IxMDg4LDEyNTg3MzUyMDEsLTM4NDM1Mzk1NSwxODE0NzE0NzU2
+LDE1MTEwMDM4OTQsLTE2NjM3Nzc3MDAsLTE2NjM3Nzc3MDAsNT
+g1NDAyMTY0LDYwNjgyNzI2MCw2NDExNzU0MjksLTE5NDQzMTY1
+NDRdfQ==
 -->
