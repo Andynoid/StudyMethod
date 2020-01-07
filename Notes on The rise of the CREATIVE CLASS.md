@@ -34,13 +34,14 @@
 1. Dress code has become loose in the past 60  years. reflecting a release of creative class.
 2. **work flexibly and longer** Creative workers work more flexible and for longer hours as well.
 3. **new work space** Campus-like working space for creative works. For communication, creative thinking and long work time.
-4. ** Form follows function**  The 
+4. ** Form follows function**  The new work space was to spark the creative works. This is desired by the firm, business and universities.
+5. **soft control** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwNTA5NDMyLDg3NjU2MDcxLC0xNDM4NT
-IxMDg4LDEyNTg3MzUyMDEsLTM4NDM1Mzk1NSwxODE0NzE0NzU2
-LDE1MTEwMDM4OTQsLTE2NjM3Nzc3MDAsLTE2NjM3Nzc3MDAsNT
-g1NDAyMTY0LDYwNjgyNzI2MCw2NDExNzU0MjksLTE5NDQzMTY1
-NDQsNTczNDY5Mzg5LDEzNTEyMjMxODQsMzYyNzExMDU3LDEwMT
-E0MjQyMTAsLTIxMTk2OTI5MjMsMTEzMjA0MjE4MSw2OTY3MzM3
-MTddfQ==
+eyJoaXN0b3J5IjpbMTE3MTIwMDIwMSw4NzY1NjA3MSwtMTQzOD
+UyMTA4OCwxMjU4NzM1MjAxLC0zODQzNTM5NTUsMTgxNDcxNDc1
+NiwxNTExMDAzODk0LC0xNjYzNzc3NzAwLC0xNjYzNzc3NzAwLD
+U4NTQwMjE2NCw2MDY4MjcyNjAsNjQxMTc1NDI5LC0xOTQ0MzE2
+NTQ0LDU3MzQ2OTM4OSwxMzUxMjIzMTg0LDM2MjcxMTA1NywxMD
+ExNDI0MjEwLC0yMTE5NjkyOTIzLDExMzIwNDIxODEsNjk2NzMz
+NzE3XX0=
 -->
