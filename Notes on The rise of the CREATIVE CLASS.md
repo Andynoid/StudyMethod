@@ -30,12 +30,14 @@
  - rosy view: free agents will be working in their homes and commuting virtually.
  - current situation of big company dominance.
 3. ** where the new york comes from**  Workers now facing full responsibility for themselves. Including job instability, on-going learning and many more. The traditional security and entitlement no longer exist. 
+## C6 No-Collar
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDcxNDc1NiwxNTExMDAzODk0LC0xNj
-YzNzc3NzAwLC0xNjYzNzc3NzAwLDU4NTQwMjE2NCw2MDY4Mjcy
-NjAsNjQxMTc1NDI5LC0xOTQ0MzE2NTQ0LDU3MzQ2OTM4OSwxMz
-UxMjIzMTg0LDM2MjcxMTA1NywxMDExNDI0MjEwLC0yMTE5Njky
-OTIzLDExMzIwNDIxODEsNjk2NzMzNzE3LC0xMTEzMzY4NzI2LD
-g5NzM0ODQ5MCwtMTY2ODY1MDE2MCw5NjgzOTI2OTEsMTM4MTM4
-NTA4Ml19
+eyJoaXN0b3J5IjpbLTM4NDM1Mzk1NSwxODE0NzE0NzU2LDE1MT
+EwMDM4OTQsLTE2NjM3Nzc3MDAsLTE2NjM3Nzc3MDAsNTg1NDAy
+MTY0LDYwNjgyNzI2MCw2NDExNzU0MjksLTE5NDQzMTY1NDQsNT
+czNDY5Mzg5LDEzNTEyMjMxODQsMzYyNzExMDU3LDEwMTE0MjQy
+MTAsLTIxMTk2OTI5MjMsMTEzMjA0MjE4MSw2OTY3MzM3MTcsLT
+ExMTMzNjg3MjYsODk3MzQ4NDkwLC0xNjY4NjUwMTYwLDk2ODM5
+MjY5MV19
 -->
