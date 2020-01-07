@@ -31,13 +31,14 @@
  - current situation of big company dominance.
 3. ** where the new york comes from**  Workers now facing full responsibility for themselves. Including job instability, on-going learning and many more. The traditional security and entitlement no longer exist. 
 ## C6 No-Collar
-1. Dre
+1. Dress code has become loose in the past 60  years. reflecting a release of creative class.
+2. **work flexibly and longer** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1MDUwNDMyLC0zODQzNTM5NTUsMTgxND
-cxNDc1NiwxNTExMDAzODk0LC0xNjYzNzc3NzAwLC0xNjYzNzc3
-NzAwLDU4NTQwMjE2NCw2MDY4MjcyNjAsNjQxMTc1NDI5LC0xOT
-Q0MzE2NTQ0LDU3MzQ2OTM4OSwxMzUxMjIzMTg0LDM2MjcxMTA1
-NywxMDExNDI0MjEwLC0yMTE5NjkyOTIzLDExMzIwNDIxODEsNj
-k2NzMzNzE3LC0xMTEzMzY4NzI2LDg5NzM0ODQ5MCwtMTY2ODY1
-MDE2MF19
+eyJoaXN0b3J5IjpbMTI1ODczNTIwMSwtMzg0MzUzOTU1LDE4MT
+Q3MTQ3NTYsMTUxMTAwMzg5NCwtMTY2Mzc3NzcwMCwtMTY2Mzc3
+NzcwMCw1ODU0MDIxNjQsNjA2ODI3MjYwLDY0MTE3NTQyOSwtMT
+k0NDMxNjU0NCw1NzM0NjkzODksMTM1MTIyMzE4NCwzNjI3MTEw
+NTcsMTAxMTQyNDIxMCwtMjExOTY5MjkyMywxMTMyMDQyMTgxLD
+Y5NjczMzcxNywtMTExMzM2ODcyNiw4OTczNDg0OTAsLTE2Njg2
+NTAxNjBdfQ==
 -->
