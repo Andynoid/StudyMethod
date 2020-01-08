@@ -50,13 +50,14 @@
 - a conversion from consumption of goods to the consumption of experience.
 - constructive creativity require a openness for experience.
 - **The active live** Increasing consumption on recreation. Creative class like direct sports, has better fitness than low income peoples.
-- ** Leisure as work** Bicy
+- ** Leisure as work** Bicycle and creative people has a correlation.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTM2MDE4MDEsLTExMjUxOTU3MTIsMT
-U5ODgxMDk0OCwxMzc3NTEzNDc5LDk4ODcxNzgzMCwtOTM1NDg0
-ODI3LDE2NjA3NDMyNjQsNTIyNjg5MTM1LDE4MDA0OTE3MTEsLT
-IwMDEyMjQwODYsLTE4NjAxNDE0NzIsOTI5ODU3NjExLDQ4NTU4
-MzksODc2NTYwNzEsLTE0Mzg1MjEwODgsMTI1ODczNTIwMSwtMz
-g0MzUzOTU1LDE4MTQ3MTQ3NTYsMTUxMTAwMzg5NCwtMTY2Mzc3
-NzcwMF19
+eyJoaXN0b3J5IjpbLTc5NTg0MTIsLTExMjUxOTU3MTIsMTU5OD
+gxMDk0OCwxMzc3NTEzNDc5LDk4ODcxNzgzMCwtOTM1NDg0ODI3
+LDE2NjA3NDMyNjQsNTIyNjg5MTM1LDE4MDA0OTE3MTEsLTIwMD
+EyMjQwODYsLTE4NjAxNDE0NzIsOTI5ODU3NjExLDQ4NTU4Mzks
+ODc2NTYwNzEsLTE0Mzg1MjEwODgsMTI1ODczNTIwMSwtMzg0Mz
+UzOTU1LDE4MTQ3MTQ3NTYsMTUxMTAwMzg5NCwtMTY2Mzc3Nzcw
+MF19
 -->
