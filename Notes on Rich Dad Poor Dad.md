@@ -17,7 +17,9 @@
 >  假如你弄懂了生活这门大课，做任何事情你都会游刃有余。但就算你学不会， 生活照样会推着你转。所以生活中，人们通常会做两件事。一些人在生活推着他转的同时，抓住生活 赐予的每个机会;而另一些人则听任生活的摆布，不去与生活抗争。他们埋怨生活的不公平，因此就 去讨厌老板，讨厌工作，讨厌家人，他们不知道生活也赐予了他们机会
 
 > “生活推着我们所有的人，有些人放弃了，有些人在抗争。
+
+> 改变自己比改变他人更容易。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODY2MDc2OTksMTczMDA0MjM0OCwtMT
+eyJoaXN0b3J5IjpbLTE2NjE2ODIzOTIsMTczMDA0MjM0OCwtMT
 Q2OTI3ODE5NF19
 -->
