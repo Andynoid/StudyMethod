@@ -19,7 +19,12 @@
 > “生活推着我们所有的人，有些人放弃了，有些人在抗争。
 
 > 改变自己比改变他人更容易。
+
+> 
+有些人会这么做的，仅仅因为他们和他们的家庭需要钱而接受这份工资，但他们
+
+所做的只是等待，等待着能有机会让他们挣到更多的钱使问题解决。于是大部分人接受了，有些人做 两份工并且非常努力地工作，但仍只能得到很少的报酬。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjE2ODIzOTIsMTczMDA0MjM0OCwtMT
-Q2OTI3ODE5NF19
+eyJoaXN0b3J5IjpbMTkwOTYwMzIxNSwtMTY2MTY4MjM5MiwxNz
+MwMDQyMzQ4LC0xNDY5Mjc4MTk0XX0=
 -->
