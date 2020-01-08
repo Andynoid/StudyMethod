@@ -11,7 +11,7 @@
 >  钱是一种力量，但更有力量的是有关理财的教育。钱来了又去，但如果你了解钱是如何运转的，你就有了驾驭它的力量，并开始积累财富。光想不干的原因是绝大部分人 接受学校教育后却没有掌握钱真正的运转规律，所以他们终生都在为钱而工作。
 
 # 第一课: 富人不为钱工作
-
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODgzNzg4LC0xNDY5Mjc4MTk0XX0=
+eyJoaXN0b3J5IjpbNjg5MDk2NjQ4LC0xNDY5Mjc4MTk0XX0=
 -->
