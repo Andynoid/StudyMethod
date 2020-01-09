@@ -31,8 +31,10 @@
 		- 中国 前1% 拥有30% 前7.5%(10万美元)拥有55%财富.  美国前7.1%(100万美元)拥有71%财富. 全球前0.1%拥有15%财富
 3. **如果中了500万,你会干什么? **
 4. 黄金100万, 股票100万, 基金200万, 100万现金流,用来读博士. ---> 理财知识
+
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1MDMwODA4LC00NjQ4NzI5MjAsMTc3Nz
-c4NDQ4LDE5NDgxMDI4OTIsMTkwOTYwMzIxNSwtMTY2MTY4MjM5
-MiwxNzMwMDQyMzQ4LC0xNDY5Mjc4MTk0XX0=
+eyJoaXN0b3J5IjpbMjI1NzY4NDgwLDMwNTAzMDgwOCwtNDY0OD
+cyOTIwLDE3Nzc3ODQ0OCwxOTQ4MTAyODkyLDE5MDk2MDMyMTUs
+LTE2NjE2ODIzOTIsMTczMDA0MjM0OCwtMTQ2OTI3ODE5NF19
 -->
