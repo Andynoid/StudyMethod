@@ -36,10 +36,12 @@
 - 贫富差距: 咱们处于中国前7.5%富裕人口.
 - 隐性需求和显性需求
 - 北方人比南方人更安逸
-- 500万怎么花: 100万fang
+- 500万怎么花: 建煌: 120万房车, 100理财, 150万现金, 130其他渠道投资; 子安: 100万黄金股票, 200万基金, 100万现金流, 100万教育.
+读书总结:
+- 大部分人工作shi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTIyODA2MjQsMjI1NzY4NDgwLDMwNT
-AzMDgwOCwtNDY0ODcyOTIwLDE3Nzc3ODQ0OCwxOTQ4MTAyODky
-LDE5MDk2MDMyMTUsLTE2NjE2ODIzOTIsMTczMDA0MjM0OCwtMT
-Q2OTI3ODE5NF19
+eyJoaXN0b3J5IjpbLTg2NDI2NTU4NSwyMjU3Njg0ODAsMzA1MD
+MwODA4LC00NjQ4NzI5MjAsMTc3Nzc4NDQ4LDE5NDgxMDI4OTIs
+MTkwOTYwMzIxNSwtMTY2MTY4MjM5MiwxNzMwMDQyMzQ4LC0xND
+Y5Mjc4MTk0XX0=
 -->
