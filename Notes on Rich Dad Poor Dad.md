@@ -49,15 +49,21 @@
 
 ## 为什么要教授财务知识
 
-知识才能解决问题并创造财富，不是凭财务知识挣来的钱很快就会消失。
+- 知识才能解决问题并创造财富，不是凭财务知识挣来的钱很快就会消失。
+
+- 收入表与负债表
+
+- 资产就是能把钱放进你口-袋里的东西。
+	负债是把钱从你口袋里取走的东西。
 
 谈话
 1. 全球化
 
 3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MzY3MTkxMSwxNzEyNzczMTA4LC0xNj
-kyNjkyNTI2LDIyNTc2ODQ4MCwzMDUwMzA4MDgsLTQ2NDg3Mjky
-MCwxNzc3Nzg0NDgsMTk0ODEwMjg5MiwxOTA5NjAzMjE1LC0xNj
-YxNjgyMzkyLDE3MzAwNDIzNDgsLTE0NjkyNzgxOTRdfQ==
+eyJoaXN0b3J5IjpbOTM5OTkxODA4LC04NjM2NzE5MTEsMTcxMj
+c3MzEwOCwtMTY5MjY5MjUyNiwyMjU3Njg0ODAsMzA1MDMwODA4
+LC00NjQ4NzI5MjAsMTc3Nzc4NDQ4LDE5NDgxMDI4OTIsMTkwOT
+YwMzIxNSwtMTY2MTY4MjM5MiwxNzMwMDQyMzQ4LC0xNDY5Mjc4
+MTk0XX0=
 -->
