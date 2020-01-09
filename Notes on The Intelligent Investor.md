@@ -9,8 +9,9 @@
 1. *Security analysis* Also by benjamin.
 2. 5 core principles:
 	- A stock is not just a ticker symbol or an electronic blip; it is an ownership interest in an actual business, with an underlying value the does not depend on its share value.
-	- The market is a pendulum that forever swings 
+	- The market is a pendulum that forever swings between unsustainable optimism and unjustified pessimism. The intelligent investor is a realist who sells to  optimists and buys from pessimists.
+	- The future value of every investment is a function of its present price. The higher the price you pay, the lowe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwODA0NjEzLC00OTA2ODYwMDgsMTY5Nj
-kzNjE4Nl19
+eyJoaXN0b3J5IjpbLTg0ODE4MTg1OSwtNDkwNjg2MDA4LDE2OT
+Y5MzYxODZdfQ==
 -->
