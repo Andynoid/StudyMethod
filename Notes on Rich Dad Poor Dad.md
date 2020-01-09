@@ -28,11 +28,11 @@
 
 1. 不为钱工作, 不要为了贪婪和恐惧工作.
 2. 世界贫富差距  我手上五万元,世界前30%.** 哥哥**
-		- 中国 前7.5%
+		- 中国 前7.5%(10万美元)拥有55%财富.  美国前7.1%(100万美元)拥有71%财富
 3. **如果中了500万,你会干什么? **
 4. 黄金100万, 股票100万, 基金200万, 100万现金流,用来读博士. ---> 理财知识
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzYwMjk2NSwxNzc3Nzg0NDgsMTk0OD
+eyJoaXN0b3J5IjpbLTQ2NDg3MjkyMCwxNzc3Nzg0NDgsMTk0OD
 EwMjg5MiwxOTA5NjAzMjE1LC0xNjYxNjgyMzkyLDE3MzAwNDIz
 NDgsLTE0NjkyNzgxOTRdfQ==
 -->
