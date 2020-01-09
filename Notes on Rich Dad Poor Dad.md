@@ -56,14 +56,16 @@
 - 资产就是能把钱放进你口-袋里的东西。
 	负债是把钱从你口袋里取走的东西。
 
+- 因为这些在父母们看来不是职业的“职业” 似乎会更出名。
+更有钱、更显赫。这也是为什么难以鼓励今天的孩子们去学校的原因，他们知道职业上的成功不 再完全与学习成绩相关了，尽管两者曾经是那样的相关。
 谈话
 1. 全球化
 
 3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5OTkxODA4LC04NjM2NzE5MTEsMTcxMj
-c3MzEwOCwtMTY5MjY5MjUyNiwyMjU3Njg0ODAsMzA1MDMwODA4
-LC00NjQ4NzI5MjAsMTc3Nzc4NDQ4LDE5NDgxMDI4OTIsMTkwOT
-YwMzIxNSwtMTY2MTY4MjM5MiwxNzMwMDQyMzQ4LC0xNDY5Mjc4
-MTk0XX0=
+eyJoaXN0b3J5IjpbNDE2MjM3MTEyLDkzOTk5MTgwOCwtODYzNj
+cxOTExLDE3MTI3NzMxMDgsLTE2OTI2OTI1MjYsMjI1NzY4NDgw
+LDMwNTAzMDgwOCwtNDY0ODcyOTIwLDE3Nzc3ODQ0OCwxOTQ4MT
+AyODkyLDE5MDk2MDMyMTUsLTE2NjE2ODIzOTIsMTczMDA0MjM0
+OCwtMTQ2OTI3ODE5NF19
 -->
