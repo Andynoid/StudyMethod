@@ -38,7 +38,8 @@
 - 北方人比南方人更安逸
 - 500万怎么花: 建煌: 120万房车, 100理财, 150万现金, 130其他渠道投资; 子安: 100万黄金股票, 200万基金, 100万现金流, 100万教育.
 - 做事要理智
-- mei'yuan'de
+- 金本位美元和石油美元(持续到现在)
+- 中国房地产泡沫
 
 - 要学会管理风险
 读书总结:
@@ -47,8 +48,8 @@
 - 富人不为钱工作
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0MDkwNTUxLDIyNTc2ODQ4MCwzMDUwMz
-A4MDgsLTQ2NDg3MjkyMCwxNzc3Nzg0NDgsMTk0ODEwMjg5Miwx
-OTA5NjAzMjE1LC0xNjYxNjgyMzkyLDE3MzAwNDIzNDgsLTE0Nj
-kyNzgxOTRdfQ==
+eyJoaXN0b3J5IjpbLTE2OTI2OTI1MjYsMjI1NzY4NDgwLDMwNT
+AzMDgwOCwtNDY0ODcyOTIwLDE3Nzc3ODQ0OCwxOTQ4MTAyODky
+LDE5MDk2MDMyMTUsLTE2NjE2ODIzOTIsMTczMDA0MjM0OCwtMT
+Q2OTI3ODE5NF19
 -->
