@@ -64,12 +64,14 @@
 - 此外，对于钱的热衷会降低财务方面的理智，我的个人经历告诉我，钱能使决策变得情绪化。
 
 
+- 最大的损失是机会损失。如果你所有的钱都被投在了房子上，你就不得不努力工作，因为你的 现金正不断地从支出项流出，而不是流人资产项，这是典型的中产阶级现金流模式。
+
 谈话
 1. 全球化
 2. 迷茫
 3. 中国特色
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1MDQ0NDg2LC00MDQzNDk5MDMsOTM5OT
+eyJoaXN0b3J5IjpbMzA1MjY4NjYxLC00MDQzNDk5MDMsOTM5OT
 kxODA4LC04NjM2NzE5MTEsMTcxMjc3MzEwOCwtMTY5MjY5MjUy
 NiwyMjU3Njg0ODAsMzA1MDMwODA4LC00NjQ4NzI5MjAsMTc3Nz
 c4NDQ4LDE5NDgxMDI4OTIsMTkwOTYwMzIxNSwtMTY2MTY4MjM5
