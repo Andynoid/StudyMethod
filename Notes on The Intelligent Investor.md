@@ -16,8 +16,8 @@
 
 # Introduction
 ## What is this book expects to accomplish.
-
+- Those who do not remember the history are condemned to repeat it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzM0MjIxLC00OTA2ODYwMDgsMTY5Nj
-kzNjE4Nl19
+eyJoaXN0b3J5IjpbMTAxNDg2MzI2NSwyMDMzMzQyMjEsLTQ5MD
+Y4NjAwOCwxNjk2OTM2MTg2XX0=
 -->
