@@ -59,7 +59,7 @@
 - 因为这些在父母们看来不是职业的“职业” 似乎会更出名。
 更有钱、更显赫。这也是为什么难以鼓励今天的孩子们去学校的原因，他们知道职业上的成功不 再完全与学习成绩相关了，尽管两者曾经是那样的相关。
 
-- 
+- 对这对年轻夫妇的最好描述:随着收入的增加，他们决定去买一套自己的房子。一旦有了房子他们就得缴税——财产税，然后他们买了新车、新家俱等，去和新房子配套。 最后，他们突然发觉已身陷抵押贷款和信用卡贷款的债务之中。
 
 
 谈话
@@ -67,7 +67,7 @@
 2. 迷茫
 3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDM0ODE0MSw5Mzk5OTE4MDgsLTg2Mz
+eyJoaXN0b3J5IjpbLTQwNDM0OTkwMyw5Mzk5OTE4MDgsLTg2Mz
 Y3MTkxMSwxNzEyNzczMTA4LC0xNjkyNjkyNTI2LDIyNTc2ODQ4
 MCwzMDUwMzA4MDgsLTQ2NDg3MjkyMCwxNzc3Nzg0NDgsMTk0OD
 EwMjg5MiwxOTA5NjAzMjE1LC0xNjYxNjgyMzkyLDE3MzAwNDIz
