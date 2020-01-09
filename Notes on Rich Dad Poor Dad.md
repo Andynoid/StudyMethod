@@ -37,11 +37,18 @@
 - 隐性需求和显性需求
 - 北方人比南方人更安逸
 - 500万怎么花: 建煌: 120万房车, 100理财, 150万现金, 130其他渠道投资; 子安: 100万黄金股票, 200万基金, 100万现金流, 100万教育.
+- 做事要理智
+- mei'yuan'de
+
+- 要学会管理风险
 读书总结:
-- 大部分人工作shi
+- 大部分人工作是因为贪婪和恐惧.
+- 人们应该喜欢的方式运用你的头脑和感情.
+- 富人不为钱工作
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDI2NTU4NSwyMjU3Njg0ODAsMzA1MD
-MwODA4LC00NjQ4NzI5MjAsMTc3Nzc4NDQ4LDE5NDgxMDI4OTIs
-MTkwOTYwMzIxNSwtMTY2MTY4MjM5MiwxNzMwMDQyMzQ4LC0xND
-Y5Mjc4MTk0XX0=
+eyJoaXN0b3J5IjpbNDc0MDkwNTUxLDIyNTc2ODQ4MCwzMDUwMz
+A4MDgsLTQ2NDg3MjkyMCwxNzc3Nzg0NDgsMTk0ODEwMjg5Miwx
+OTA5NjAzMjE1LC0xNjYxNjgyMzkyLDE3MzAwNDIzNDgsLTE0Nj
+kyNzgxOTRdfQ==
 -->
