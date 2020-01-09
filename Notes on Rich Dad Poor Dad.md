@@ -66,12 +66,16 @@
 
 - 最大的损失是机会损失。如果你所有的钱都被投在了房子上，你就不得不努力工作，因为你的 现金正不断地从支出项流出，而不是流人资产项，这是典型的中产阶级现金流模式。
 
+- 共同基金因其风险小而大受欢迎。但真正的原因仍在于早年缺乏必要的财务知识教育，这也是普通中产阶级被迫回避风险的原因。 他们必须安全操作，因为他们的经济地位虚弱:他们的资产负债表从未平衡过，承担着大量债务而且 没有能够产生收入的真实资产。他们的收入来源只是工资，生活完全依赖于他们的雇主。
+
+- 
+
 谈话
 1. 全球化与中产阶级的衰落
 2. 迷茫
 3. 中国特色
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTM1MDYyMSwzMDUyNjg2NjEsLTQwND
+eyJoaXN0b3J5IjpbMjA0MzY5NTE5NCwzMDUyNjg2NjEsLTQwND
 M0OTkwMyw5Mzk5OTE4MDgsLTg2MzY3MTkxMSwxNzEyNzczMTA4
 LC0xNjkyNjkyNTI2LDIyNTc2ODQ4MCwzMDUwMzA4MDgsLTQ2ND
 g3MjkyMCwxNzc3Nzg0NDgsMTk0ODEwMjg5MiwxOTA5NjAzMjE1
