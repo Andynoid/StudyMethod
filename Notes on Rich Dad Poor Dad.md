@@ -23,7 +23,10 @@
 > 有些人会这么做的，仅仅因为他们和他们的家庭需要钱而接受这份工资，但他们所做的只是等待，等待着能有机会让他们挣到更多的钱使问题解决。于是大部分人接受了，有些人做 两份工并且非常努力地工作，但仍只能得到很少的报酬。
 
 > 最后，我抬起头，又重复了前面的问题:“那么怎样才能解决问题呢?” “用这个，”他说着轻轻地拍着我的脑袋，“你两个耳朵之间的这个家伙。”
+
+> “那我们该怎么办?”我问，“不为钱工作直到所有的恐惧和贪婪都消失吗?” “那只会浪费时间。人需要有感情，它使我们真实，感情这个词表达着行动的动力。 真实地看待你的感情，以你喜欢的方式运用你的头脑和感情，而不是与自己作对。“
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODEwMjg5MiwxOTA5NjAzMjE1LC0xNj
-YxNjgyMzkyLDE3MzAwNDIzNDgsLTE0NjkyNzgxOTRdfQ==
+eyJoaXN0b3J5IjpbMTc3Nzc4NDQ4LDE5NDgxMDI4OTIsMTkwOT
+YwMzIxNSwtMTY2MTY4MjM5MiwxNzMwMDQyMzQ4LC0xNDY5Mjc4
+MTk0XX0=
 -->
