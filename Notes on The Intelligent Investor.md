@@ -7,8 +7,10 @@
 
 ## A note about Benjamin Graham by Jason Zweig.
 1. *Security analysis* Also by benjamin.
-2. 5 
+2. 5 core principles:
+	- A stock is not just a ticker symbol or an electronic blip; it is an ownership interest in an actual business, with an underlying value the does not depend on its share value.
+	- The market is a pendulum that forever swings 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDE2MDY2OSwtNDkwNjg2MDA4LDE2OT
-Y5MzYxODZdfQ==
+eyJoaXN0b3J5IjpbODkwODA0NjEzLC00OTA2ODYwMDgsMTY5Nj
+kzNjE4Nl19
 -->
