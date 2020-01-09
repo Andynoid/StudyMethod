@@ -68,17 +68,17 @@
 
 - 共同基金因其风险小而大受欢迎。但真正的原因仍在于早年缺乏必要的财务知识教育，这也是普通中产阶级被迫回避风险的原因。 他们必须安全操作，因为他们的经济地位虚弱:他们的资产负债表从未平衡过，承担着大量债务而且 没有能够产生收入的真实资产。他们的收入来源只是工资，生活完全依赖于他们的雇主。
 
-- 
+- 作为一个自己有房子的雇员，你努力工作的结果如下:1.你为别人工作。如大多数人为工资而工 作一样，你的努力使雇主或股东致富，你的工作和成功将使雇主成功并且可以提早退休。
 
 谈话
 1. 全球化与中产阶级的衰落
 2. 迷茫
 3. 中国特色
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzY5NTE5NCwzMDUyNjg2NjEsLTQwND
-M0OTkwMyw5Mzk5OTE4MDgsLTg2MzY3MTkxMSwxNzEyNzczMTA4
-LC0xNjkyNjkyNTI2LDIyNTc2ODQ4MCwzMDUwMzA4MDgsLTQ2ND
-g3MjkyMCwxNzc3Nzg0NDgsMTk0ODEwMjg5MiwxOTA5NjAzMjE1
-LC0xNjYxNjgyMzkyLDE3MzAwNDIzNDgsLTE0NjkyNzgxOTRdfQ
-==
+eyJoaXN0b3J5IjpbLTE0NTE4MTcwMzAsMzA1MjY4NjYxLC00MD
+QzNDk5MDMsOTM5OTkxODA4LC04NjM2NzE5MTEsMTcxMjc3MzEw
+OCwtMTY5MjY5MjUyNiwyMjU3Njg0ODAsMzA1MDMwODA4LC00Nj
+Q4NzI5MjAsMTc3Nzc4NDQ4LDE5NDgxMDI4OTIsMTkwOTYwMzIx
+NSwtMTY2MTY4MjM5MiwxNzMwMDQyMzQ4LC0xNDY5Mjc4MTk0XX
+0=
 -->
