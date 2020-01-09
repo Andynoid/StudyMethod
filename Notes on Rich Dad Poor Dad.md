@@ -70,15 +70,17 @@
 
 - 作为一个自己有房子的雇员，你努力工作的结果如下:1.你为别人工作。如大多数人为工资而工 作一样，你的努力使雇主或股东致富，你的工作和成功将使雇主成功并且可以提早退休。
 
+-  **富人买入资产;穷人只有支出;中产阶级买他们以为是资产的负债**
+
 谈话
 1. 全球化与中产阶级的衰落
 2. 迷茫
 3. 中国特色
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTE4MTcwMzAsMzA1MjY4NjYxLC00MD
-QzNDk5MDMsOTM5OTkxODA4LC04NjM2NzE5MTEsMTcxMjc3MzEw
-OCwtMTY5MjY5MjUyNiwyMjU3Njg0ODAsMzA1MDMwODA4LC00Nj
-Q4NzI5MjAsMTc3Nzc4NDQ4LDE5NDgxMDI4OTIsMTkwOTYwMzIx
-NSwtMTY2MTY4MjM5MiwxNzMwMDQyMzQ4LC0xNDY5Mjc4MTk0XX
-0=
+eyJoaXN0b3J5IjpbMTk5NjkxODA3OSwzMDUyNjg2NjEsLTQwND
+M0OTkwMyw5Mzk5OTE4MDgsLTg2MzY3MTkxMSwxNzEyNzczMTA4
+LC0xNjkyNjkyNTI2LDIyNTc2ODQ4MCwzMDUwMzA4MDgsLTQ2ND
+g3MjkyMCwxNzc3Nzg0NDgsMTk0ODEwMjg5MiwxOTA5NjAzMjE1
+LC0xNjYxNjgyMzkyLDE3MzAwNDIzNDgsLTE0NjkyNzgxOTRdfQ
+==
 -->
