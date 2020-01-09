@@ -32,10 +32,14 @@
 3. **如果中了500万,你会干什么? **
 4. 黄金100万, 股票100万, 基金200万, 100万现金流,用来读博士. ---> 理财知识
 
-
+谈话总结:
+- 贫富差距: 咱们处于中国前7.5%富裕人口.
+- 隐性需求和显性需求
+- 北方人比南方人更安逸
+- 500万怎么花: 100万fang
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NjE5MDk2NCwyMjU3Njg0ODAsMzA1MD
-MwODA4LC00NjQ4NzI5MjAsMTc3Nzc4NDQ4LDE5NDgxMDI4OTIs
-MTkwOTYwMzIxNSwtMTY2MTY4MjM5MiwxNzMwMDQyMzQ4LC0xND
-Y5Mjc4MTk0XX0=
+eyJoaXN0b3J5IjpbLTE0NTIyODA2MjQsMjI1NzY4NDgwLDMwNT
+AzMDgwOCwtNDY0ODcyOTIwLDE3Nzc3ODQ0OCwxOTQ4MTAyODky
+LDE5MDk2MDMyMTUsLTE2NjE2ODIzOTIsMTczMDA0MjM0OCwtMT
+Q2OTI3ODE5NF19
 -->
