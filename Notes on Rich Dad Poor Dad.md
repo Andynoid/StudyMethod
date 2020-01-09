@@ -49,15 +49,15 @@
 
 ## 为什么要教授财务知识
 
-知识才能解决问题并创造财富，不是凭财务知识挣来的钱很快就会消 失。
+知识才能解决问题并创造财富，不是凭财务知识挣来的钱很快就会消失。
 
 谈话
 1. 全球化
 
 3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI3NTgwMTUsMTcxMjc3MzEwOCwtMT
-Y5MjY5MjUyNiwyMjU3Njg0ODAsMzA1MDMwODA4LC00NjQ4NzI5
-MjAsMTc3Nzc4NDQ4LDE5NDgxMDI4OTIsMTkwOTYwMzIxNSwtMT
-Y2MTY4MjM5MiwxNzMwMDQyMzQ4LC0xNDY5Mjc4MTk0XX0=
+eyJoaXN0b3J5IjpbLTg2MzY3MTkxMSwxNzEyNzczMTA4LC0xNj
+kyNjkyNTI2LDIyNTc2ODQ4MCwzMDUwMzA4MDgsLTQ2NDg3Mjky
+MCwxNzc3Nzg0NDgsMTk0ODEwMjg5MiwxOTA5NjAzMjE1LC0xNj
+YxNjgyMzkyLDE3MzAwNDIzNDgsLTE0NjkyNzgxOTRdfQ==
 -->
