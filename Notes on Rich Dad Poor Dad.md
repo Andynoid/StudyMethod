@@ -67,13 +67,14 @@
 - 最大的损失是机会损失。如果你所有的钱都被投在了房子上，你就不得不努力工作，因为你的 现金正不断地从支出项流出，而不是流人资产项，这是典型的中产阶级现金流模式。
 
 谈话
-1. 全球化
+1. 全球化与中产阶级的衰落
 2. 迷茫
 3. 中国特色
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1MjY4NjYxLC00MDQzNDk5MDMsOTM5OT
-kxODA4LC04NjM2NzE5MTEsMTcxMjc3MzEwOCwtMTY5MjY5MjUy
-NiwyMjU3Njg0ODAsMzA1MDMwODA4LC00NjQ4NzI5MjAsMTc3Nz
-c4NDQ4LDE5NDgxMDI4OTIsMTkwOTYwMzIxNSwtMTY2MTY4MjM5
-MiwxNzMwMDQyMzQ4LC0xNDY5Mjc4MTk0XX0=
+eyJoaXN0b3J5IjpbMjA2MTM1MDYyMSwzMDUyNjg2NjEsLTQwND
+M0OTkwMyw5Mzk5OTE4MDgsLTg2MzY3MTkxMSwxNzEyNzczMTA4
+LC0xNjkyNjkyNTI2LDIyNTc2ODQ4MCwzMDUwMzA4MDgsLTQ2ND
+g3MjkyMCwxNzc3Nzg0NDgsMTk0ODEwMjg5MiwxOTA5NjAzMjE1
+LC0xNjYxNjgyMzkyLDE3MzAwNDIzNDgsLTE0NjkyNzgxOTRdfQ
+==
 -->
