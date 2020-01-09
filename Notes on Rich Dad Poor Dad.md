@@ -61,15 +61,17 @@
 
 - 对这对年轻夫妇的最好描述:随着收入的增加，他们决定去买一套自己的房子。一旦有了房子他们就得缴税——财产税，然后他们买了新车、新家俱等，去和新房子配套。 最后，他们突然发觉已身陷抵押贷款和信用卡贷款的债务之中。
 
+- 此外，对于钱的热衷会降低财务方面的理智，我的个人经历告诉我，钱能使决策变得情绪化。
+
 
 谈话
 1. 全球化
 2. 迷茫
 3. 中国特色
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzU5Mzc4NCwtNDA0MzQ5OTAzLDkzOT
-k5MTgwOCwtODYzNjcxOTExLDE3MTI3NzMxMDgsLTE2OTI2OTI1
-MjYsMjI1NzY4NDgwLDMwNTAzMDgwOCwtNDY0ODcyOTIwLDE3Nz
-c3ODQ0OCwxOTQ4MTAyODkyLDE5MDk2MDMyMTUsLTE2NjE2ODIz
-OTIsMTczMDA0MjM0OCwtMTQ2OTI3ODE5NF19
+eyJoaXN0b3J5IjpbNDg1MDQ0NDg2LC00MDQzNDk5MDMsOTM5OT
+kxODA4LC04NjM2NzE5MTEsMTcxMjc3MzEwOCwtMTY5MjY5MjUy
+NiwyMjU3Njg0ODAsMzA1MDMwODA4LC00NjQ4NzI5MjAsMTc3Nz
+c4NDQ4LDE5NDgxMDI4OTIsMTkwOTYwMzIxNSwtMTY2MTY4MjM5
+MiwxNzMwMDQyMzQ4LC0xNDY5Mjc4MTk0XX0=
 -->
