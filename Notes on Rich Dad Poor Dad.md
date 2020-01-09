@@ -28,9 +28,9 @@
 
 1. 不为钱工作, 不要为了贪婪和恐惧工作.
 2. 世界贫富差距
-3. 如果中了500万,你会干什么? 1. 
+3. 如果中了500万,你会干什么? 黄金100万, 股票100万, 基金100万, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NjU4Mjk2MSwxNzc3Nzg0NDgsMTk0OD
+eyJoaXN0b3J5IjpbLTQ0NzMwNTg5NSwxNzc3Nzg0NDgsMTk0OD
 EwMjg5MiwxOTA5NjAzMjE1LC0xNjYxNjgyMzkyLDE3MzAwNDIz
 NDgsLTE0NjkyNzgxOTRdfQ==
 -->
