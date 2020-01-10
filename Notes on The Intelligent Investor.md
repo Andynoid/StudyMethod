@@ -18,7 +18,11 @@
 ## What is this book expects to accomplish.
 - Those who do not remember the history are condemned to repeat it.
 - ** The underlying principles of sound investment should not alter from decade to decade, but the application of these principle must be adapted to significant changes in the financial mechanisms and climat.**
+
+## Commentary on the introduction.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDA1Njc0MTEsMTAxNDg2MzI2NSwyMD
-MzMzQyMjEsLTQ5MDY4NjAwOCwxNjk2OTM2MTg2XX0=
+eyJoaXN0b3J5IjpbMTAxNDIxNzExNiwtMTIwMDU2NzQxMSwxMD
+E0ODYzMjY1LDIwMzMzNDIyMSwtNDkwNjg2MDA4LDE2OTY5MzYx
+ODZdfQ==
 -->
