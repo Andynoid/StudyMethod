@@ -13,6 +13,8 @@
 # investment
 > Rich Dad Poor Dad
 
+> When Genius failed 2000 (about LTCM)
+
 > The most important thing illuminated: uncommon sense for thoughtful investor.
 
 > ‘Poor Charlie’s Almanack: The Wit and Wisdom of Charles T. Munger’
@@ -51,6 +53,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDAxNzMyNiwtNzk0MTgwOTI1LDEzNT
-g1MTY2MjJdfQ==
+eyJoaXN0b3J5IjpbMjExNDU5NTgyMiwtNjU0MDE3MzI2LC03OT
+QxODA5MjUsMTM1ODUxNjYyMl19
 -->
