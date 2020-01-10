@@ -22,11 +22,11 @@
 1. Bear markets are not as bas news. It put stock back on sale.
 2. 2000 Internet bubble
 
-# Chapter 1. Investment versus Spectulation: Results To Be Expected by the Intelligent Investor.
+# Chapter 1. Investment versus Speculation: Results To Be Expected by the Intelligent Investor.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzYxMzA3OCwxMDE0MjE3MTE2LC0xMj
+eyJoaXN0b3J5IjpbMTM5OTUxMDgzNiwxMDE0MjE3MTE2LC0xMj
 AwNTY3NDExLDEwMTQ4NjMyNjUsMjAzMzM0MjIxLC00OTA2ODYw
 MDgsMTY5NjkzNjE4Nl19
 -->
