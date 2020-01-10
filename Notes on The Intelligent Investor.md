@@ -18,11 +18,15 @@
 ## What is this book expects to accomplish.
 - Those who do not remember the history are condemned to repeat it.
 - ** The underlying principles of sound investment should not alter from decade to decade, but the application of these principle must be adapted to significant changes in the financial mechanisms and climat.**
-
 ## Commentary on the introduction.
+1. Bear markets are not as bas news. It put stock back on sale.
+2. 2000 Internet bubble
+
+# Chapter 1. Investment versus Spectulation: Results To Be Expected by the Intelligent Investor.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDIxNzExNiwtMTIwMDU2NzQxMSwxMD
-E0ODYzMjY1LDIwMzMzNDIyMSwtNDkwNjg2MDA4LDE2OTY5MzYx
-ODZdfQ==
+eyJoaXN0b3J5IjpbMTIwNzYxMzA3OCwxMDE0MjE3MTE2LC0xMj
+AwNTY3NDExLDEwMTQ4NjMyNjUsMjAzMzM0MjIxLC00OTA2ODYw
+MDgsMTY5NjkzNjE4Nl19
 -->
