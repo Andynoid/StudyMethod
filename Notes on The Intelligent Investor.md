@@ -35,10 +35,10 @@ Actions to get better return than the average:
 1. Trade in the market. include short selling: ** ruled out from the domain of investment**
 2. Short term selectivity. 
 3. Long term selectivity.
-- When considering selectivity: two challenges: human fal
+- When considering selectivity: two challenges: human fallibility and the competition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODI4MTAwMjMsLTE0MzU4ODc4OSwxMz
-k5NTEwODM2LDEwMTQyMTcxMTYsLTEyMDA1Njc0MTEsMTAxNDg2
-MzI2NSwyMDMzMzQyMjEsLTQ5MDY4NjAwOCwxNjk2OTM2MTg2XX
-0=
+eyJoaXN0b3J5IjpbMjA2NjU0NTYyNiwtMTQzNTg4Nzg5LDEzOT
+k1MTA4MzYsMTAxNDIxNzExNiwtMTIwMDU2NzQxMSwxMDE0ODYz
+MjY1LDIwMzMzNDIyMSwtNDkwNjg2MDA4LDE2OTY5MzYxODZdfQ
+==
 -->
