@@ -24,6 +24,9 @@
 
 # Chapter 1. Investment versus Speculation: Results To Be Expected by the Intelligent Investor.
 
+- ** Differences between investors and speculators**
+	Never delude yourself into thinking your are investing with speculation with investment.
+
 ## what a defensive investor should do.
 1. The purchase of the shares of well established investment funds  as an alternative to creating his own common-stock portfolio.
 2. Utilize one of the common trust funds or commingled funds.
@@ -45,8 +48,9 @@ To get a better performance than average, one must: 1. inherently sound and prom
 - Speculative strategy are not dependable.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzA5MTgxNTEsMjk1OTMxODI2LC0xMj
-M3Mzk3NTQ3LDU5MTU1NDc5MSwtMTQzNTg4Nzg5LDEzOTk1MTA4
-MzYsMTAxNDIxNzExNiwtMTIwMDU2NzQxMSwxMDE0ODYzMjY1LD
-IwMzMzNDIyMSwtNDkwNjg2MDA4LDE2OTY5MzYxODZdfQ==
+eyJoaXN0b3J5IjpbNzMyMzA4OTYxLC0xMDcwOTE4MTUxLDI5NT
+kzMTgyNiwtMTIzNzM5NzU0Nyw1OTE1NTQ3OTEsLTE0MzU4ODc4
+OSwxMzk5NTEwODM2LDEwMTQyMTcxMTYsLTEyMDA1Njc0MTEsMT
+AxNDg2MzI2NSwyMDMzMzQyMjEsLTQ5MDY4NjAwOCwxNjk2OTM2
+MTg2XX0=
 -->
