@@ -2,7 +2,10 @@
 > Benjamin Graham. 2003 revised version
 
 ## Brief:
-1. 5 core pri
+1. 5 core principles.
+2. Adaption of these principles to new decades.
+3. Speculation and investment
+4. Defensive and aggressive investors.
 
 
 # Preface by Warren Buffett
@@ -54,9 +57,9 @@ To get a better performance than average, one must: 1. inherently sound and prom
 - Speculative strategy are not dependable.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzQ3MTAwNCwtMTA3MDkxODE1MSwyOT
-U5MzE4MjYsLTEyMzczOTc1NDcsNTkxNTU0NzkxLC0xNDM1ODg3
-ODksMTM5OTUxMDgzNiwxMDE0MjE3MTE2LC0xMjAwNTY3NDExLD
-EwMTQ4NjMyNjUsMjAzMzM0MjIxLC00OTA2ODYwMDgsMTY5Njkz
-NjE4Nl19
+eyJoaXN0b3J5IjpbNDY3MTUyNDk2LC0xMDcwOTE4MTUxLDI5NT
+kzMTgyNiwtMTIzNzM5NzU0Nyw1OTE1NTQ3OTEsLTE0MzU4ODc4
+OSwxMzk5NTEwODM2LDEwMTQyMTcxMTYsLTEyMDA1Njc0MTEsMT
+AxNDg2MzI2NSwyMDMzMzQyMjEsLTQ5MDY4NjAwOCwxNjk2OTM2
+MTg2XX0=
 -->
