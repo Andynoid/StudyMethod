@@ -24,9 +24,10 @@
 
 # Chapter 1. Investment versus Speculation: Results To Be Expected by the Intelligent Investor.
 
-
+1. The purchase of the shares of well established investment funds  as an alternative to creating his own common-stock portfolio.
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTUxMDgzNiwxMDE0MjE3MTE2LC0xMj
-AwNTY3NDExLDEwMTQ4NjMyNjUsMjAzMzM0MjIxLC00OTA2ODYw
-MDgsMTY5NjkzNjE4Nl19
+eyJoaXN0b3J5IjpbLTE5NDY1Njk4MjUsMTM5OTUxMDgzNiwxMD
+E0MjE3MTE2LC0xMjAwNTY3NDExLDEwMTQ4NjMyNjUsMjAzMzM0
+MjIxLC00OTA2ODYwMDgsMTY5NjkzNjE4Nl19
 -->
