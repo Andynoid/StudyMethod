@@ -36,9 +36,10 @@ Actions to get better return than the average:
 2. Short term selectivity. 
 3. Long term selectivity.
 - When considering selectivity: two challenges: human fallibility and the competition.
+
+To get a better performance than average, one must: 1. inherently sound and promising. 2, not popular on wall street. Such policies should exist.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjU0NTYyNiwtMTQzNTg4Nzg5LDEzOT
-k1MTA4MzYsMTAxNDIxNzExNiwtMTIwMDU2NzQxMSwxMDE0ODYz
-MjY1LDIwMzMzNDIyMSwtNDkwNjg2MDA4LDE2OTY5MzYxODZdfQ
-==
+eyJoaXN0b3J5IjpbNTkxNTU0NzkxLC0xNDM1ODg3ODksMTM5OT
+UxMDgzNiwxMDE0MjE3MTE2LC0xMjAwNTY3NDExLDEwMTQ4NjMy
+NjUsMjAzMzM0MjIxLC00OTA2ODYwMDgsMTY5NjkzNjE4Nl19
 -->
