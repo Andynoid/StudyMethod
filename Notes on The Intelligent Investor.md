@@ -1,6 +1,10 @@
 > The Intelligent investor
 > Benjamin Graham. 2003 revised version
 
+## Brief:
+1. 5 core pri
+
+
 # Preface by Warren Buffett
 1. **This book correctly prescribes the proper framework for making decisions. You must keep the emotional discipline.**
 2. Valuable advices in Chapter 8-20
@@ -25,7 +29,9 @@
 # Chapter 1. Investment versus Speculation: Results To Be Expected by the Intelligent Investor.
 
 - ** Differences between investors and speculators**
-	Never delude yourself into thinking your are investing with speculation with investment.
+	Never delude yourself into thinking your are investing with speculation.
+	Speculating becomes mortally dangerous the moment you begin to take it seriously.
+	You must limit the amount of money you are wagering.
 
 ## what a defensive investor should do.
 1. The purchase of the shares of well established investment funds  as an alternative to creating his own common-stock portfolio.
@@ -48,9 +54,9 @@ To get a better performance than average, one must: 1. inherently sound and prom
 - Speculative strategy are not dependable.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyMzA4OTYxLC0xMDcwOTE4MTUxLDI5NT
-kzMTgyNiwtMTIzNzM5NzU0Nyw1OTE1NTQ3OTEsLTE0MzU4ODc4
-OSwxMzk5NTEwODM2LDEwMTQyMTcxMTYsLTEyMDA1Njc0MTEsMT
-AxNDg2MzI2NSwyMDMzMzQyMjEsLTQ5MDY4NjAwOCwxNjk2OTM2
-MTg2XX0=
+eyJoaXN0b3J5IjpbLTY4NzQ3MTAwNCwtMTA3MDkxODE1MSwyOT
+U5MzE4MjYsLTEyMzczOTc1NDcsNTkxNTU0NzkxLC0xNDM1ODg3
+ODksMTM5OTUxMDgzNiwxMDE0MjE3MTE2LC0xMjAwNTY3NDExLD
+EwMTQ4NjMyNjUsMjAzMzM0MjIxLC00OTA2ODYwMDgsMTY5Njkz
+NjE4Nl19
 -->
