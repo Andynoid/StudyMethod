@@ -40,11 +40,11 @@ Actions to get better return than the average:
 To get a better performance than average, one must: 1. inherently sound and promising. 2, not popular on wall street. Such policies should exist.
 
 ## Comments
-- the definition of investment: An investment operation is one which, upon thorough analysis, promises safety of principle and an adequate return.
-	th
+- the definition of investment: An investment operation is one which, upon **thorough analysis**, promises **safety of principle** and an **adequate return**.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDU0MDY4MSw1OTE1NTQ3OTEsLTE0Mz
-U4ODc4OSwxMzk5NTEwODM2LDEwMTQyMTcxMTYsLTEyMDA1Njc0
-MTEsMTAxNDg2MzI2NSwyMDMzMzQyMjEsLTQ5MDY4NjAwOCwxNj
-k2OTM2MTg2XX0=
+eyJoaXN0b3J5IjpbLTEyMzczOTc1NDcsNTkxNTU0NzkxLC0xND
+M1ODg3ODksMTM5OTUxMDgzNiwxMDE0MjE3MTE2LC0xMjAwNTY3
+NDExLDEwMTQ4NjMyNjUsMjAzMzM0MjIxLC00OTA2ODYwMDgsMT
+Y5NjkzNjE4Nl19
 -->
