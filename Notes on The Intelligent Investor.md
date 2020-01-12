@@ -41,10 +41,10 @@ To get a better performance than average, one must: 1. inherently sound and prom
 
 ## Comments
 - the definition of investment: An investment operation is one which, upon **thorough analysis**, promises **safety of principle** and an **adequate return**.
-
+Annual 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzczOTc1NDcsNTkxNTU0NzkxLC0xND
-M1ODg3ODksMTM5OTUxMDgzNiwxMDE0MjE3MTE2LC0xMjAwNTY3
-NDExLDEwMTQ4NjMyNjUsMjAzMzM0MjIxLC00OTA2ODYwMDgsMT
-Y5NjkzNjE4Nl19
+eyJoaXN0b3J5IjpbMTU1MjM4OTYzMCwtMTIzNzM5NzU0Nyw1OT
+E1NTQ3OTEsLTE0MzU4ODc4OSwxMzk5NTEwODM2LDEwMTQyMTcx
+MTYsLTEyMDA1Njc0MTEsMTAxNDg2MzI2NSwyMDMzMzQyMjEsLT
+Q5MDY4NjAwOCwxNjk2OTM2MTg2XX0=
 -->
