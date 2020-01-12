@@ -31,8 +31,12 @@
 4. result should be slightly lower than the average performance of the market.
 
 ## Results to be expected by an aggressive investor.
+Actions to get better return than the average:
+1. Trade in the market. 
+3. Short term selectivity
+4. Long term selectivity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTY4MDAxNzgsMTM5OTUxMDgzNiwxMD
-E0MjE3MTE2LC0xMjAwNTY3NDExLDEwMTQ4NjMyNjUsMjAzMzM0
-MjIxLC00OTA2ODYwMDgsMTY5NjkzNjE4Nl19
+eyJoaXN0b3J5IjpbMTg5MDYwMjM2MSwxMzk5NTEwODM2LDEwMT
+QyMTcxMTYsLTEyMDA1Njc0MTEsMTAxNDg2MzI2NSwyMDMzMzQy
+MjEsLTQ5MDY4NjAwOCwxNjk2OTM2MTg2XX0=
 -->
