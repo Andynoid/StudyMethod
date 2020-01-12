@@ -38,8 +38,11 @@ Actions to get better return than the average:
 - When considering selectivity: two challenges: human fallibility and the competition.
 
 To get a better performance than average, one must: 1. inherently sound and promising. 2, not popular on wall street. Such policies should exist.
+
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxNTU0NzkxLC0xNDM1ODg3ODksMTM5OT
-UxMDgzNiwxMDE0MjE3MTE2LC0xMjAwNTY3NDExLDEwMTQ4NjMy
-NjUsMjAzMzM0MjIxLC00OTA2ODYwMDgsMTY5NjkzNjE4Nl19
+eyJoaXN0b3J5IjpbLTEyOTk5OTU3NDEsNTkxNTU0NzkxLC0xND
+M1ODg3ODksMTM5OTUxMDgzNiwxMDE0MjE3MTE2LC0xMjAwNTY3
+NDExLDEwMTQ4NjMyNjUsMjAzMzM0MjIxLC00OTA2ODYwMDgsMT
+Y5NjkzNjE4Nl19
 -->
