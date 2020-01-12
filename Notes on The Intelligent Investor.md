@@ -29,8 +29,10 @@
 2. Utilize one of the common trust funds or commingled funds.
 3. the device called dollar-cost averaging. (application of formula investing) Hold common stocks between 25%-75% in reverse to the action of market.
 4. result should be slightly lower than the average performance of the market.
+
+## Results to be expected by an aggressive investor.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyMjIyMDQsMTM5OTUxMDgzNiwxMDE0Mj
-E3MTE2LC0xMjAwNTY3NDExLDEwMTQ4NjMyNjUsMjAzMzM0MjIx
-LC00OTA2ODYwMDgsMTY5NjkzNjE4Nl19
+eyJoaXN0b3J5IjpbLTEyOTY4MDAxNzgsMTM5OTUxMDgzNiwxMD
+E0MjE3MTE2LC0xMjAwNTY3NDExLDEwMTQ4NjMyNjUsMjAzMzM0
+MjIxLC00OTA2ODYwMDgsMTY5NjkzNjE4Nl19
 -->
