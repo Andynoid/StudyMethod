@@ -32,11 +32,13 @@
 
 ## Results to be expected by an aggressive investor.
 Actions to get better return than the average:
-1. Trade in the market. include short selling
-3. Short term selectivity. 
-4. Long term selectivity
+1. Trade in the market. include short selling: ** ruled out from the domain of investment**
+2. Short term selectivity. 
+3. Long term selectivity.
+- When considering selectivity: two challenges: human fal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzU4ODc4OSwxMzk5NTEwODM2LDEwMT
-QyMTcxMTYsLTEyMDA1Njc0MTEsMTAxNDg2MzI2NSwyMDMzMzQy
-MjEsLTQ5MDY4NjAwOCwxNjk2OTM2MTg2XX0=
+eyJoaXN0b3J5IjpbLTE4ODI4MTAwMjMsLTE0MzU4ODc4OSwxMz
+k5NTEwODM2LDEwMTQyMTcxMTYsLTEyMDA1Njc0MTEsMTAxNDg2
+MzI2NSwyMDMzMzQyMjEsLTQ5MDY4NjAwOCwxNjk2OTM2MTg2XX
+0=
 -->
