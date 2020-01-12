@@ -24,13 +24,13 @@
 
 # Chapter 1. Investment versus Speculation: Results To Be Expected by the Intelligent Investor.
 
-## what a defen
+## what a defensive investor should do.
 1. The purchase of the shares of well established investment funds  as an alternative to creating his own common-stock portfolio.
 2. Utilize one of the common trust funds or commingled funds.
 3. the device called dollar-cost averaging. (application of formula investing) Hold common stocks between 25%-75% in reverse to the action of market.
-
+4. result should be slightly lower than the average performance of the market.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODM5MDY3MCwxMzk5NTEwODM2LDEwMT
-QyMTcxMTYsLTEyMDA1Njc0MTEsMTAxNDg2MzI2NSwyMDMzMzQy
-MjEsLTQ5MDY4NjAwOCwxNjk2OTM2MTg2XX0=
+eyJoaXN0b3J5IjpbNDcyMjIyMDQsMTM5OTUxMDgzNiwxMDE0Mj
+E3MTE2LC0xMjAwNTY3NDExLDEwMTQ4NjMyNjUsMjAzMzM0MjIx
+LC00OTA2ODYwMDgsMTY5NjkzNjE4Nl19
 -->
