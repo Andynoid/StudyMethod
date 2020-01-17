@@ -61,12 +61,12 @@ To get a better performance than average, one must: 1. inherently sound and prom
 	- adequate but not over diversification 10-30 issues
 	- the company should be large prominent and conservatively financed.
 	- Should have a long record of continuous dividend payments. At least 10 years.
-	- Set a limit on the price of one issue. 25 times at most.
+	- Set a limit on the price of one issue. 25 times at most. (This excludes almost all popular growth stock)
 2. **Growth stock is not recommended for defensive investor as they are vulnerable to declines.**
 3. 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzkzODA2NiwtMTM4OTkwMTQwNSw2Nz
+eyJoaXN0b3J5IjpbMTU4NjE3OTk0OSwtMTM4OTkwMTQwNSw2Nz
 M4MTg2NjMsNDY3MTUyNDk2LC0xMDcwOTE4MTUxLDI5NTkzMTgy
 NiwtMTIzNzM5NzU0Nyw1OTE1NTQ3OTEsLTE0MzU4ODc4OSwxMz
 k5NTEwODM2LDEwMTQyMTcxMTYsLTEyMDA1Njc0MTEsMTAxNDg2
