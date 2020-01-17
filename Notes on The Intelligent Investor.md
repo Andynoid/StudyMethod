@@ -57,11 +57,14 @@ To get a better performance than average, one must: 1. inherently sound and prom
 - Speculative strategy are not dependable.
 
 # Chapter 5 The defensive investor and Common Stocks
-
+1.  Rules for Common stock component:
+	- adequate but not over diversification 10-30 issues
+	- the company should be 
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczODE4NjYzLDQ2NzE1MjQ5NiwtMTA3MD
-kxODE1MSwyOTU5MzE4MjYsLTEyMzczOTc1NDcsNTkxNTU0Nzkx
-LC0xNDM1ODg3ODksMTM5OTUxMDgzNiwxMDE0MjE3MTE2LC0xMj
-AwNTY3NDExLDEwMTQ4NjMyNjUsMjAzMzM0MjIxLC00OTA2ODYw
-MDgsMTY5NjkzNjE4Nl19
+eyJoaXN0b3J5IjpbLTE2MzU0ODc4MTgsNjczODE4NjYzLDQ2Nz
+E1MjQ5NiwtMTA3MDkxODE1MSwyOTU5MzE4MjYsLTEyMzczOTc1
+NDcsNTkxNTU0NzkxLC0xNDM1ODg3ODksMTM5OTUxMDgzNiwxMD
+E0MjE3MTE2LC0xMjAwNTY3NDExLDEwMTQ4NjMyNjUsMjAzMzM0
+MjIxLC00OTA2ODYwMDgsMTY5NjkzNjE4Nl19
 -->
