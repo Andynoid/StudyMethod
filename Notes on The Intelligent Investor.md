@@ -59,12 +59,13 @@ To get a better performance than average, one must: 1. inherently sound and prom
 # Chapter 5 The defensive investor and Common Stocks
 1.  Rules for Common stock component:
 	- adequate but not over diversification 10-30 issues
-	- the company should be 
+	- the company should be large prominent and conservatively financed.
+	- Should have a long record of continuous dividend payments.
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzU0ODc4MTgsNjczODE4NjYzLDQ2Nz
-E1MjQ5NiwtMTA3MDkxODE1MSwyOTU5MzE4MjYsLTEyMzczOTc1
-NDcsNTkxNTU0NzkxLC0xNDM1ODg3ODksMTM5OTUxMDgzNiwxMD
-E0MjE3MTE2LC0xMjAwNTY3NDExLDEwMTQ4NjMyNjUsMjAzMzM0
-MjIxLC00OTA2ODYwMDgsMTY5NjkzNjE4Nl19
+eyJoaXN0b3J5IjpbMjU4MDUyMTAyLDY3MzgxODY2Myw0NjcxNT
+I0OTYsLTEwNzA5MTgxNTEsMjk1OTMxODI2LC0xMjM3Mzk3NTQ3
+LDU5MTU1NDc5MSwtMTQzNTg4Nzg5LDEzOTk1MTA4MzYsMTAxND
+IxNzExNiwtMTIwMDU2NzQxMSwxMDE0ODYzMjY1LDIwMzMzNDIy
+MSwtNDkwNjg2MDA4LDE2OTY5MzYxODZdfQ==
 -->
