@@ -60,12 +60,13 @@ To get a better performance than average, one must: 1. inherently sound and prom
 1.  Rules for Common stock component:
 	- adequate but not over diversification 10-30 issues
 	- the company should be large prominent and conservatively financed.
-	- Should have a long record of continuous dividend payments.
+	- Should have a long record of continuous dividend payments. At least 10 years.
+	- 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4MDUyMTAyLDY3MzgxODY2Myw0NjcxNT
-I0OTYsLTEwNzA5MTgxNTEsMjk1OTMxODI2LC0xMjM3Mzk3NTQ3
-LDU5MTU1NDc5MSwtMTQzNTg4Nzg5LDEzOTk1MTA4MzYsMTAxND
-IxNzExNiwtMTIwMDU2NzQxMSwxMDE0ODYzMjY1LDIwMzMzNDIy
-MSwtNDkwNjg2MDA4LDE2OTY5MzYxODZdfQ==
+eyJoaXN0b3J5IjpbLTgxMTczNTUxMiw2NzM4MTg2NjMsNDY3MT
+UyNDk2LC0xMDcwOTE4MTUxLDI5NTkzMTgyNiwtMTIzNzM5NzU0
+Nyw1OTE1NTQ3OTEsLTE0MzU4ODc4OSwxMzk5NTEwODM2LDEwMT
+QyMTcxMTYsLTEyMDA1Njc0MTEsMTAxNDg2MzI2NSwyMDMzMzQy
+MjEsLTQ5MDY4NjAwOCwxNjk2OTM2MTg2XX0=
 -->
