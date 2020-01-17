@@ -57,18 +57,19 @@ To get a better performance than average, one must: 1. inherently sound and prom
 - Speculative strategy are not dependable.
 
 # Chapter 5 The defensive investor and Common Stocks
-1.  Rules for Common stock component:
+1.  ** Rules for Common stock component**:
 	- adequate but not over diversification 10-30 issues
 	- the company should be large prominent and conservatively financed.
 	- Should have a long record of continuous dividend payments. At least 10 years.
 	- Set a limit on the price of one issue. 25 times at most.
-2. **Growth stock is not recommended for defensive investor as they are vune
+2. **Growth stock is not recommended for defensive investor as they are vulnerable to declines.**
+3. 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQ3OTk4MDEsLTEzODk5MDE0MDUsNj
-czODE4NjYzLDQ2NzE1MjQ5NiwtMTA3MDkxODE1MSwyOTU5MzE4
-MjYsLTEyMzczOTc1NDcsNTkxNTU0NzkxLC0xNDM1ODg3ODksMT
-M5OTUxMDgzNiwxMDE0MjE3MTE2LC0xMjAwNTY3NDExLDEwMTQ4
-NjMyNjUsMjAzMzM0MjIxLC00OTA2ODYwMDgsMTY5NjkzNjE4Nl
-19
+eyJoaXN0b3J5IjpbLTk1NzkzODA2NiwtMTM4OTkwMTQwNSw2Nz
+M4MTg2NjMsNDY3MTUyNDk2LC0xMDcwOTE4MTUxLDI5NTkzMTgy
+NiwtMTIzNzM5NzU0Nyw1OTE1NTQ3OTEsLTE0MzU4ODc4OSwxMz
+k5NTEwODM2LDEwMTQyMTcxMTYsLTEyMDA1Njc0MTEsMTAxNDg2
+MzI2NSwyMDMzMzQyMjEsLTQ5MDY4NjAwOCwxNjk2OTM2MTg2XX
+0=
 -->
