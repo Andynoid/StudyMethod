@@ -104,10 +104,15 @@
 十个步骤
 
 1. 我需要一个 超现实的理由:精神的力量。如果你问别人是否愿意致富或者获得财务上的自由，大部人会说“愿意”
-2. 每天做出自己的选择
-3. 
+2. 每天做出自己的选择: 珍惜时间和学习
+3. 慎重的选择朋友
+4. 掌握一种模式,然后在掌握另一种
+5. 先支付自己, 自律的力量
+6. 接受好建议
+7. 学会给予, 无私的力量
+8. 资产yong'lai'g
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzcwMTkyNSw4NDQ3ODAxMTksMjA3Nj
+eyJoaXN0b3J5IjpbMTkxODkxMTgzMiw4NDQ3ODAxMTksMjA3Nj
 c1MDE3MiwtMjA4ODYzMzMxMywxNzgwMzQ3MjM3LC00OTA4NTE2
 NDAsMTQyMjEzMjI2LC0zNDk4NDEwOCwtODc4MzMwMDM3LDE5OT
 Y5MTgwNzksMzA1MjY4NjYxLC00MDQzNDk5MDMsOTM5OTkxODA4
