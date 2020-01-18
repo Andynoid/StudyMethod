@@ -26,27 +26,6 @@
 
 > “那我们该怎么办?”我问，“不为钱工作直到所有的恐惧和贪婪都消失吗?” “那只会浪费时间。人需要有感情，它使我们真实，感情这个词表达着行动的动力。 真实地看待你的感情，以你喜欢的方式运用你的头脑和感情，而不是与自己作对。“
 
-1. 不为钱工作, 不要为了贪婪和恐惧工作.
-2. 世界贫富差距  我手上五万元,世界前30%.** 哥哥**
-		- 中国 前1% 拥有30% 前7.5%(10万美元)拥有55%财富.  美国前7.1%(100万美元)拥有71%财富. 全球前0.1%拥有15%财富
-3. **如果中了500万,你会干什么? **
-4. 黄金100万, 股票100万, 基金200万, 100万现金流,用来读博士. ---> 理财知识
-
-谈话总结:
-- 贫富差距: 咱们处于中国前7.5%富裕人口.
-- 隐性需求和显性需求
-- 北方人比南方人更安逸
-- 500万怎么花: 建煌: 120万房车, 100理财, 150万现金, 130其他渠道投资; 子安: 100万黄金股票, 200万基金, 100万现金流, 100万教育.
-- 做事要理智
-- 金本位美元和石油美元(持续到现在)
-- 中国房地产泡沫
-
-- 要学会管理风险
-读书总结:
-- 大部分人工作是因为贪婪和恐惧.
-- 人们应该喜欢的方式运用你的头脑和感情.
-- 富人不为钱工作
-
 ## 为什么要教授财务知识
 
 - 知识才能解决问题并创造财富，不是凭财务知识挣来的钱很快就会消失。
@@ -110,13 +89,15 @@
 5. 先支付自己, 自律的力量
 6. 接受好建议
 7. 学会给予, 无私的力量
-8. 资产yong'lai'g
+8. 资产用来购买奢侈品: 集中的力量
+9. 对英雄的崇拜: 神话的力量
+10. 先于后取, 给予的力量 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODkxMTgzMiw4NDQ3ODAxMTksMjA3Nj
-c1MDE3MiwtMjA4ODYzMzMxMywxNzgwMzQ3MjM3LC00OTA4NTE2
-NDAsMTQyMjEzMjI2LC0zNDk4NDEwOCwtODc4MzMwMDM3LDE5OT
-Y5MTgwNzksMzA1MjY4NjYxLC00MDQzNDk5MDMsOTM5OTkxODA4
-LC04NjM2NzE5MTEsMTcxMjc3MzEwOCwtMTY5MjY5MjUyNiwyMj
-U3Njg0ODAsMzA1MDMwODA4LC00NjQ4NzI5MjAsMTc3Nzc4NDQ4
-XX0=
+eyJoaXN0b3J5IjpbODMyMTQyMzA4LDg0NDc4MDExOSwyMDc2Nz
+UwMTcyLC0yMDg4NjMzMzEzLDE3ODAzNDcyMzcsLTQ5MDg1MTY0
+MCwxNDIyMTMyMjYsLTM0OTg0MTA4LC04NzgzMzAwMzcsMTk5Nj
+kxODA3OSwzMDUyNjg2NjEsLTQwNDM0OTkwMyw5Mzk5OTE4MDgs
+LTg2MzY3MTkxMSwxNzEyNzczMTA4LC0xNjkyNjkyNTI2LDIyNT
+c2ODQ4MCwzMDUwMzA4MDgsLTQ2NDg3MjkyMCwxNzc3Nzg0NDhd
+fQ==
 -->
