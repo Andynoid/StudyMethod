@@ -95,9 +95,12 @@
 ## 不要为金钱而工作
 - 工作的意义就是比破产强一点
 - 管理素质: 1. 对现金流的管理, 2. 对系统(本人, 时间和家庭) 3. 对人员的管理
--
+
+## 克服困难
+- 五个困难: 恐惧心理; 愤世嫉俗; 懒惰; 不良习惯; 自负.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Njk0MTE2MSwtMjA4ODYzMzMxMywxNz
+eyJoaXN0b3J5IjpbMjA3Njc1MDE3MiwtMjA4ODYzMzMxMywxNz
 gwMzQ3MjM3LC00OTA4NTE2NDAsMTQyMjEzMjI2LC0zNDk4NDEw
 OCwtODc4MzMwMDM3LDE5OTY5MTgwNzksMzA1MjY4NjYxLC00MD
 QzNDk5MDMsOTM5OTkxODA4LC04NjM2NzE5MTEsMTcxMjc3MzEw
