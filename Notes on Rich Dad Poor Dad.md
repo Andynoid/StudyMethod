@@ -1,5 +1,6 @@
 > **Rich Dad Poor Dad**is a 1997 book written by Robert Kiyosaki
 > 2020.01.08
+> 2020.01.18 Finished
 
 ## Intro
 > 我逐渐意识到富人之所以越来越富，穷人之所以越来越穷，中产阶级之所以总是在 债务泥潭中挣扎，其主要原因之一在于他们对金钱的观念不是来自学校，而是来自家庭。
@@ -93,11 +94,11 @@
 9. 对英雄的崇拜: 神话的力量
 10. 先于后取, 给予的力量 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyMTQyMzA4LDg0NDc4MDExOSwyMDc2Nz
-UwMTcyLC0yMDg4NjMzMzEzLDE3ODAzNDcyMzcsLTQ5MDg1MTY0
-MCwxNDIyMTMyMjYsLTM0OTg0MTA4LC04NzgzMzAwMzcsMTk5Nj
-kxODA3OSwzMDUyNjg2NjEsLTQwNDM0OTkwMyw5Mzk5OTE4MDgs
-LTg2MzY3MTkxMSwxNzEyNzczMTA4LC0xNjkyNjkyNTI2LDIyNT
-c2ODQ4MCwzMDUwMzA4MDgsLTQ2NDg3MjkyMCwxNzc3Nzg0NDhd
+eyJoaXN0b3J5IjpbOTg0NjU0MjE4LDgzMjE0MjMwOCw4NDQ3OD
+AxMTksMjA3Njc1MDE3MiwtMjA4ODYzMzMxMywxNzgwMzQ3MjM3
+LC00OTA4NTE2NDAsMTQyMjEzMjI2LC0zNDk4NDEwOCwtODc4Mz
+MwMDM3LDE5OTY5MTgwNzksMzA1MjY4NjYxLC00MDQzNDk5MDMs
+OTM5OTkxODA4LC04NjM2NzE5MTEsMTcxMjc3MzEwOCwtMTY5Mj
+Y5MjUyNiwyMjU3Njg0ODAsMzA1MDMwODA4LC00NjQ4NzI5MjBd
 fQ==
 -->
