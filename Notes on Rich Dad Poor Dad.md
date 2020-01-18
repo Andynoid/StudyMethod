@@ -103,8 +103,11 @@
 ## 开始行动
 十个步骤
 
+1. 我需要一个 超现实的理由:精神的力量。如果你问别人是否愿意致富或者获得财务上的自由，大部人会说“愿意”
+2. 每天做出自己的选择
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDIzOTEzMyw4NDQ3ODAxMTksMjA3Nj
+eyJoaXN0b3J5IjpbMTYzNzcwMTkyNSw4NDQ3ODAxMTksMjA3Nj
 c1MDE3MiwtMjA4ODYzMzMxMywxNzgwMzQ3MjM3LC00OTA4NTE2
 NDAsMTQyMjEzMjI2LC0zNDk4NDEwOCwtODc4MzMwMDM3LDE5OT
 Y5MTgwNzksMzA1MjY4NjYxLC00MDQzNDk5MDMsOTM5OTkxODA4
