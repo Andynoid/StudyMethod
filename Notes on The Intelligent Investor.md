@@ -64,12 +64,15 @@ To get a better performance than average, one must: 1. inherently sound and prom
 	- Set a limit on the price of one issue. 25 times at most. (This excludes almost all popular growth stock)
 2. **Growth stock is not recommended for defensive investor as they are vulnerable to declines.**
 3. 
-	
+
+# Chapter 6 The enterprising investor: Negative side
+
+# Chapter 7 The enterprising investor: Positive side.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjE3OTk0OSwtMTM4OTkwMTQwNSw2Nz
-M4MTg2NjMsNDY3MTUyNDk2LC0xMDcwOTE4MTUxLDI5NTkzMTgy
-NiwtMTIzNzM5NzU0Nyw1OTE1NTQ3OTEsLTE0MzU4ODc4OSwxMz
-k5NTEwODM2LDEwMTQyMTcxMTYsLTEyMDA1Njc0MTEsMTAxNDg2
-MzI2NSwyMDMzMzQyMjEsLTQ5MDY4NjAwOCwxNjk2OTM2MTg2XX
-0=
+eyJoaXN0b3J5IjpbLTE2NDE0ODUwODAsMTU4NjE3OTk0OSwtMT
+M4OTkwMTQwNSw2NzM4MTg2NjMsNDY3MTUyNDk2LC0xMDcwOTE4
+MTUxLDI5NTkzMTgyNiwtMTIzNzM5NzU0Nyw1OTE1NTQ3OTEsLT
+E0MzU4ODc4OSwxMzk5NTEwODM2LDEwMTQyMTcxMTYsLTEyMDA1
+Njc0MTEsMTAxNDg2MzI2NSwyMDMzMzQyMjEsLTQ5MDY4NjAwOC
+wxNjk2OTM2MTg2XX0=
 -->
