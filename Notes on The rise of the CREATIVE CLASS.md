@@ -51,13 +51,15 @@
 - constructive creativity require a openness for experience.
 - **The active live** Increasing consumption on recreation. Creative class like direct sports, has better fitness than low income peoples.
 - ** Leisure as work** Bicycle and creative people has a correlation.
-- 
+
+## C9. the big morph
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTg0MTIsLTExMjUxOTU3MTIsMTU5OD
-gxMDk0OCwxMzc3NTEzNDc5LDk4ODcxNzgzMCwtOTM1NDg0ODI3
-LDE2NjA3NDMyNjQsNTIyNjg5MTM1LDE4MDA0OTE3MTEsLTIwMD
-EyMjQwODYsLTE4NjAxNDE0NzIsOTI5ODU3NjExLDQ4NTU4Mzks
-ODc2NTYwNzEsLTE0Mzg1MjEwODgsMTI1ODczNTIwMSwtMzg0Mz
-UzOTU1LDE4MTQ3MTQ3NTYsMTUxMTAwMzg5NCwtMTY2Mzc3Nzcw
-MF19
+eyJoaXN0b3J5IjpbLTQzNDI3MjE0MiwtNzk1ODQxMiwtMTEyNT
+E5NTcxMiwxNTk4ODEwOTQ4LDEzNzc1MTM0NzksOTg4NzE3ODMw
+LC05MzU0ODQ4MjcsMTY2MDc0MzI2NCw1MjI2ODkxMzUsMTgwMD
+Q5MTcxMSwtMjAwMTIyNDA4NiwtMTg2MDE0MTQ3Miw5Mjk4NTc2
+MTEsNDg1NTgzOSw4NzY1NjA3MSwtMTQzODUyMTA4OCwxMjU4Nz
+M1MjAxLC0zODQzNTM5NTUsMTgxNDcxNDc1NiwxNTExMDAzODk0
+XX0=
 -->
