@@ -7,9 +7,9 @@
 
 # Chapter 1
 1.  Start Early. From wherever you are. 
-2. Know the numbers. In US: a graduate 
+2. Know the numbers. In US: It takes a graduate 3-9 months to find a job; Graduate planned to stay in their first job for 1-3 year. A person will have 12-15 jobs on average in his life.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzOTg3NDYyLDc4NjU1MDU3Nl19
+eyJoaXN0b3J5IjpbODc0OTcxNDkzLDc4NjU1MDU3Nl19
 -->
