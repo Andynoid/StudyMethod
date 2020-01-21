@@ -6,7 +6,7 @@
 2. No strategy would let you find your succsess.
 
 # Chapter 1
-
+1. Start Early.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQ3NzIyMTgsNzg2NTUwNTc2XX0=
+eyJoaXN0b3J5IjpbMTg3NTc4NzU0LDc4NjU1MDU3Nl19
 -->
