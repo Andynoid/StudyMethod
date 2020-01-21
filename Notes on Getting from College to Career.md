@@ -2,8 +2,7 @@
 > 2020.01.21
 
 # Intro
-## Action.
-
+1. Take Action.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQ2NDk0NjYsNzg2NTUwNTc2XX0=
+eyJoaXN0b3J5IjpbLTMyMTM0NjE0Miw3ODY1NTA1NzZdfQ==
 -->
