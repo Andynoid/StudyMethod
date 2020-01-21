@@ -12,8 +12,8 @@
 4. Embrace your stereotype. Ask for advices: What's ur best search tip. Whats ur first job and do u think its a good choice. what do u think is the best employers in this area.what do they wish they had done at my age.
 5. Overcome your stereotype. 
 6. **Get organised.**  First got a notebook to record. Develop a file system. Use a calendar. Keep track of every interactions with a company. Create a contact info system.
-
+7. ** Don't miss the obvious.** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0MzMwNDY1LDEzODQ2OTgyMjUsMTg0OD
+eyJoaXN0b3J5IjpbMjY1NjgwOTQ4LDEzODQ2OTgyMjUsMTg0OD
 Y0NDEyNSw3ODY1NTA1NzZdfQ==
 -->
