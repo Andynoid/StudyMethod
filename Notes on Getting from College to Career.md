@@ -3,6 +3,10 @@
 
 # Intro
 1. Take Action.
+2. No strategy would let you find your succsess.
+
+# Chapter 1
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTM0NjE0Miw3ODY1NTA1NzZdfQ==
+eyJoaXN0b3J5IjpbLTE5NzQ3NzIyMTgsNzg2NTUwNTc2XX0=
 -->
