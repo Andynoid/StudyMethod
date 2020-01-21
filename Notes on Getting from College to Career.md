@@ -6,9 +6,10 @@
 2. No strategy would let you find your succsess.
 
 # Chapter 1
-- [ ] Start Early. From wherever you are. 
+1.  Start Early. From wherever you are. 
+2. Know the numbers. In US: a graduate 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDA2MzYwMjUsNzg2NTUwNTc2XX0=
+eyJoaXN0b3J5IjpbNDQzOTg3NDYyLDc4NjU1MDU3Nl19
 -->
