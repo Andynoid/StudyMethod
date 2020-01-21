@@ -9,9 +9,9 @@
 1.  **Start Early.** From wherever you are. 
 2. Know the numbers.  In US: It takes a graduate 3-9 months to find a job; Graduate planned to stay in their first job for 1-3 year. A person will have 12-15 jobs on average in his life.
 3. Avoid the biggest mistake in career prep and job hunting.: Don't take action at all is the biggest mistake. **So take one career-related action per day.**
-4. Embrace your e
+4. Embrace your stereotype.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDg0MTI4OCw3ODY1NTA1NzZdfQ==
+eyJoaXN0b3J5IjpbLTYzOTM0MzM0Myw3ODY1NTA1NzZdfQ==
 -->
