@@ -11,10 +11,9 @@
 3. Avoid the biggest mistake in career prep and job hunting.: Don't take action at all is the biggest mistake. **So take one career-related action per day.**
 4. Embrace your stereotype. Ask for advices: What's ur best search tip. Whats ur first job and do u think its a good choice. what do u think is the best employers in this area.what do they wish they had done at my age.
 5. Overcome your stereotype. 
-6. **Get organised.**  First got a notebook to record. Develop a file system. Use a calendar. 
-Ke
+6. **Get organised.**  First got a notebook to record. Develop a file system. Use a calendar. Keep track of every interactions with a company. Create a contact info system.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTAwMjU0OTAsMTM4NDY5ODIyNSwxOD
-Q4NjQ0MTI1LDc4NjU1MDU3Nl19
+eyJoaXN0b3J5IjpbNDg0MzMwNDY1LDEzODQ2OTgyMjUsMTg0OD
+Y0NDEyNSw3ODY1NTA1NzZdfQ==
 -->
