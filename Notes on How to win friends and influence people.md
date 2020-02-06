@@ -10,7 +10,9 @@
 ## Principle 3: 
 
 >First, arouse in the other person an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way."
+
+> If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjM4NDMxNjMsLTE4NDI5Njc4NTUsMT
-I1ODY4NTA4M119
+eyJoaXN0b3J5IjpbLTEzMjE0NTUzMTgsLTIwNjM4NDMxNjMsLT
+E4NDI5Njc4NTUsMTI1ODY4NTA4M119
 -->
