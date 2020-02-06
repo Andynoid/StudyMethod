@@ -14,8 +14,10 @@
 
 > If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own.
 
-# Part 2 - 
+# Part 2 - Ways to make people like you.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTQzMTI0OCwtMTMyMTQ1NTMxOCwtMj
+eyJoaXN0b3J5IjpbMTQyNzU5ODg5NiwtMTMyMTQ1NTMxOCwtMj
 A2Mzg0MzE2MywtMTg0Mjk2Nzg1NSwxMjU4Njg1MDgzXX0=
 -->
