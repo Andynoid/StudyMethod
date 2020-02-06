@@ -8,10 +8,9 @@
 
 
 ## Principle 3: 
-How to Win Friends and Influence People
 
-First, arouse in the other person an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way."
+>First, arouse in the other person an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way."
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjY2MDk2NCwtMTg0Mjk2Nzg1NSwxMj
-U4Njg1MDgzXX0=
+eyJoaXN0b3J5IjpbLTIwNjM4NDMxNjMsLTE4NDI5Njc4NTUsMT
+I1ODY4NTA4M119
 -->
