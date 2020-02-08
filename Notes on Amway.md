@@ -12,6 +12,9 @@
 ## 市场及法律监督
 1. 纽约时报: 安利公司面临中国和美国政府双重指控
 [https://www.nytimes.com/2018/01/08/business/amway-china.html](https://www.nytimes.com/2018/01/08/business/amway-china.html)
+
+## 希望叔叔回答的问题
+1. 安利是否要求每一位安利员工, 每月购买一定数量的安利产品? 如果有, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQwMzMzNzhdfQ==
+eyJoaXN0b3J5IjpbLTQxNjc4NjA0NCwtMTY4NDAzMzM3OF19
 -->
