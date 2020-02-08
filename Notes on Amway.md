@@ -19,10 +19,11 @@
 1. 我了解到,一名安利销售的收入大致由两部分决定. 1. PV 个人及线下购买的产品总和. 2. BV个人
 
 
-总结一下:
+叔叔早上好!, 周六晚上我花时间了解了一下安利公司的商业模式和现状. 我有下面这几点发现:
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2NzQzMzYwLC0yMDkwOTMxNDU5LDIxMj
-M0NjU5MDAsLTE2ODQwMzMzNzhdfQ==
+eyJoaXN0b3J5IjpbLTIwNDE5OTk5MDksLTIwOTA5MzE0NTksMj
+EyMzQ2NTkwMCwtMTY4NDAzMzM3OF19
 -->
