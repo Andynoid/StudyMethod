@@ -24,14 +24,15 @@
 - 做一名安利的销售5年, 可以赚多少钱?
 - 买一辆车是否可以帮助在安利取得成功?
 
-首先hu'da
-第一部分: 宏观数据.
+第一个问题: 安利公司是否是合法正规的公司?
+这个问题的答案是: 是的, 安利公司合法正规. 安利公司
+
 一个公司的宏观数据看似和咱们个人的收入没有多大的关系. 但是叔叔的目标是想做到公司的中层位置, 那么我觉得对公司的宏观数据了解也是不可缺少的. 我认为仅仅有销售业务能力不足够的. 宏观数据由安利中国官网以及国内外权威媒体给出:
 2. 企业规模:
 -  安利国际2018年营业额
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjI5NDY2OSwtMjA0MTk5OTkwOSwtMj
-A5MDkzMTQ1OSwyMTIzNDY1OTAwLC0xNjg0MDMzMzc4XX0=
+eyJoaXN0b3J5IjpbODY2Mjg5MTc5LC0yMDQxOTk5OTA5LC0yMD
+kwOTMxNDU5LDIxMjM0NjU5MDAsLTE2ODQwMzMzNzhdfQ==
 -->
