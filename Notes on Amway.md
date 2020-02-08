@@ -15,7 +15,9 @@
 
 ## 希望叔叔回答的问题
 1. 安利是否要求每一位安利销售, 每月自己购买一定数量的安利产品? 如果有, 数额是多少?
-2. 
+2. 叔叔有没有想过把安利作为副业的时候, 可以每月不费太多时间就可以有固定收入? 这样的想法我觉得不是很现实
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzQ2NTkwMCwtMTY4NDAzMzM3OF19
+eyJoaXN0b3J5IjpbLTYwNDQ5MTc0LDIxMjM0NjU5MDAsLTE2OD
+QwMzMzNzhdfQ==
 -->
