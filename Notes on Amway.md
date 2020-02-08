@@ -21,10 +21,10 @@
 
 叔叔早上好!, 周六晚上我花时间了解了一下安利公司的商业模式和现状. 我有下面这几点发现:
 第一部分: 宏观数据.
-一个公司的宏观数据一般是hen'h
+一个公司的宏观数据看似和咱们个人的收入没有多大的关系. 但是叔叔的目标是想做到公司的中层位置, 那么我觉得对公司的宏观数据了解也是不可缺少的. 仅仅有销售业务能力bu'zu'yi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjE2NzI2MCwtMjA0MTk5OTkwOSwtMj
-A5MDkzMTQ1OSwyMTIzNDY1OTAwLC0xNjg0MDMzMzc4XX0=
+eyJoaXN0b3J5IjpbLTE3MTYwNjc4OTksLTIwNDE5OTk5MDksLT
+IwOTA5MzE0NTksMjEyMzQ2NTkwMCwtMTY4NDAzMzM3OF19
 -->
