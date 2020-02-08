@@ -16,9 +16,9 @@
 [https://www.nytimes.com/2018/01/08/business/amway-china.html](https://www.nytimes.com/2018/01/08/business/amway-china.html)
 
 ## 希望叔叔回答的问题
-1. 我了解到,一名安利销售的收入大致由两部分决定: PV:
+1. 我了解到,一名安利销售的收入大致由两部分决定. 1. PV 个人及线下购买的产品总和. 2. BV个人
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5NzQ1NzE4LDIxMjM0NjU5MDAsLTE2OD
-QwMzMzNzhdfQ==
+eyJoaXN0b3J5IjpbLTIwOTA5MzE0NTksMjEyMzQ2NTkwMCwtMT
+Y4NDAzMzM3OF19
 -->
