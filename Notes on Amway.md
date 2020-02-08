@@ -14,7 +14,8 @@
 [https://www.nytimes.com/2018/01/08/business/amway-china.html](https://www.nytimes.com/2018/01/08/business/amway-china.html)
 
 ## 希望叔叔回答的问题
-1. 安利是否要求每一位安利员工, 每月购买一定数量的安利产品? 如果有, 
+1. 安利是否要求每一位安利销售, 每月自己购买一定数量的安利产品? 如果有, 数额是多少?
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjc4NjA0NCwtMTY4NDAzMzM3OF19
+eyJoaXN0b3J5IjpbMjEyMzQ2NTkwMCwtMTY4NDAzMzM3OF19
 -->
