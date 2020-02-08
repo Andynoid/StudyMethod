@@ -21,10 +21,12 @@
 
 叔叔早上好!, 周六晚上我花时间了解了一下安利公司的商业模式和现状. 我有下面这几点发现:
 第一部分: 宏观数据.
-一个公司的宏观数据看似和咱们个人的收入没有多大的关系. 但是叔叔的目标是想做到公司的中层位置, 那么我觉得对公司的宏观数据了解也是不可缺少的. 仅仅有销售业务能力bu'zu'yi
+一个公司的宏观数据看似和咱们个人的收入没有多大的关系. 但是叔叔的目标是想做到公司的中层位置, 那么我觉得对公司的宏观数据了解也是不可缺少的. 我认为仅仅有销售业务能力不足够的. 宏观数据由安利中国官网以及国内外权威媒体给出:
+1. 企业规模:
+3. 安利国际2018年营业额
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTYwNjc4OTksLTIwNDE5OTk5MDksLT
+eyJoaXN0b3J5IjpbLTIwODQ1MTQ4MDYsLTIwNDE5OTk5MDksLT
 IwOTA5MzE0NTksMjEyMzQ2NTkwMCwtMTY4NDAzMzM3OF19
 -->
