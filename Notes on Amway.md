@@ -7,6 +7,11 @@
 
 ## 安利市场预期
 于马来西亚
+
+
+## 市场及法律监督
+1. 纽约时报: 安利公司面临中国和美国政府双重指控
+[https://www.nytimes.com/2018/01/08/business/amway-china.html](https://www.nytimes.com/2018/01/08/business/amway-china.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTQzNjk2MV19
+eyJoaXN0b3J5IjpbLTE2ODQwMzMzNzhdfQ==
 -->
