@@ -16,10 +16,9 @@
 [https://www.nytimes.com/2018/01/08/business/amway-china.html](https://www.nytimes.com/2018/01/08/business/amway-china.html)
 
 ## 希望叔叔回答的问题
-1. 安利是否要求每一位安利销售, 每月自己购买一定数量的安利产品? 如果有, 数额是多少?
-2. 叔叔有没有想过把安利作为副业的时候, 可以每月不费太多时间就可以有固定收入? 这样的想法我觉得不是很现实
-3. 
+1. 我了解到,一名安利销售的收入大致由两部分决定: PV:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzc5MzQ5MDEsMjEyMzQ2NTkwMCwtMT
-Y4NDAzMzM3OF19
+eyJoaXN0b3J5IjpbMjg5NzQ1NzE4LDIxMjM0NjU5MDAsLTE2OD
+QwMzMzNzhdfQ==
 -->
