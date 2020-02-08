@@ -20,10 +20,11 @@
 
 
 叔叔早上好!, 周六晚上我花时间了解了一下安利公司的商业模式和现状. 我有下面这几点发现:
-
+第一部分: 宏观数据.
+一个公司的宏观数据一般是hen'h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDE5OTk5MDksLTIwOTA5MzE0NTksMj
-EyMzQ2NTkwMCwtMTY4NDAzMzM3OF19
+eyJoaXN0b3J5IjpbLTg2MjE2NzI2MCwtMjA0MTk5OTkwOSwtMj
+A5MDkzMTQ1OSwyMTIzNDY1OTAwLC0xNjg0MDMzMzc4XX0=
 -->
