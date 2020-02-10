@@ -10,7 +10,7 @@
 我认为在本书的框架下甚至无法讨论这个问题. 除了alpha和beta外, 其他种姓的人 甚至不能和现实社会中的人划等号. 他们的心理, 逻辑,生理都有巨大的改变. 自由,民主这样的词汇对他们毫无意义, 何谈对他们的独裁统治?
 
 书中的社会吸引人吗?
-诚然, 做新世界的alphayo
+诚然, 做新世界的alpha有些许的吸引力. 性和追求感官刺激, 在任何时候都是人类的天性. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM1NzY0MjI2LC02MDg1NjUyOTFdfQ==
+eyJoaXN0b3J5IjpbLTEyNTA5OTc0ODcsLTYwODU2NTI5MV19
 -->
