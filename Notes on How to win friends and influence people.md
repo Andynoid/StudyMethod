@@ -27,7 +27,7 @@
 
 > Remember other people's birthday.
 
-## A simple way to make a good first impression.
+## A simple way to make a good first impression. ---- Smile.
 
 >You don't feel like smiling? Then what? Two things. First, force yourself to smile. If you are alone, force yourself to whistle or hum a tune or sing. Act as if you were already happy, and that will tend to make you happy. Here is the way the psychologist and philosopher William James put it:
 
@@ -36,8 +36,9 @@ How to Win Friends and Influence People
 
 > Picture in your mind the able, earnest, useful person you desire to be, and the thought you hold is hourly transforming you into that particular individual.. . .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODkzOTIzMTAsMjI4MjQ5NzgsMTE5Mj
-MzNTQ1MiwxNjAyMTAzNTAwLC04NTE0Mjk4NjgsLTEwNTA2NjQ0
-OTMsMTQyNzU5ODg5NiwtMTMyMTQ1NTMxOCwtMjA2Mzg0MzE2My
-wtMTg0Mjk2Nzg1NSwxMjU4Njg1MDgzXX0=
+eyJoaXN0b3J5IjpbLTgyNzQ5NDE5MiwtMTM4OTM5MjMxMCwyMj
+gyNDk3OCwxMTkyMzM1NDUyLDE2MDIxMDM1MDAsLTg1MTQyOTg2
+OCwtMTA1MDY2NDQ5MywxNDI3NTk4ODk2LC0xMzIxNDU1MzE4LC
+0yMDYzODQzMTYzLC0xODQyOTY3ODU1LDEyNTg2ODUwODNdfQ==
+
 -->
