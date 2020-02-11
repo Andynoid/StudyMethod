@@ -29,12 +29,10 @@
 
 ## A simple way to make a good first impression.
 
->How to Win Friends and Influence People
-
-You don't feel like smiling? Then what? Two things. First, force yourself to smile. If you are alone, force yourself to whistle or hum a tune or sing. Act as if you were already happy, and that will tend to make you happy. Here is the way the psychologist and philosopher William James put it:
+>You don't feel like smiling? Then what? Two things. First, force yourself to smile. If you are alone, force yourself to whistle or hum a tune or sing. Act as if you were already happy, and that will tend to make you happy. Here is the way the psychologist and philosopher William James put it:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTkzMTU2MDUsMTYwMjEwMzUwMCwtOD
-UxNDI5ODY4LC0xMDUwNjY0NDkzLDE0Mjc1OTg4OTYsLTEzMjE0
-NTUzMTgsLTIwNjM4NDMxNjMsLTE4NDI5Njc4NTUsMTI1ODY4NT
-A4M119
+eyJoaXN0b3J5IjpbMTE5MjMzNTQ1MiwxNjAyMTAzNTAwLC04NT
+E0Mjk4NjgsLTEwNTA2NjQ0OTMsMTQyNzU5ODg5NiwtMTMyMTQ1
+NTMxOCwtMjA2Mzg0MzE2MywtMTg0Mjk2Nzg1NSwxMjU4Njg1MD
+gzXX0=
 -->
