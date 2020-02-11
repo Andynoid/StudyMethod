@@ -32,9 +32,12 @@
 >You don't feel like smiling? Then what? Two things. First, force yourself to smile. If you are alone, force yourself to whistle or hum a tune or sing. Act as if you were already happy, and that will tend to make you happy. Here is the way the psychologist and philosopher William James put it:
 
 >Every body in the world is seeking happiness - and there is one sure way to find it. That is by controlling your thoughts. Happiness doesn't depend on outward conditions. It depends on inner conditions.
+How to Win Friends and Influence People
+
+Picture in your mind the able, earnest, useful person you desire to be, and the thought you hold is hourly transforming you into that particular individual.. . .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4MjQ5NzgsMTE5MjMzNTQ1MiwxNjAyMT
-AzNTAwLC04NTE0Mjk4NjgsLTEwNTA2NjQ0OTMsMTQyNzU5ODg5
-NiwtMTMyMTQ1NTMxOCwtMjA2Mzg0MzE2MywtMTg0Mjk2Nzg1NS
-wxMjU4Njg1MDgzXX0=
+eyJoaXN0b3J5IjpbMTY2ODY0MjkyMCwyMjgyNDk3OCwxMTkyMz
+M1NDUyLDE2MDIxMDM1MDAsLTg1MTQyOTg2OCwtMTA1MDY2NDQ5
+MywxNDI3NTk4ODk2LC0xMzIxNDU1MzE4LC0yMDYzODQzMTYzLC
+0xODQyOTY3ODU1LDEyNTg2ODUwODNdfQ==
 -->
