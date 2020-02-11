@@ -12,12 +12,18 @@
 
 >First, arouse in the other person an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way."
 
+
+
 > If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own.
+
+
 
 # Part 2 - Ways to make people like you.
 
-
+## Principle 1
+>It is the individual who is not interested in his fellow men who has the greatest difjculties in life and provides the greutest injury to others. It is from umong such individuals that all humun failures spring.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzU5ODg5NiwtMTMyMTQ1NTMxOCwtMj
-A2Mzg0MzE2MywtMTg0Mjk2Nzg1NSwxMjU4Njg1MDgzXX0=
+eyJoaXN0b3J5IjpbMTM1NDMxNjk3NCwxNDI3NTk4ODk2LC0xMz
+IxNDU1MzE4LC0yMDYzODQzMTYzLC0xODQyOTY3ODU1LDEyNTg2
+ODUwODNdfQ==
 -->
