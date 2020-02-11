@@ -22,8 +22,10 @@
 
 ## Principle 1
 >It is the individual who is not interested in his fellow men who has the greatest difjculties in life and provides the greutest injury to others. It is from umong such individuals that all humun failures spring.
+
+>You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDMxNjk3NCwxNDI3NTk4ODk2LC0xMz
-IxNDU1MzE4LC0yMDYzODQzMTYzLC0xODQyOTY3ODU1LDEyNTg2
-ODUwODNdfQ==
+eyJoaXN0b3J5IjpbLTEwNTA2NjQ0OTMsMTQyNzU5ODg5NiwtMT
+MyMTQ1NTMxOCwtMjA2Mzg0MzE2MywtMTg0Mjk2Nzg1NSwxMjU4
+Njg1MDgzXX0=
 -->
