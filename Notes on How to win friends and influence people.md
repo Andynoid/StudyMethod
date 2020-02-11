@@ -25,9 +25,11 @@
 
 >You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.
 
+> Remember other people's birthday.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzY3MTIxNSwtMTA1MDY2NDQ5MywxND
+eyJoaXN0b3J5IjpbLTg1MTQyOTg2OCwtMTA1MDY2NDQ5MywxND
 I3NTk4ODk2LC0xMzIxNDU1MzE4LC0yMDYzODQzMTYzLC0xODQy
 OTY3ODU1LDEyNTg2ODUwODNdfQ==
 -->
