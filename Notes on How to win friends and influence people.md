@@ -69,12 +69,17 @@ Remember that the people you are talking to are a hundred times more interested 
 
 ## 1. You can't win an argument.
 
+How to Win Friends and Influence People
+
+* Bits and Pieces, published by The Economics Press, Fairfield, N.J.
+
+Opera tenor Jan Peerce, after he was married nearly fifty years, once said: "My wife and I made a pact a long time ago, and we've kept it no matter how angry we've grown with each other. When one yells, the other should listen-because when two people yell, there is no communication, just noise and bad vibrations."
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzkyMTY4NiwtMTEwMTc3Mzc5MywxNz
-Y5MDc3ODQ3LDg4NTU2OTkwOSw0NTE0NTk1MTIsMTI2NjE0MzEz
-MSwxNzcwNDA5NTAsMTU0MDkyNjgyOSw2ODU4MzA4NTksLTgyNz
-Q5NDE5MiwtMTM4OTM5MjMxMCwyMjgyNDk3OCwxMTkyMzM1NDUy
-LDE2MDIxMDM1MDAsLTg1MTQyOTg2OCwtMTA1MDY2NDQ5MywxND
-I3NTk4ODk2LC0xMzIxNDU1MzE4LC0yMDYzODQzMTYzLC0xODQy
-OTY3ODU1XX0=
+eyJoaXN0b3J5IjpbLTE3MzAzNzMzMzIsMTM3NzkyMTY4NiwtMT
+EwMTc3Mzc5MywxNzY5MDc3ODQ3LDg4NTU2OTkwOSw0NTE0NTk1
+MTIsMTI2NjE0MzEzMSwxNzcwNDA5NTAsMTU0MDkyNjgyOSw2OD
+U4MzA4NTksLTgyNzQ5NDE5MiwtMTM4OTM5MjMxMCwyMjgyNDk3
+OCwxMTkyMzM1NDUyLDE2MDIxMDM1MDAsLTg1MTQyOTg2OCwtMT
+A1MDY2NDQ5MywxNDI3NTk4ODk2LC0xMzIxNDU1MzE4LC0yMDYz
+ODQzMTYzXX0=
 -->
