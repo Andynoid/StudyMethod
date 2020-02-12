@@ -8,6 +8,7 @@
 2. What do you want? ** the desire to be important**
 > Let's cease thinking of our accomplishments, our wants. Let's try to figure out the other person's good points.
 
+- 如何做到sincere
 
 ## Principle 3: Arouse in the other person an eager want.
 
@@ -35,7 +36,10 @@
 How to Win Friends and Influence People
 
 > Picture in your mind the able, earnest, useful person you desire to be, and the thought you hold is hourly transforming you into that particular individual.. . .
-zhen
+
+- 真笑和假笑的区别
+
+
 ### (If you don't do this, you are headed for trouble)
 ## Principle 3:  Remember that a person's name is to that person the sweetest and most important sound in any language.
 
@@ -48,7 +52,7 @@ zhen
 ### An easy way to become a good conversationalist.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjkyMTA4NywxNzcwNDA5NTAsMTU0MD
+eyJoaXN0b3J5IjpbMTI2NjE0MzEzMSwxNzcwNDA5NTAsMTU0MD
 kyNjgyOSw2ODU4MzA4NTksLTgyNzQ5NDE5MiwtMTM4OTM5MjMx
 MCwyMjgyNDk3OCwxMTkyMzM1NDUyLDE2MDIxMDM1MDAsLTg1MT
 QyOTg2OCwtMTA1MDY2NDQ5MywxNDI3NTk4ODk2LC0xMzIxNDU1
