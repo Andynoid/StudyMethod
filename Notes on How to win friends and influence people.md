@@ -87,15 +87,13 @@ Nobody in the heavens above or on earth beneath or in the waters under the earth
 ### If you are wrong, Admit it.
 ## Principle 3 - If you are wrong, admit it quickly and emphatically.
 
-How to Win Friends and Influence People
-
-Come to think it over, I don't entirely agree with it myself. Not everything I wrote yesterday appeals to me today. I am glad to learn what you think on the subject. The next time you are in the neighborhood you must visit us and we'll get this subject threshed out for all time. So here is a handclasp over the miles, and I am,
+> Come to think it over, I don't entirely agree with it myself. Not everything I wrote yesterday appeals to me today. I am glad to learn what you think on the subject. The next time you are in the neighborhood you must visit us and we'll get this subject threshed out for all time. So here is a handclasp over the miles, and I am,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjg0Nzg3MjgsLTIxMzgwOTA0MzksLT
-E3MDMyMzcwMDIsLTExNzgzMjA0MzYsMTgyMjk5MzU4MSwtMTIx
-ODMzNDAwNCwxMzc3OTIxNjg2LC0xMTAxNzczNzkzLDE3NjkwNz
-c4NDcsODg1NTY5OTA5LDQ1MTQ1OTUxMiwxMjY2MTQzMTMxLDE3
-NzA0MDk1MCwxNTQwOTI2ODI5LDY4NTgzMDg1OSwtODI3NDk0MT
-kyLC0xMzg5MzkyMzEwLDIyODI0OTc4LDExOTIzMzU0NTIsMTYw
-MjEwMzUwMF19
+eyJoaXN0b3J5IjpbOTc4MDkxNDc5LC0yMTM4MDkwNDM5LC0xNz
+AzMjM3MDAyLC0xMTc4MzIwNDM2LDE4MjI5OTM1ODEsLTEyMTgz
+MzQwMDQsMTM3NzkyMTY4NiwtMTEwMTc3Mzc5MywxNzY5MDc3OD
+Q3LDg4NTU2OTkwOSw0NTE0NTk1MTIsMTI2NjE0MzEzMSwxNzcw
+NDA5NTAsMTU0MDkyNjgyOSw2ODU4MzA4NTksLTgyNzQ5NDE5Mi
+wtMTM4OTM5MjMxMCwyMjgyNDk3OCwxMTkyMzM1NDUyLDE2MDIx
+MDM1MDBdfQ==
 -->
