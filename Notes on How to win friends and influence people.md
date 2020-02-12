@@ -60,11 +60,13 @@ Remember that the people you are talking to are a hundred times more interested 
 
 ### How to make people like you instantly.
 
+
+> In fact, that law, if obeyed, will bring us countless friends and constant happiness. But the very instant we break the law, we shall get into endless trouble. The law is this: Always make the other person feel important
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1NTY5OTA5LDQ1MTQ1OTUxMiwxMjY2MT
-QzMTMxLDE3NzA0MDk1MCwxNTQwOTI2ODI5LDY4NTgzMDg1OSwt
-ODI3NDk0MTkyLC0xMzg5MzkyMzEwLDIyODI0OTc4LDExOTIzMz
-U0NTIsMTYwMjEwMzUwMCwtODUxNDI5ODY4LC0xMDUwNjY0NDkz
-LDE0Mjc1OTg4OTYsLTEzMjE0NTUzMTgsLTIwNjM4NDMxNjMsLT
-E4NDI5Njc4NTUsMTI1ODY4NTA4M119
+eyJoaXN0b3J5IjpbMTc2OTA3Nzg0Nyw4ODU1Njk5MDksNDUxND
+U5NTEyLDEyNjYxNDMxMzEsMTc3MDQwOTUwLDE1NDA5MjY4Mjks
+Njg1ODMwODU5LC04Mjc0OTQxOTIsLTEzODkzOTIzMTAsMjI4Mj
+Q5NzgsMTE5MjMzNTQ1MiwxNjAyMTAzNTAwLC04NTE0Mjk4Njgs
+LTEwNTA2NjQ0OTMsMTQyNzU5ODg5NiwtMTMyMTQ1NTMxOCwtMj
+A2Mzg0MzE2MywtMTg0Mjk2Nzg1NSwxMjU4Njg1MDgzXX0=
 -->
