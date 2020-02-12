@@ -85,13 +85,13 @@ Nobody in the heavens above or on earth beneath or in the waters under the earth
 >Few people are logical. Most of us are prejudiced and biased. Most of us are blighted with preconceived notions, with jealousy, suspicion, fear, envy and pride. And most citizens don't want to change their minds about their religion or their haircut or communism or their favorite movie star. So, if you are inclined to tell people they are wrong, please read the following paragraph every morning before breakfast.
 
 ### If you are wrong, Admit it.
-
+## Principle 3 - If you are wrong, admit it quickly and emphatically.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDMyMzcwMDIsLTExNzgzMjA0MzYsMT
-gyMjk5MzU4MSwtMTIxODMzNDAwNCwxMzc3OTIxNjg2LC0xMTAx
-NzczNzkzLDE3NjkwNzc4NDcsODg1NTY5OTA5LDQ1MTQ1OTUxMi
-wxMjY2MTQzMTMxLDE3NzA0MDk1MCwxNTQwOTI2ODI5LDY4NTgz
-MDg1OSwtODI3NDk0MTkyLC0xMzg5MzkyMzEwLDIyODI0OTc4LD
-ExOTIzMzU0NTIsMTYwMjEwMzUwMCwtODUxNDI5ODY4LC0xMDUw
-NjY0NDkzXX0=
+eyJoaXN0b3J5IjpbLTIxMzgwOTA0MzksLTE3MDMyMzcwMDIsLT
+ExNzgzMjA0MzYsMTgyMjk5MzU4MSwtMTIxODMzNDAwNCwxMzc3
+OTIxNjg2LC0xMTAxNzczNzkzLDE3NjkwNzc4NDcsODg1NTY5OT
+A5LDQ1MTQ1OTUxMiwxMjY2MTQzMTMxLDE3NzA0MDk1MCwxNTQw
+OTI2ODI5LDY4NTgzMDg1OSwtODI3NDk0MTkyLC0xMzg5MzkyMz
+EwLDIyODI0OTc4LDExOTIzMzU0NTIsMTYwMjEwMzUwMCwtODUx
+NDI5ODY4XX0=
 -->
