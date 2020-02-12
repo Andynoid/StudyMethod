@@ -35,7 +35,7 @@
 How to Win Friends and Influence People
 
 > Picture in your mind the able, earnest, useful person you desire to be, and the thought you hold is hourly transforming you into that particular individual.. . .
-
+zhen
 ### (If you don't do this, you are headed for trouble)
 ## Principle 3:  Remember that a person's name is to that person the sweetest and most important sound in any language.
 
@@ -48,9 +48,10 @@ How to Win Friends and Influence People
 ### An easy way to become a good conversationalist.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDQwOTUwLDE1NDA5MjY4MjksNjg1OD
-MwODU5LC04Mjc0OTQxOTIsLTEzODkzOTIzMTAsMjI4MjQ5Nzgs
-MTE5MjMzNTQ1MiwxNjAyMTAzNTAwLC04NTE0Mjk4NjgsLTEwNT
-A2NjQ0OTMsMTQyNzU5ODg5NiwtMTMyMTQ1NTMxOCwtMjA2Mzg0
-MzE2MywtMTg0Mjk2Nzg1NSwxMjU4Njg1MDgzXX0=
+eyJoaXN0b3J5IjpbMjA0MjkyMTA4NywxNzcwNDA5NTAsMTU0MD
+kyNjgyOSw2ODU4MzA4NTksLTgyNzQ5NDE5MiwtMTM4OTM5MjMx
+MCwyMjgyNDk3OCwxMTkyMzM1NDUyLDE2MDIxMDM1MDAsLTg1MT
+QyOTg2OCwtMTA1MDY2NDQ5MywxNDI3NTk4ODk2LC0xMzIxNDU1
+MzE4LC0yMDYzODQzMTYzLC0xODQyOTY3ODU1LDEyNTg2ODUwOD
+NdfQ==
 -->
