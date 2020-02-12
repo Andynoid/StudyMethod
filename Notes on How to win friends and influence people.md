@@ -82,13 +82,13 @@ You cannot teach a man anything; you can only help him to find it within himself
 > "I may be wrong. I frequently am. Let's examine the facts."
 Nobody in the heavens above or on earth beneath or in the waters under the earth will ever object to your saying: "I may be wrong. Let's examine the facts."
 
-
+>Few people are logical. Most of us are prejudiced and biased. Most of us are blighted with preconceived notions, with jealousy, suspicion, fear, envy and pride. And most citizens don't want to change their minds about their religion or their haircut or communism or their favorite movie star. So, if you are inclined to tell people they are wrong, please read the following paragraph every morning before breakfast.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjE3MjQwNywxODIyOTkzNTgxLC0xMj
-E4MzM0MDA0LDEzNzc5MjE2ODYsLTExMDE3NzM3OTMsMTc2OTA3
-Nzg0Nyw4ODU1Njk5MDksNDUxNDU5NTEyLDEyNjYxNDMxMzEsMT
-c3MDQwOTUwLDE1NDA5MjY4MjksNjg1ODMwODU5LC04Mjc0OTQx
-OTIsLTEzODkzOTIzMTAsMjI4MjQ5NzgsMTE5MjMzNTQ1MiwxNj
-AyMTAzNTAwLC04NTE0Mjk4NjgsLTEwNTA2NjQ0OTMsMTQyNzU5
-ODg5Nl19
+eyJoaXN0b3J5IjpbLTExNzgzMjA0MzYsMTgyMjk5MzU4MSwtMT
+IxODMzNDAwNCwxMzc3OTIxNjg2LC0xMTAxNzczNzkzLDE3Njkw
+Nzc4NDcsODg1NTY5OTA5LDQ1MTQ1OTUxMiwxMjY2MTQzMTMxLD
+E3NzA0MDk1MCwxNTQwOTI2ODI5LDY4NTgzMDg1OSwtODI3NDk0
+MTkyLC0xMzg5MzkyMzEwLDIyODI0OTc4LDExOTIzMzU0NTIsMT
+YwMjEwMzUwMCwtODUxNDI5ODY4LC0xMDUwNjY0NDkzLDE0Mjc1
+OTg4OTZdfQ==
 -->
