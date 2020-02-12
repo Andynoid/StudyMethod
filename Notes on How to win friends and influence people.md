@@ -62,11 +62,14 @@ Remember that the people you are talking to are a hundred times more interested 
 
 
 > In fact, that law, if obeyed, will bring us countless friends and constant happiness. But the very instant we break the law, we shall get into endless trouble. The law is this: Always make the other person feel important
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTA3Nzg0Nyw4ODU1Njk5MDksNDUxND
-U5NTEyLDEyNjYxNDMxMzEsMTc3MDQwOTUwLDE1NDA5MjY4Mjks
-Njg1ODMwODU5LC04Mjc0OTQxOTIsLTEzODkzOTIzMTAsMjI4Mj
-Q5NzgsMTE5MjMzNTQ1MiwxNjAyMTAzNTAwLC04NTE0Mjk4Njgs
-LTEwNTA2NjQ0OTMsMTQyNzU5ODg5NiwtMTMyMTQ1NTMxOCwtMj
-A2Mzg0MzE2MywtMTg0Mjk2Nzg1NSwxMjU4Njg1MDgzXX0=
+eyJoaXN0b3J5IjpbLTE0NDI4ODkyOTMsMTc2OTA3Nzg0Nyw4OD
+U1Njk5MDksNDUxNDU5NTEyLDEyNjYxNDMxMzEsMTc3MDQwOTUw
+LDE1NDA5MjY4MjksNjg1ODMwODU5LC04Mjc0OTQxOTIsLTEzOD
+kzOTIzMTAsMjI4MjQ5NzgsMTE5MjMzNTQ1MiwxNjAyMTAzNTAw
+LC04NTE0Mjk4NjgsLTEwNTA2NjQ0OTMsMTQyNzU5ODg5NiwtMT
+MyMTQ1NTMxOCwtMjA2Mzg0MzE2MywtMTg0Mjk2Nzg1NSwxMjU4
+Njg1MDgzXX0=
 -->
