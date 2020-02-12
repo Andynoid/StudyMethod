@@ -75,7 +75,7 @@ Opera tenor Jan Peerce, after he was married nearly fifty years, once said: "My 
 
 
 ### A sure way of making enemies and how to avoid it.
-
+## Principle 2: Show respect for the other person's opinions. Never say, " you are wrong."
 > Over three hundred years ago Galileo said:
 You cannot teach a man anything; you can only help him to find it within himself.
 
@@ -83,12 +83,15 @@ You cannot teach a man anything; you can only help him to find it within himself
 Nobody in the heavens above or on earth beneath or in the waters under the earth will ever object to your saying: "I may be wrong. Let's examine the facts."
 
 >Few people are logical. Most of us are prejudiced and biased. Most of us are blighted with preconceived notions, with jealousy, suspicion, fear, envy and pride. And most citizens don't want to change their minds about their religion or their haircut or communism or their favorite movie star. So, if you are inclined to tell people they are wrong, please read the following paragraph every morning before breakfast.
+
+### If you are wrong, Admit it.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzgzMjA0MzYsMTgyMjk5MzU4MSwtMT
-IxODMzNDAwNCwxMzc3OTIxNjg2LC0xMTAxNzczNzkzLDE3Njkw
-Nzc4NDcsODg1NTY5OTA5LDQ1MTQ1OTUxMiwxMjY2MTQzMTMxLD
-E3NzA0MDk1MCwxNTQwOTI2ODI5LDY4NTgzMDg1OSwtODI3NDk0
-MTkyLC0xMzg5MzkyMzEwLDIyODI0OTc4LDExOTIzMzU0NTIsMT
-YwMjEwMzUwMCwtODUxNDI5ODY4LC0xMDUwNjY0NDkzLDE0Mjc1
-OTg4OTZdfQ==
+eyJoaXN0b3J5IjpbLTE3MDMyMzcwMDIsLTExNzgzMjA0MzYsMT
+gyMjk5MzU4MSwtMTIxODMzNDAwNCwxMzc3OTIxNjg2LC0xMTAx
+NzczNzkzLDE3NjkwNzc4NDcsODg1NTY5OTA5LDQ1MTQ1OTUxMi
+wxMjY2MTQzMTMxLDE3NzA0MDk1MCwxNTQwOTI2ODI5LDY4NTgz
+MDg1OSwtODI3NDk0MTkyLC0xMzg5MzkyMzEwLDIyODI0OTc4LD
+ExOTIzMzU0NTIsMTYwMjEwMzUwMCwtODUxNDI5ODY4LC0xMDUw
+NjY0NDkzXX0=
 -->
