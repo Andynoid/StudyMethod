@@ -50,12 +50,14 @@ How to Win Friends and Influence People
 >His technique? Simple. If he didn't hear the name distinctly, he said, "So sorry. I didn't get the name clearly." Then, if it was an unusual name, he would say, "How is it spelled?"
 
 ### An easy way to become a good conversationalist.
+How to Win Friends and Influence People
 
+Remember that the people you are talking to are a hundred times more interested in themselves and their wants and problems than they are in you and your problems.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjE0MzEzMSwxNzcwNDA5NTAsMTU0MD
-kyNjgyOSw2ODU4MzA4NTksLTgyNzQ5NDE5MiwtMTM4OTM5MjMx
-MCwyMjgyNDk3OCwxMTkyMzM1NDUyLDE2MDIxMDM1MDAsLTg1MT
-QyOTg2OCwtMTA1MDY2NDQ5MywxNDI3NTk4ODk2LC0xMzIxNDU1
-MzE4LC0yMDYzODQzMTYzLC0xODQyOTY3ODU1LDEyNTg2ODUwOD
-NdfQ==
+eyJoaXN0b3J5IjpbLTExMjg0MjAxMiwxMjY2MTQzMTMxLDE3Nz
+A0MDk1MCwxNTQwOTI2ODI5LDY4NTgzMDg1OSwtODI3NDk0MTky
+LC0xMzg5MzkyMzEwLDIyODI0OTc4LDExOTIzMzU0NTIsMTYwMj
+EwMzUwMCwtODUxNDI5ODY4LC0xMDUwNjY0NDkzLDE0Mjc1OTg4
+OTYsLTEzMjE0NTUzMTgsLTIwNjM4NDMxNjMsLTE4NDI5Njc4NT
+UsMTI1ODY4NTA4M119
 -->
