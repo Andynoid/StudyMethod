@@ -59,17 +59,19 @@ Remember that the people you are talking to are a hundred times more interested 
 ## Principle 5 - Talk in terms of the other person's interests.
 
 ### How to make people like you instantly.
+How to Win Friends and Influence People
 
+Principle 6 - Make the other person feel important-and do it sincerely.
 
 > In fact, that law, if obeyed, will bring us countless friends and constant happiness. But the very instant we break the law, we shall get into endless trouble. The law is this: Always make the other person feel important
 
 >Confucius preached it in China twenty-four centuries ago. Lao-tse, the founder of Taoism, taught it to his disciples in the Valley of the Han. Buddha preached it on the bank of the Holy Ganges five hundred years before Christ. The sacred books of Hinduism taught it a thousand years before that. Jesus taught it among the stony hills of Judea nineteen centuries ago. Jesus summed it up in one thought -probably the most important rule in the world: "Do unto others as you would have others do unto you."
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDE3NzM3OTMsMTc2OTA3Nzg0Nyw4OD
-U1Njk5MDksNDUxNDU5NTEyLDEyNjYxNDMxMzEsMTc3MDQwOTUw
-LDE1NDA5MjY4MjksNjg1ODMwODU5LC04Mjc0OTQxOTIsLTEzOD
-kzOTIzMTAsMjI4MjQ5NzgsMTE5MjMzNTQ1MiwxNjAyMTAzNTAw
-LC04NTE0Mjk4NjgsLTEwNTA2NjQ0OTMsMTQyNzU5ODg5NiwtMT
-MyMTQ1NTMxOCwtMjA2Mzg0MzE2MywtMTg0Mjk2Nzg1NSwxMjU4
-Njg1MDgzXX0=
+eyJoaXN0b3J5IjpbLTE0NzI4ODgzMTcsLTExMDE3NzM3OTMsMT
+c2OTA3Nzg0Nyw4ODU1Njk5MDksNDUxNDU5NTEyLDEyNjYxNDMx
+MzEsMTc3MDQwOTUwLDE1NDA5MjY4MjksNjg1ODMwODU5LC04Mj
+c0OTQxOTIsLTEzODkzOTIzMTAsMjI4MjQ5NzgsMTE5MjMzNTQ1
+MiwxNjAyMTAzNTAwLC04NTE0Mjk4NjgsLTEwNTA2NjQ0OTMsMT
+QyNzU5ODg5NiwtMTMyMTQ1NTMxOCwtMjA2Mzg0MzE2MywtMTg0
+Mjk2Nzg1NV19
 -->
