@@ -76,12 +76,14 @@ Opera tenor Jan Peerce, after he was married nearly fifty years, once said: "My 
 
 ### A sure way of making enemies and how to avoid it.
 
+> Over three hundred years ago Galileo said:
+You cannot teach a man anything; you can only help him to find it within himself.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTgzMzQwMDQsMTM3NzkyMTY4NiwtMT
-EwMTc3Mzc5MywxNzY5MDc3ODQ3LDg4NTU2OTkwOSw0NTE0NTk1
-MTIsMTI2NjE0MzEzMSwxNzcwNDA5NTAsMTU0MDkyNjgyOSw2OD
-U4MzA4NTksLTgyNzQ5NDE5MiwtMTM4OTM5MjMxMCwyMjgyNDk3
-OCwxMTkyMzM1NDUyLDE2MDIxMDM1MDAsLTg1MTQyOTg2OCwtMT
-A1MDY2NDQ5MywxNDI3NTk4ODk2LC0xMzIxNDU1MzE4LC0yMDYz
-ODQzMTYzXX0=
+eyJoaXN0b3J5IjpbLTY4NTgxOTc3NCwtMTIxODMzNDAwNCwxMz
+c3OTIxNjg2LC0xMTAxNzczNzkzLDE3NjkwNzc4NDcsODg1NTY5
+OTA5LDQ1MTQ1OTUxMiwxMjY2MTQzMTMxLDE3NzA0MDk1MCwxNT
+QwOTI2ODI5LDY4NTgzMDg1OSwtODI3NDk0MTkyLC0xMzg5Mzky
+MzEwLDIyODI0OTc4LDExOTIzMzU0NTIsMTYwMjEwMzUwMCwtOD
+UxNDI5ODY4LC0xMDUwNjY0NDkzLDE0Mjc1OTg4OTYsLTEzMjE0
+NTUzMThdfQ==
 -->
