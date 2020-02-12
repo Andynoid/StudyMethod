@@ -56,12 +56,14 @@ Remember that the people you are talking to are a hundred times more interested 
 
 
 ### How to interest people.
+How to Win Friends and Influence People
 
+Principle 5 - Talk in terms of the other person's interests.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxNDU5NTEyLDEyNjYxNDMxMzEsMTc3MD
-QwOTUwLDE1NDA5MjY4MjksNjg1ODMwODU5LC04Mjc0OTQxOTIs
-LTEzODkzOTIzMTAsMjI4MjQ5NzgsMTE5MjMzNTQ1MiwxNjAyMT
-AzNTAwLC04NTE0Mjk4NjgsLTEwNTA2NjQ0OTMsMTQyNzU5ODg5
-NiwtMTMyMTQ1NTMxOCwtMjA2Mzg0MzE2MywtMTg0Mjk2Nzg1NS
-wxMjU4Njg1MDgzXX0=
+eyJoaXN0b3J5IjpbLTcyMDM5OTQzNyw0NTE0NTk1MTIsMTI2Nj
+E0MzEzMSwxNzcwNDA5NTAsMTU0MDkyNjgyOSw2ODU4MzA4NTks
+LTgyNzQ5NDE5MiwtMTM4OTM5MjMxMCwyMjgyNDk3OCwxMTkyMz
+M1NDUyLDE2MDIxMDM1MDAsLTg1MTQyOTg2OCwtMTA1MDY2NDQ5
+MywxNDI3NTk4ODk2LC0xMzIxNDU1MzE4LC0yMDYzODQzMTYzLC
+0xODQyOTY3ODU1LDEyNTg2ODUwODNdfQ==
 -->
