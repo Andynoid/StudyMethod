@@ -50,14 +50,18 @@ How to Win Friends and Influence People
 >His technique? Simple. If he didn't hear the name distinctly, he said, "So sorry. I didn't get the name clearly." Then, if it was an unusual name, he would say, "How is it spelled?"
 
 ### An easy way to become a good conversationalist.
-How to Win Friends and Influence People
+## Principle 4 - Be a good listener. Encourage others to talk about themselves.
 
 Remember that the people you are talking to are a hundred times more interested in themselves and their wants and problems than they are in you and your problems.
+
+
+### How to interest people.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjg0MjAxMiwxMjY2MTQzMTMxLDE3Nz
-A0MDk1MCwxNTQwOTI2ODI5LDY4NTgzMDg1OSwtODI3NDk0MTky
-LC0xMzg5MzkyMzEwLDIyODI0OTc4LDExOTIzMzU0NTIsMTYwMj
-EwMzUwMCwtODUxNDI5ODY4LC0xMDUwNjY0NDkzLDE0Mjc1OTg4
-OTYsLTEzMjE0NTUzMTgsLTIwNjM4NDMxNjMsLTE4NDI5Njc4NT
-UsMTI1ODY4NTA4M119
+eyJoaXN0b3J5IjpbNDUxNDU5NTEyLDEyNjYxNDMxMzEsMTc3MD
+QwOTUwLDE1NDA5MjY4MjksNjg1ODMwODU5LC04Mjc0OTQxOTIs
+LTEzODkzOTIzMTAsMjI4MjQ5NzgsMTE5MjMzNTQ1MiwxNjAyMT
+AzNTAwLC04NTE0Mjk4NjgsLTEwNTA2NjQ0OTMsMTQyNzU5ODg5
+NiwtMTMyMTQ1NTMxOCwtMjA2Mzg0MzE2MywtMTg0Mjk2Nzg1NS
+wxMjU4Njg1MDgzXX0=
 -->
