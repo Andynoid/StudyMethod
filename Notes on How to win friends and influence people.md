@@ -35,10 +35,13 @@
 How to Win Friends and Influence People
 
 > Picture in your mind the able, earnest, useful person you desire to be, and the thought you hold is hourly transforming you into that particular individual.. . .
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzQ5NDE5MiwtMTM4OTM5MjMxMCwyMj
-gyNDk3OCwxMTkyMzM1NDUyLDE2MDIxMDM1MDAsLTg1MTQyOTg2
-OCwtMTA1MDY2NDQ5MywxNDI3NTk4ODk2LC0xMzIxNDU1MzE4LC
-0yMDYzODQzMTYzLC0xODQyOTY3ODU1LDEyNTg2ODUwODNdfQ==
 
+## If you don't do this, you are headed for trouble.
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjg1ODMwODU5LC04Mjc0OTQxOTIsLTEzOD
+kzOTIzMTAsMjI4MjQ5NzgsMTE5MjMzNTQ1MiwxNjAyMTAzNTAw
+LC04NTE0Mjk4NjgsLTEwNTA2NjQ0OTMsMTQyNzU5ODg5NiwtMT
+MyMTQ1NTMxOCwtMjA2Mzg0MzE2MywtMTg0Mjk2Nzg1NSwxMjU4
+Njg1MDgzXX0=
 -->
