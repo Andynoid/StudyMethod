@@ -78,8 +78,10 @@ Opera tenor Jan Peerce, after he was married nearly fifty years, once said: "My 
 
 > Over three hundred years ago Galileo said:
 You cannot teach a man anything; you can only help him to find it within himself.
+
+> "I may be wrong. I frequently am. Let's examine the facts."
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTgxOTc3NCwtMTIxODMzNDAwNCwxMz
+eyJoaXN0b3J5IjpbLTExNjU5MDAzMCwtMTIxODMzNDAwNCwxMz
 c3OTIxNjg2LC0xMTAxNzczNzkzLDE3NjkwNzc4NDcsODg1NTY5
 OTA5LDQ1MTQ1OTUxMiwxMjY2MTQzMTMxLDE3NzA0MDk1MCwxNT
 QwOTI2ODI5LDY4NTgzMDg1OSwtODI3NDk0MTkyLC0xMzg5Mzky
