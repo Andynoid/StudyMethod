@@ -63,9 +63,9 @@ Remember that the people you are talking to are a hundred times more interested 
 
 > In fact, that law, if obeyed, will bring us countless friends and constant happiness. But the very instant we break the law, we shall get into endless trouble. The law is this: Always make the other person feel important
 
-
+>Confucius preached it in China twenty-four centuries ago. Lao-tse, the founder of Taoism, taught it to his disciples in the Valley of the Han. Buddha preached it on the bank of the Holy Ganges five hundred years before Christ. The sacred books of Hinduism taught it a thousand years before that. Jesus taught it among the stony hills of Judea nineteen centuries ago. Jesus summed it up in one thought -probably the most important rule in the world: "Do unto others as you would have others do unto you."
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDI4ODkyOTMsMTc2OTA3Nzg0Nyw4OD
+eyJoaXN0b3J5IjpbLTExMDE3NzM3OTMsMTc2OTA3Nzg0Nyw4OD
 U1Njk5MDksNDUxNDU5NTEyLDEyNjYxNDMxMzEsMTc3MDQwOTUw
 LDE1NDA5MjY4MjksNjg1ODMwODU5LC04Mjc0OTQxOTIsLTEzOD
 kzOTIzMTAsMjI4MjQ5NzgsMTE5MjMzNTQ1MiwxNjAyMTAzNTAw
