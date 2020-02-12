@@ -38,9 +38,13 @@ How to Win Friends and Influence People
 
 ## If you don't do this, you are headed for trouble.
 
+>Franklin D. Roosevelt knew that one of the simplest, most obvious and most important ways of gaining good will was by remembering names and making people feel important - yet how many of us do it?
 
+>Half the time we are introduced to a stranger, we chat a few minutes and can't even remember his or her name by the time we say goodbye.
+
+>His technique? Simple. If he didn't hear the name distinctly, he said, "So sorry. I didn't get the name clearly." Then, if it was an unusual name, he would say, "How is it spelled?"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzkyMjM3NSw2ODU4MzA4NTksLTgyNz
+eyJoaXN0b3J5IjpbMTU0MDkyNjgyOSw2ODU4MzA4NTksLTgyNz
 Q5NDE5MiwtMTM4OTM5MjMxMCwyMjgyNDk3OCwxMTkyMzM1NDUy
 LDE2MDIxMDM1MDAsLTg1MTQyOTg2OCwtMTA1MDY2NDQ5MywxND
 I3NTk4ODk2LC0xMzIxNDU1MzE4LC0yMDYzODQzMTYzLC0xODQy
