@@ -12,8 +12,9 @@ $O(nlog_n)$
 $O(n)$ linear search $\Omega (1)$
 $O(log_n)$ binary search $\Omega 1$
 
+2. Recursion.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTg2OTQ1MDIsLTEwNDcyODIyNDIsLT
+eyJoaXN0b3J5IjpbLTE0Nzc2MzQ1MzYsLTEwNDcyODIyNDIsLT
 Y5OTEzMDE0NCwyMDU4ODc3NzAwLDI4MDg1NTQzOF19
 -->
