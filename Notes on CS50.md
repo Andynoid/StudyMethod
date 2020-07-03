@@ -6,8 +6,9 @@
 1. Algorithm complexity. 
 - "Big O"  notation. Upper bound of complexity (worst case). "More Important in practical use"
 - $\Omega$ notation,  lower bound (best case). 
+
 $O(n)$ linear search $\Omega 1$
 $O(log_n)$ binary search $\Omega 1$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwODU1NDM4XX0=
+eyJoaXN0b3J5IjpbMTczODA3MzcyNCwyODA4NTU0MzhdfQ==
 -->
