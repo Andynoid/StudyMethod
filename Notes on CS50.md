@@ -6,8 +6,8 @@
 1. Algorithm complexity. 
 - "Big O"  notation. Upper bound of complexity (worst case). "More Important in practical use"
 - $\Omega$ notation,  lower bound (best case). 
-$O(n^2)$ Bubble sort , Selection sort $\Omega(n^2)$
 
+$O(n^2)$ Bubble sort , Selection sort $\Omega(n^2)$
 $O(nlogn)$  
 $O(n)$ linear search $\Omega (1)$
 $O(logn)$ binary search $\Omega 1$
@@ -15,9 +15,9 @@ $O(logn)$ binary search $\Omega 1$
 2. Recursion.
 
 3. By using recursion
-$O(nlogn)$ merge sort $O(nlogn)$
+Merge sort  = $\Theta(nlogn)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzk5MTEyNiwtMTQ3NzYzNDUzNiwtMT
-A0NzI4MjI0MiwtNjk5MTMwMTQ0LDIwNTg4Nzc3MDAsMjgwODU1
-NDM4XX0=
+eyJoaXN0b3J5IjpbOTcxMTU1OTA2LC0xNDc3NjM0NTM2LC0xMD
+Q3MjgyMjQyLC02OTkxMzAxNDQsMjA1ODg3NzcwMCwyODA4NTU0
+MzhdfQ==
 -->
