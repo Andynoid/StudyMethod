@@ -6,9 +6,10 @@
 1. Algorithm complexity. 
 - "Big O"  notation. Upper bound of complexity (worst case). "More Important in practical use"
 - $\Omega$ notation,  lower bound (best case). 
-
-$O(n)$ linear search $\Omega 1$
+$O(n^2)$ Bubble sort $\Omega(n^2)$
+$O(nlog_n)$ 
+$O(n)$ linear search $\Omega (1)$
 $O(log_n)$ binary search $\Omega 1$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODA3MzcyNCwyODA4NTU0MzhdfQ==
+eyJoaXN0b3J5IjpbMjA1ODg3NzcwMCwyODA4NTU0MzhdfQ==
 -->
