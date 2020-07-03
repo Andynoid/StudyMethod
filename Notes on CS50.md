@@ -8,13 +8,16 @@
 - $\Omega$ notation,  lower bound (best case). 
 $O(n^2)$ Bubble sort , Selection sort $\Omega(n^2)$
 
-$O(nlog_n)$  
+$O(nlogn)$  
 $O(n)$ linear search $\Omega (1)$
-$O(log_n)$ binary search $\Omega 1$
+$O(logn)$ binary search $\Omega 1$
 
 2. Recursion.
 
+3. By using recursion
+$O(nlogn)$ merge sort $O(nlogn)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc2MzQ1MzYsLTEwNDcyODIyNDIsLT
-Y5OTEzMDE0NCwyMDU4ODc3NzAwLDI4MDg1NTQzOF19
+eyJoaXN0b3J5IjpbLTcyNzk5MTEyNiwtMTQ3NzYzNDUzNiwtMT
+A0NzI4MjI0MiwtNjk5MTMwMTQ0LDIwNTg4Nzc3MDAsMjgwODU1
+NDM4XX0=
 -->
