@@ -5,9 +5,9 @@
 # Week 3 Algorithms
 1. Algorithm complexity. 
 - "Big O"  notation.
-O(n) linear search
-O(log n) binary search
-- \omega
+$O(n)$ linear search
+$O(log n)$ binary search
+- $\Omega$ notation, Upper bound.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTExMjI2NF19
+eyJoaXN0b3J5IjpbMTkyMzE4MTk0Ml19
 -->
