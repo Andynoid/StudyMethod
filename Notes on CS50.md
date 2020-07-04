@@ -23,10 +23,14 @@ Merge sort  = $\Theta(nlogn)$
 15 = 0xF = 1111
 16 = 0x10 = 1 0000
 
-### 
+### Pointer
+int n = 50
+int *p = n;
+
+p is a address of the integer n, AKA a pointer.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzUxNzU4OSwtMTg4MDE1MjEwNiwxOD
-kxOTQ1MDM4LC0xOTQwNTI2MDA3LDk3MTE1NTkwNiwtMTQ3NzYz
-NDUzNiwtMTA0NzI4MjI0MiwtNjk5MTMwMTQ0LDIwNTg4Nzc3MD
-AsMjgwODU1NDM4XX0=
+eyJoaXN0b3J5IjpbNTI0NDY4OTY4LC0xODgwMTUyMTA2LDE4OT
+E5NDUwMzgsLTE5NDA1MjYwMDcsOTcxMTU1OTA2LC0xNDc3NjM0
+NTM2LC0xMDQ3MjgyMjQyLC02OTkxMzAxNDQsMjA1ODg3NzcwMC
+wyODA4NTU0MzhdfQ==
 -->
