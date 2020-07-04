@@ -34,11 +34,13 @@ p is an address of the integer n, AKA a pointer.
 2. 
 > Copy: i = j, actually copies the pointer of j.
 
-
+### Malloc and free.
+> malloc = memory allocation.
+> free = 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1OTU1MDE1LC0yMTE5NTE4OTk3LC0yMz
-c4NzMxOTEsNTI0NDY4OTY4LC0xODgwMTUyMTA2LDE4OTE5NDUw
-MzgsLTE5NDA1MjYwMDcsOTcxMTU1OTA2LC0xNDc3NjM0NTM2LC
-0xMDQ3MjgyMjQyLC02OTkxMzAxNDQsMjA1ODg3NzcwMCwyODA4
-NTU0MzhdfQ==
+eyJoaXN0b3J5IjpbMTc2MTUxMzAyMCwtMjExOTUxODk5NywtMj
+M3ODczMTkxLDUyNDQ2ODk2OCwtMTg4MDE1MjEwNiwxODkxOTQ1
+MDM4LC0xOTQwNTI2MDA3LDk3MTE1NTkwNiwtMTQ3NzYzNDUzNi
+wtMTA0NzI4MjI0MiwtNjk5MTMwMTQ0LDIwNTg4Nzc3MDAsMjgw
+ODU1NDM4XX0=
 -->
