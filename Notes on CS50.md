@@ -27,11 +27,12 @@ Merge sort  = $\Theta(nlogn)$
 int n = 50
 int *p = n;
 
-p is a address of the integer n, AKA a pointer.
+p is an address of the integer n, AKA a pointer.
 
-
+1. 
+> String is a pointer to characters.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjcwOTQzNiw1MjQ0Njg5NjgsLTE4OD
+eyJoaXN0b3J5IjpbLTIzNzg3MzE5MSw1MjQ0Njg5NjgsLTE4OD
 AxNTIxMDYsMTg5MTk0NTAzOCwtMTk0MDUyNjAwNyw5NzExNTU5
 MDYsLTE0Nzc2MzQ1MzYsLTEwNDcyODIyNDIsLTY5OTEzMDE0NC
 wyMDU4ODc3NzAwLDI4MDg1NTQzOF19
