@@ -18,9 +18,12 @@ $O(logn)$ binary search $\Omega 1$
 Merge sort  = $\Theta(nlogn)$
 
 # Week 4 Memory
-1. 
+### Hexa- decimal.
+255 = FF = 1111 1111
+15 = F = 1111
+16 = 10 = 1 0000
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDA1MjYwMDcsOTcxMTU1OTA2LC0xND
-c3NjM0NTM2LC0xMDQ3MjgyMjQyLC02OTkxMzAxNDQsMjA1ODg3
-NzcwMCwyODA4NTU0MzhdfQ==
+eyJoaXN0b3J5IjpbMTg5MTk0NTAzOCwtMTk0MDUyNjAwNyw5Nz
+ExNTU5MDYsLTE0Nzc2MzQ1MzYsLTEwNDcyODIyNDIsLTY5OTEz
+MDE0NCwyMDU4ODc3NzAwLDI4MDg1NTQzOF19
 -->
