@@ -31,10 +31,11 @@ p is an address of the integer n, AKA a pointer.
 
 1. 
 > String is a pointer to characters.
-
+2. 
+> Copy: i = j, actually copies the pointer of j.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDcxNTg0NywtMjM3ODczMTkxLDUyND
-Q2ODk2OCwtMTg4MDE1MjEwNiwxODkxOTQ1MDM4LC0xOTQwNTI2
-MDA3LDk3MTE1NTkwNiwtMTQ3NzYzNDUzNiwtMTA0NzI4MjI0Mi
-wtNjk5MTMwMTQ0LDIwNTg4Nzc3MDAsMjgwODU1NDM4XX0=
+eyJoaXN0b3J5IjpbLTIxMTk1MTg5OTcsLTIzNzg3MzE5MSw1Mj
+Q0Njg5NjgsLTE4ODAxNTIxMDYsMTg5MTk0NTAzOCwtMTk0MDUy
+NjAwNyw5NzExNTU5MDYsLTE0Nzc2MzQ1MzYsLTEwNDcyODIyND
+IsLTY5OTEzMDE0NCwyMDU4ODc3NzAwLDI4MDg1NTQzOF19
 -->
