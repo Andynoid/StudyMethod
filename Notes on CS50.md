@@ -16,8 +16,11 @@ $O(logn)$ binary search $\Omega 1$
 
 3. By using recursion
 Merge sort  = $\Theta(nlogn)$
+
+# Week 4 Memory
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxMTU1OTA2LC0xNDc3NjM0NTM2LC0xMD
-Q3MjgyMjQyLC02OTkxMzAxNDQsMjA1ODg3NzcwMCwyODA4NTU0
-MzhdfQ==
+eyJoaXN0b3J5IjpbLTE5NDA1MjYwMDcsOTcxMTU1OTA2LC0xND
+c3NjM0NTM2LC0xMDQ3MjgyMjQyLC02OTkxMzAxNDQsMjA1ODg3
+NzcwMCwyODA4NTU0MzhdfQ==
 -->
